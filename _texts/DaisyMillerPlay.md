@@ -8,12 +8,8 @@ source: "James, Henry. Daisy Miller: A Comedy in Three Acts. Boston, MA: Houghto
 # _Daisy Miller_, A Comedy in Three Acts, 
 ## HENRY JAMES
 
-BOSTON 
-JAMES R. OSGOOD  
-AND COMPANY 1883 
 
-
-#### _Dramatis Personae_ 
+### _Dramatis Personae_ 
 Frederick Winterbourne.    
 Mrs. Costello.  
 Charles Reverdy.    
