@@ -5,9 +5,6 @@ author: Henry James
 publication-date: 1883
 source: "James, Henry. Daisy Miller: A Comedy in Three Acts. Boston, MA: Houghton Mifflin and Osgood, 1883."
 ---
-# _Daisy Miller_, A Comedy in Three Acts, 
-## HENRY JAMES
-
 
 ### _Dramatis Personae_ 
 Frederick Winterbourne.    
