@@ -13,14 +13,18 @@ JAMES R. OSGOOD
 AND COMPANY 1883 
 
 
-
-DRAMATIS PERSONAE 
-FREDERICK WINTERBOURNE. MRS. COSTELLO.
-CHARLES REVERDY.  MADAME DE KATKOFF. 
-GIACOMO GIOVANELLI. ALICE DURANT.
-EUGENIO. MRS. WALKER.
-RANDOLPH MILLER.  DAISY MILLER. 
-A WAITER.
+#### _Dramatis Personae_ 
+Frederick Winterbourne.    
+Mrs. Costello.  
+Charles Reverdy.    
+Madame De Katkoff.   
+Giacomo Giovanelli.   
+Alice Durant.  
+Eugenio.   
+Mrs. Walker.  
+Randolph Miller.    
+Daisy Miller.   
+A Waiter.  
 An Hotel on the Lake of Geneva . . . . . ACT I. The Promenade of the Pincian, Rome . . . . “II.
 An Hotel in Rome . . . . . . . . . . .  “III.
   
