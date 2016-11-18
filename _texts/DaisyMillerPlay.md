@@ -5,19 +5,14 @@ author: Henry James
 publication-date: 1883
 source: "James, Henry. Daisy Miller: A Comedy in Three Acts. Boston, MA: Houghton Mifflin and Osgood, 1883."
 ---
-## _Daisy Miller_, A Comedy in Three Acts, 
-# HENRY JAMES
+# _Daisy Miller_, A Comedy in Three Acts, 
+## HENRY JAMES
 
 BOSTON 
 JAMES R. OSGOOD  
-AND COMPANY I883 
+AND COMPANY 1883 
 
-Copyright, 1883, 
-BY HOUGHTON, MIFFLIN AND COMPANY, AND JAMES R. OSGOOD AND COMPANY. 
-All rights reserved. 
-CAMBRIDGE
-PRINTED BY JOHN WILSON AND SON,
-UNIVERSITY PRESS. 
+
 
 DRAMATIS PERSONAE 
 FREDERICK WINTERBOURNE. MRS. COSTELLO.
@@ -6370,6 +6365,8 @@ not, Daisy — in America? 
 DAISY, who has risen to her feet, leaning on his arm. 
 Oh, yes; you ought to go home!
 
-
+Copyright, 1883, 
+By Houghton, Mifflin and Company, and James R. Osgood and Company. 
+All rights reserved. 
 Cambridge: University Press, John Wilson & Son. 
 
