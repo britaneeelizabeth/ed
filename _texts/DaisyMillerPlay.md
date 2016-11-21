@@ -24,9 +24,6 @@ The Promenade of the Pincian, Rome . . . . Act II.
 An Hotel in Rome . . . . . . . . . . . . . . . . . . . . Act III.
 
 
-DAISY MILLER 
-A Comedy 
-
 **Act First**
 
 
