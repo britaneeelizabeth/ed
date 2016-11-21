@@ -36,7 +36,7 @@ and of the lake, with the Chateau de Chillon. Orange-trees
 in green tubs, benches, a few small tables and chairs. 
 
 <p align="center">SCENE FIRST.</p> 
-MADAME DE KATKOFF, EUGENIO. 
+<p align="center">Madame De Katkoff, Eugenio.</p>   
 MADAME DE KATKOFF, coming in as if a little startled, with a French book in a pink cover under her arm. 
 I believe he means to speak to me! He is capable of any impertinence. 
 
