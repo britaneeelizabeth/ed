@@ -35,7 +35,7 @@ posed to descend to a pier. Beyond this a distant view of mountains
 and of the lake, with the Chateau de Chillon. Orange-trees 
 in green tubs, benches, a few small tables and chairs.</p> 
 
-<p align="center">SCENE FIRST, Madame De Katkoff, Eugenio.</p>  
+<p align="center">SCENE FIRST. Madame De Katkoff, Eugenio.</p>  
 <p align="center">MADAME DE KATKOFF,</p>
 <p align="center"><i>coming in as if a little startled, with a French book in a pink cover under her arm.<i> </p>  <p align="center">I believe he means to speak to me! He is capable of any impertinence.</p> 
 
