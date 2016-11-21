@@ -25,7 +25,9 @@ An Hotel in Rome . . . . . . . . . . .  “III.
 DAISY MILLER 
 A Comedy 
 
-                                                <b>Act First</b>
+**Act First**
+
+
 Garden and terrace of an hotel on the Lake of Geneva. The portico 
 of the hotel to the left, with steps leading up to it. In the back- 
 ground a low parapet dividing the garden from the lake, and divided 
