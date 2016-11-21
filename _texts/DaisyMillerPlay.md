@@ -18,9 +18,11 @@ Mrs. Walker.
 Randolph Miller.    
 Daisy Miller.   
 A Waiter.  
-An Hotel on the Lake of Geneva . . . . . ACT I.  The Promenade of the Pincian, Rome . . . . “II.  
-An Hotel in Rome . . . . . . . . . . .  “III.
-  
+
+An Hotel on the Lake of Geneva . . . . . . . .  Act I.  
+The Promenade of the Pincian, Rome . . . . Act II.    
+An Hotel in Rome . . . . . . . . . . . . . . . . . . . . Act III.
+
 
 DAISY MILLER 
 A Comedy 
