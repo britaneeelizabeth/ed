@@ -18,14 +18,14 @@ Mrs. Walker.
 Randolph Miller.    
 Daisy Miller.   
 A Waiter.  
-An Hotel on the Lake of Geneva . . . . . ACT I. The Promenade of the Pincian, Rome . . . . “II.
+An Hotel on the Lake of Geneva . . . . . ACT I.  The Promenade of the Pincian, Rome . . . . “II.  
 An Hotel in Rome . . . . . . . . . . .  “III.
   
 
 DAISY MILLER 
 A Comedy 
 
-ACT FIRST. 
+                                                <b>Act First</b>
 Garden and terrace of an hotel on the Lake of Geneva. The portico 
 of the hotel to the left, with steps leading up to it. In the back- 
 ground a low parapet dividing the garden from the lake, and divided 
@@ -34,7 +34,7 @@ posed to descend to a pier. Beyond this a distant view of mountains
 and of the lake, with the Chateau de Chillon. Orange-trees 
 in green tubs, benches, a few small tables and chairs. 
 
-SCENE FIRST. 
+<p align="center">SCENE FIRST.</p> 
 MADAME DE KATKOFF, EUGENIO. 
 MADAME DE KATKOFF, coming in as if a little startled, with a French book in a pink cover under her arm. 
 I believe he means to speak to me! He is capable of any impertinence. 
