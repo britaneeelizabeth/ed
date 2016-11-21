@@ -27,17 +27,17 @@ An Hotel in Rome . . . . . . . . . . . . . . . . . . . . Act III.
 <p align="center">ACT FIRST.</p>
 
 
-Garden and terrace of an hotel on the Lake of Geneva. The portico 
+<p align="center">Garden and terrace of an hotel on the Lake of Geneva. The portico 
 of the hotel to the left, with steps leading up to it. In the back- 
 ground a low parapet dividing the garden from the lake, and divided 
 itself by a small gate opening upon a flight of steps which are sup- 
 posed to descend to a pier. Beyond this a distant view of mountains 
 and of the lake, with the Chateau de Chillon. Orange-trees 
-in green tubs, benches, a few small tables and chairs. 
+in green tubs, benches, a few small tables and chairs.</p> 
 
 <p align="center">SCENE FIRST.</p> 
 <p align="center">Madame De Katkoff, Eugenio.</p>   
-MADAME DE KATKOFF, coming in as if a little startled, with a French book in a pink cover under her arm. 
+<p align="center">MADAME DE KATKOFF,</p> _coming in as if a little startled, with a French book in a pink cover under her arm._ 
 I believe he means to speak to me! He is capable of any impertinence. 
 
 EUGENIO, following slowly, handsomely dressed, with a large watchguard, and a courier’s satchel over his shoulder. He takes off his hat and bows obse- 
