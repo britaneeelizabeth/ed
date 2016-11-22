@@ -36,7 +36,7 @@ and of the lake, with the Chateau de Chillon. Orange-trees
 in green tubs, benches, a few small tables and chairs.</p> 
 
 <p align="center">SCENE FIRST. Madame De Katkoff, Eugenio.</p>  
-<p align="center">Madame De Katkoff, <i>coming in as if a little startled, with a French book in a pink cover under her arm:</i>
+MADAME DE KATKOFF, <i>coming in as if a little startled, with a French book in a pink cover under her arm:</i>  
 I believe he means to speak to me! He is capable of any impertinence.
 
 EUGENIO, following slowly, handsomely dressed, with a large watchguard, and a courier’s satchel over his shoulder. He takes off his hat and bows obse- 
