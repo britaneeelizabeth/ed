@@ -15,7 +15,9 @@ toc:
 ---
 
 ### A Note on the Text
-### _Dramatis Personae_ 
+
+### _Dramatis Personae_
+
 Frederick Winterbourne.    
 Mrs. Costello.  
 Charles Reverdy.    
