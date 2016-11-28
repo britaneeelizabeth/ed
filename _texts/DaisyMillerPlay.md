@@ -9,11 +9,12 @@ publication-date: 1883
 toc:
 - A Note on the Text
 - Dramatis Personae
-- Act First
-- Act Second
-- Act Third
+- Act First.
+- Act Second.
+- Act Third.
 ---
 
+### A Note on the Text
 ### _Dramatis Personae_ 
 Frederick Winterbourne.    
 Mrs. Costello.  
@@ -32,7 +33,7 @@ The Promenade of the Pincian, Rome . . . . Act II.
 An Hotel in Rome . . . . . . . . . . . . . . . . . . . . Act III.
 
 
-# <p align="center">ACT FIRST.</p>
+### ACT FIRST.
 
 
 <p align="center">Garden and terrace of an hotel on the Lake of Geneva. The portico 
