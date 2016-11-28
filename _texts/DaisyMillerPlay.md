@@ -2,8 +2,16 @@
 layout: drama
 title: "Daisy Miller: A Comedy in Three Acts"
 author: Henry James
-publication-date: 1883
+editor: Britanee Smith
+rights: Public Domain
 source: "James, Henry. Daisy Miller: A Comedy in Three Acts. Boston, MA: Houghton Mifflin and Osgood, 1883."
+publication-date: 1883
+toc:
+- A Note on the Text
+- Dramatis Personae
+- Act First
+- Act Second
+- Act Third
 ---
 
 ### _Dramatis Personae_ 
