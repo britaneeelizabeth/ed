@@ -3,7 +3,7 @@
 # Setup
 title:               Digital Editions of Henry James
 tagline:             'Daisy Miller: A Comedy'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+description:         'This edition is based on the American Osgood 1883 publication.'
 url:                 'http://britaneeelizabeth.github.io'
 baseurl:             '/ed'
 
