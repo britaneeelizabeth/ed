@@ -70,42 +70,37 @@ EUGENIO, <i>following slowly, handsomely dressed, with a large watchguard, and a
 MADAME DE KATKOFF: Certainly I recognize you. I never forget my servants, 
 especially <i>(with a little laugh)</i> the faithful ones! 
 
-EUGENIO. Madame’s memory is perhaps slightly at fault in leading 
+EUGENIO: Madame’s memory is perhaps slightly at fault in leading 
 her to speak of me as a servant! 
 
-MADAME DE KATKOFF. What were you, then? A friend, possibly? 
+MADAME DE KATKOFF: What were you, then? A friend, possibly? 
 
-EUGENIO. May I not say that I was, at least on a certain occasion, 
+EUGENIO: May I not say that I was, at least on a certain occasion, 
 an adviser? 
 
-MADAME DE KATKOFF. In the way of occasions, I remember only the one on 
+MADAME DE KATKOFF: In the way of occasions, I remember only the one on 
 which I turned you out of the house. 
 
-EUGENIO. You remember it with a little regret, I hope. 
+EUGENIO: You remember it with a little regret, I hope. 
 
-MADAME DE KATKOFF. An immense deal—that I hadn’t dismissed you six 
+MADAME DE KATKOFF: An immense deal — that I hadn’t dismissed you six 
 months sooner! 
 
-EUGENIO. I comprehend the regret of Madame. It was in those six 
-months that an incident occurred — (He pauses.) 
+EUGENIO: I comprehend the regret of Madame. It was in those six 
+months that an incident occurred — <i>(He pauses.)</i>
 
-MADAME DE KATKOFF. 
-An incident? 
+MADAME DE KATKOFF: An incident? 
 
-EUGENIO. An incident which it is natural that Madame should not 
-have desired to come to the knowledge of persons occupy- 
-ing a position, however humble, near Madame. 
+EUGENIO: An incident which it is natural that Madame should not 
+have desired to come to the knowledge of persons occupying a position, however humble, near Madame. 
 
-MADAME DE KATKOFF, aside. He is more than impertinent — he is dangerous. (Aloud) 
-You are very audacious. You took away a great deal of 
-money. 
+MADAME DE KATKOFF, <i>aside:</i> He is more than impertinent — he is dangerous. <i>(Aloud)</i> You are very audacious. You took away a great deal of money. 
 
-EUGENIO. Madame appears still to have an abundance. 
+EUGENIO: Madame appears still to have an abundance. 
 
-MADAME DE KATKOFF, looking at him a moment. 
-Yes, I have enough. 
-EUGENIO, smiling. 
-Madame is to be congratulated! I have never ceased 
+MADAME DE KATKOFF, <i>looking at him a moment:</i> Yes, I have enough.
+  
+EUGENIO, <i>smiling:</i> Madame is to be congratulated! I have never ceased 
 to take an interest in Madame. I have followed her — at a 
 distance. 
 
