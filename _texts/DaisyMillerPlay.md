@@ -43,7 +43,7 @@ The Promenade of the Pincian, Rome . . . . Act II.
 An Hotel in Rome . . . . . . . . . . . . . . . . . . . . Act III.
 
 ---
-<a id="Act First." />
+<a id="act-first" />
 ACT FIRST.
 
 
