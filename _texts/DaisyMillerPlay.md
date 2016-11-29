@@ -321,325 +321,276 @@ always observed. <i>(Exit into the hotel.)</i>
 <i><br>They come out of the hotel as Madame de Katkoff passes into it, looking 
 at her attentively.</i></p> 
 
-REVERDY, who carries a camp-stool. That’s the biggest swell in the house—a Russian 
+REVERDY, <i>who carries a camp-stool:</i> That’s the biggest swell in the house — a Russian 
 princess! 
 
-MRS. COSTELLO. A Russian princess is nothing very great. We have 
-found one at every hotel. 
-REVERDY. 
-Well, this is the best of them all. You would notice her 
+MRS. COSTELLO: A Russian princess is nothing very great. We have 
+found one at every hotel.
+
+REVERDY: Well, this is the best of them all. You would notice her 
 anywhere. 
 
-MRS. COSTELLO. The best bred people are the people you notice least. 
+MRS. COSTELLO: The best bred people are the people you notice least. 
 
-REVERDY. 
-She’s very quiet, any way. She speaks to no one. 
+REVERDY: She’s very quiet, any way. She speaks to no one. 
 
-MRS. COSTELLO. You mean by that that no one speaks to her. 
+MRS. COSTELLO: You mean by that that no one speaks to her. 
 
-REVERDY, aside. The old lady’s snappish this morning: hanged if I’ll 
-stand it! (Aloud) No one speaks to her, because no one 
+REVERDY, <i>aside:</i> The old lady’s snappish this morning: hanged if I’ll 
+stand it! <i>(Aloud)</i> No one speaks to her, because no one 
 ventures to. 
 
-MISS DURANT. You ventured to, I think, and she didn’t answer you. 
+MISS DURANT: You ventured to, I think, and she didn’t answer you. 
 That’s what you mean by her being quiet! 
 
-REVERDY. She dropped her fan, and I picked it up and gave it to 
+REVERDY: She dropped her fan, and I picked it up and gave it to 
 her. She thanked me with a smile that was a poem in 
-itself: she did n’t need to speak! 
+itself: she didn’t need to speak! 
 
-MRS. COSTELLO. You needn’t mind waiting on Russian princesses. Your 
+MRS. COSTELLO: You needn’t mind waiting on Russian princesses. Your 
 business is to attend to us — till my nephew comes. 
 
-REVERDY, looking at his watch. 
-As I understand you, he’s already due. 
+REVERDY, <i>looking at his watch.</i> As I understand you, he’s already due. 
 
-MRS. COSTELLO. He’s a quarter of an hour late. We are waiting break- 
-fast.  
+MRS. COSTELLO: He’s a quarter of an hour late. We are waiting breakfast.  
 
-MISS DURANT. I’m afraid the delay will bring on one of your headaches. 
+MISS DURANT: I’m afraid the delay will bring on one of your headaches. 
 
-MRS. COSTELLO. I have one already, so it doesn’t matter! 
+MRS. COSTELLO: I have one already, so it doesn’t matter! 
 
-REVERDY, aside. Very convenient, those headaches! (Aloud.) Won’t you 
-sit down, at least? (Offering camp-stool.) You know I don’t 
+REVERDY, <i>aside:</i> Very convenient, those headaches! <i>(Aloud.)</i> Won’t you 
+sit down, at least? <i>(Offering camp-stool.)</i> You know I don’t 
 come out for three minutes without our little implement. 
 
-MRS. COSTELLO. I don’t care for that; I’ll sit on a bench. 
+MRS. COSTELLO: I don’t care for that; I’ll sit on a bench. 
 
-REVERDY, aside. 
+REVERDY, <i>aside:</i> 
 She insists on my bringing it, and yet she won’t use it! 
-(The ladies seat themselves, and he places himself between them, astride the camp- 
-stool. He continues, aloud.) If Mr. Winterbourne is already due, 
+<i>(The ladies seat themselves, and he places himself between them, astride the camp- 
+stool. He continues, aloud.)</i> If Mr. Winterbourne is already due, 
 my holiday has legally begun. 
 
-MISS DURANT. You won’t lose anything by waiting. After he comes you 
-Will be at perfect liberty. 
+MISS DURANT: You won’t lose anything by waiting. After he comes you 
+will be at perfect liberty. 
 
-REVERDY. Oh yes, after that you won’t look at me, I suppose! 
+REVERDY: Oh yes, after that you won’t look at me, I suppose! 
 Miss Durant is counting very much on Mr. Winterbourne. 
 
-MRS. COSTELLO. 
-And I am counting very much on Miss Durant.You are
+MRS. COSTELLO: And I am counting very much on Miss Durant.You are
 to be very nice to him, you know. 
 
-MISS DURANT. 
-That will depend on how I like him. 
+MISS DURANT: That will depend on how I like him. 
 
-MRS. COSTELLO. That’s not what I brought you to Europe for — to make 
+MRS. COSTELLO: That’s not what I brought you to Europe for — to make 
 conditions. Besides, Frederick’s a perfect gentleman. 
 
-MISS DURANT. 
-You seem to wish me to promise to marry him. I must 
+MISS DURANT: You seem to wish me to promise to marry him. I must 
 wait till he asks me, you know. 
 
-REVERDY. He will ask you if Mrs. Costello bids him. He is evi- 
-dently in excellent training. 
+REVERDY: He will ask you if Mrs. Costello bids him. He is evidently in excellent training. 
 
-MRS. COSTELLO. I haven’t seen him for ten years: at that time he was a 
+MRS. COSTELLO: I haven’t seen him for ten years: at that time he was a 
 model nephew. 
 
-REVERDY. I shouldn’t wonder if he were to turn out a regular 
+REVERDY: I shouldn’t wonder if he were to turn out a regular 
 “hard” one. That would be a jolly lark!
 
-MRS. COSTELLO. 
-That’s not his reputation. Moreover, he has been brought 
+MRS. COSTELLO: That’s not his reputation. Moreover, he has been brought 
 up in Geneva, the most moral city in Europe. 
 
-REVERDY. 
-You can’t tell anything from that. Here am I, brought 
+REVERDY: You can’t tell anything from that. Here am I, brought 
 up in New York — and we all know what New York is. 
 Yet where can you find a more immaculate young man? I 
-haven’t a fault — I ’m ashamed of myself ! 
+haven’t a fault — I’m ashamed of myself! 
 
-MISS DURANT. 
-If Mr. Winterbourne is a little wild, I shan’t like him any 
+MISS DURANT: If Mr. Winterbourne is a little wild, I shan’t like him any 
 the less. Some faults are very charming. 
 
-REVERDY. Tell me what they are, and I’11 try and acquire them. 
+REVERDY: Tell me what they are, and I’ll try and acquire them. 
 
-MRS. COSTELLO. 
-My dear Alice, I’m startled by your sentiments. I have 
-tried to form your taste . . . 
+MRS. COSTELLO: My dear Alice, I’m startled by your sentiments. I have 
+tried to form your taste...  
 
-MISS DURANT. Yes, but you have only cultivated my dislikes. Those 
+MISS DURANT: Yes, but you have only cultivated my dislikes. Those 
 are a few of my preferences. 
 
-REVERDY. Tell us a few more of them — they sound awfully spicy! 
+REVERDY: Tell us a few more of them — they sound awfully spicy! 
 
-MISS DURANT. I’m very fond of a certain indifference. I like men who 
+MISS DURANT: I’m very fond of a certain indifference. I like men who 
 are not always running after you with a camp-stool, and who 
 don’t seem to care whether you like them or not. 
 
-MRS. COSTELLO. If you like rude men, they are very easily found. If I 
+MRS. COSTELLO: If you like rude men, they are very easily found. If I 
 didn’t know you were a very nice girl, I should take you 
-for — I don’t know what ! 
+for — I don’t know what! 
 
-REVERDY. Miss Durant’s remarks are addressed to me, and between 
+REVERDY: Miss Durant’s remarks are addressed to me, and between 
 you two ladies it’s hard to know what to do. You want me 
 to be always at your elbow, and you make a great point of 
 the camp-stool. Will you have it a little, for a change? 
-(Getting up and offering it. Mrs. Costello refuses with a gesture.) I don’t 
-offer it to Miss Alice ; we have heard what she thinks of it! 
+<i>(Getting up and offering it. Mrs. Costello refuses with a gesture.)</i> I don’t 
+offer it to Miss Alice; we have heard what she thinks of it! 
 
-MISS DURANT. I didn’t speak of that piece of furniture: I spoke of the 
+MISS DURANT: I didn’t speak of that piece of furniture: I spoke of the 
 person who carries it. 
 
-REVERDY. The person who carries the camp-stool? Is that what 
+REVERDY: The person who carries the camp-stool? Is that what 
 I’ve come to be known by? Look here, my dear friends, 
 you ought to engage a courier. 
 
-MRS. COSTELLO. To cheat us out of our eyes? Thank you very much! 
+MRS. COSTELLO: To cheat us out of our eyes? Thank you very much! 
 
-REVERDY. A courier with a gorgeous satchel, and a feather in his 
+REVERDY: A courier with a gorgeous satchel, and a feather in his 
 hat - like those ladies from Schenectady! 
 
-MRS. COSTELLO. So that he might smoke in our faces, as he does in theirs, 
+MRS. COSTELLO: So that he might smoke in our faces, as he does in theirs, 
 and have his coffee with us after dinner, as he does with 
 them? They have ruined a good servant. 
  
-MISS DURANT. 
-They treat him as an equal; they make him their com- 
-panion. 
+MISS DURANT: They treat him as an equal; they make him their companion. 
 
-REVERDY. 
-But they give him handsome wages — which is more than 
+REVERDY: But they give him handsome wages — which is more than 
 you do me! 
 
-MISS DURANT. 
-I have no doubt they give him little tokens of affection, 
+MISS DURANT: I have no doubt they give him little tokens of affection, 
 and locks of their hair. But that makes them only the more 
 dreadful! 
 
-MRS. COSTELLO. 
-I’m glad to see, my dear, that your taste is coming back 
+MRS. COSTELLO: I’m glad to see, my dear, that your taste is coming back 
 to you! 
 
-REVERDY. Oh, if taste consists in demolishing Miss Daisy Miller, 
+REVERDY: Oh, if taste consists in demolishing Miss Daisy Miller, 
 she can take the prize. 
 
-MISS DURANT. 
-Demolishing her? I should be sorry to take that trouble. 
+MISS DURANT: Demolishing her? I should be sorry to take that trouble. 
 I think her very vulgar: that’s all! 
 
-MRS. COSTELLO. Miss Daisy Miller? Is that her distinguished name? 
+MRS. COSTELLO: Miss Daisy Miller? Is that her distinguished name? 
 
-REVERDY, aside. 
-Ah, we can’t all be named Costello! 
+REVERDY, <i>aside:</i> Ah, we can’t all be named Costello! 
 
-MRS. COSTELLO. They are the sort of Americans that one does one’s duty 
+MRS. COSTELLO: They are the sort of Americans that one does one’s duty 
 by not accepting. 
 
-REVERDY. 
-Ah, you don’t accept her? 
+REVERDY: Ah, you don’t accept her? 
 
-MRS. COSTELLO. 
-I would if I could — but I can’t. One should let Euro- 
-peans know -  
+MRS. COSTELLO: I would if I could — but I can’t. One should let Europeans know -  
 
-REVERDY. 
-One should let them know? 
+REVERDY: One should let them know? 
 
-MRS. COSTELLO. 
-That we are not all like that. 
+MRS. COSTELLO: That we are not all like that. 
 
-REVERDY. They can see it for themselves: she ’s charmingly pretty. 
+REVERDY: They can see it for themselves: she’s charmingly pretty. 
 
-MISS DURANT. 
-You are extremely impertinent. 
+MISS DURANT: You are extremely impertinent. 
 
-REVERDY, aside. I put in one that time. (Aloud) I can’t help it; she ’s 
+REVERDY, <i>aside:</i> I put in one that time. <i>(Aloud)</i> I can’t help it; she’s 
 lovely.
 
-MRS. COSTELLO. And is the mamma lovely, too? Has any one ever seen 
+MRS. COSTELLO: And is the mamma lovely, too? Has any one ever seen 
 the mamma? 
 
-REVERDY. She ’s sick in bed — she ’s always sick. 
+REVERDY: She’s sick in bed — she’s always sick. 
 
-MISS DURANT. The courier sits with her, and gives her her medicine. 
+MISS DURANT: The courier sits with her, and gives her her medicine. 
 
-REVERDY. I hope you call that devoted, then? 
+REVERDY: I hope you call that devoted, then? 
 
-MRS. COSTELLO. It doesn’t matter, because the head of the family is the 
+MRS. COSTELLO: It doesn’t matter, because the head of the family is the 
 little boy. He orders the dinner; he has the best seat in 
 the carriage. 
 
-REVERDY. 
-He’s the most amusing little specimen. He has the 
-heart of a patriot in the body of a — (Hesitates for a word.) 
+REVERDY: He’s the most amusing little specimen. He has the 
+heart of a patriot in the body of a — <i>(Hesitates for a word.)</i> 
 
-MISS DURANT. 
-In the body of a grasshopper! 
+MISS DURANT: In the body of a grasshopper! 
 
-REVERDY. He hops a good deal, or, rather, I should say, he flies; 
+REVERDY: He hops a good deal, or, rather, I should say, he flies; 
 for there is a good deal of the spread-eagle about him. 
 
-MISS DURANT. He leaves his toys all over the hotel; I suppose you 
+MISS DURANT: He leaves his toys all over the hotel; I suppose you 
 would say his plumes. 
 
-REVERDY. 
-Well, he ’s a dauntless American infant; a child of nature 
+REVERDY: Well, he’s a dauntless American infant; a child of nature 
 and of freedom. 
 
-MRS. COSTELLO. 
-Oh, nature and freedom! We have heard too much of 
+MRS. COSTELLO: Oh, nature and freedom! We have heard too much of 
 them. 
 
-REVERDY. 
-Wait till you are stopped at the New York custom-house! 
+REVERDY: Wait till you are stopped at the New York custom-house! 
 The youthful Miller and I have struck up a friendship: he 
 introduced me to his sister. 
 
-MRS. COSTELLO. 
-You don’t mean to say you spoke to her! 
+MRS. COSTELLO: You don’t mean to say you spoke to her! 
 
-REVERDY. Spoke to her? Yes, indeed — and she answered me. 
+REVERDY: Spoke to her? Yes, indeed — and she answered me. 
 
-MISS DURANT. 
-She was not like the Russian princess! 
+MISS DURANT: She was not like the Russian princess! 
 
-REVERDY. 
-No, she’s as little as possible like the Russian princess; 
+REVERDY: No, she’s as little as possible like the Russian princess; 
 but she’s very charming in another style. As soon as Mr. 
 Winterbourne arrives (and you must excuse me for saying 
-that he takes a deuce of a time about it), I shall console my- 
-self for the loss of your society by plunging into that of the 
+that he takes a deuce of a time about it), I shall console myself for the loss of your society by plunging into that of the 
 Millers. 
 
-MRS.COSTELLO. You won’t lose us, Mr. Reverdy: you can console your- 
-self with me.  
-REVERDY. 
-Oh, thank you!
+MRS.COSTELLO: You won’t lose us, Mr. Reverdy: you can console yourself with me. 
 
-MRS. COSTELLO. 
-Frederick will devote himself to Alice. 
+REVERDY: Oh, thank you!
 
-MISS DURANT. 
-We had better wait till he comes! I have no patience
+MRS. COSTELLO: Frederick will devote himself to Alice. 
+
+MISS DURANT: We had better wait till he comes! I have no patience
 with his delay. 
  
-MRS. COSTELLO. Neither have I, my dear; but I may as well take the op- 
-portunity of remarking that a young lady shouldn’t seem 
-too eager . . .
+MRS. COSTELLO: Neither have I, my dear; but I may as well take the opportunity of remarking that a young lady shouldn’t seem 
+too eager...
 
-MISS DURANT. 
-Too eager? 
+MISS DURANT: Too eager? 
 
-MRS. COSTELLO. 
-For the arrival of a gentleman. 
+MRS. COSTELLO: For the arrival of a gentleman. 
 
-MISS DURANT. I see what you mean — more reserve. But simply before 
-you . . 
+MISS DURANT: I see what you mean — more reserve. But simply before 
+you...
  
-REVERDY.
-And before me, please. Am I nobody? 
+REVERDY: And before me, please. Am I nobody? 
 
-MISS DURANT. 
-Nobody at all!
+MISS DURANT: Nobody at all!
 
-REVERDY.  Well, I don’t care, for I descry in the distance the ador- 
-able Miss Miller! 
+REVERDY: Well, I don’t care, for I descry in the distance the adorable Miss Miller! 
 
-MISS DURANT. 
-I’m glad she’s in the distance.
+MISS DURANT: I’m glad she’s in the distance.
 
-REVERDY. 
-Ah, but she’s coming this way. 
+REVERDY: Ah, but she’s coming this way. 
 
-MISS DURANT, quickly. 
-I forbid you to speak to her. 
+MISS DURANT, <i>quickly:</i> I forbid you to speak to her. 
 
-REVERDY, aside. 
-Ah, then I am somebody? (Aloud) I can’t cut the poor 
+REVERDY, <i>aside:</i> Ah, then I am somebody? <i>(Aloud)</i> I can’t cut the poor 
 girl, you know. 
 
-MISS DURANT. You needn’t see her. You can look at me. 
+MISS DURANT: You needn’t see her. You can look at me. 
 
-MRS. COSTELLO. She’s always wandering about the garden — the image of 
+MRS. COSTELLO: She’s always wandering about the garden — the image of 
 idleness and inanity. 
 
-REVERDY. She’s not as serious as we, nor as well occupied, certainly; 
+REVERDY: She’s not as serious as we, nor as well occupied, certainly; 
 but she’s bored to death. She has got no one to flirt with. 
 
-MISS DURANT.  She shall not flirt with you, at any rate! 
+MISS DURANT: She shall not flirt with you, at any rate! 
 
-REVERDY. 
-Do you wish me to hide behind a tree? 
+REVERDY: Do you wish me to hide behind a tree? 
 
-MISS DURANT. No, you can sit down hero (indicating the bench beside her), and 
-take my parasol - so! —— and hold it before your face, as if 
+MISS DURANT: No, you can sit down hero <i>(indicating the bench beside her),</i> and 
+take my parasol - so! — and hold it before your face, as if 
 you were shading your eyes. 
 
-REVERDY, with the parasol. 
+REVERDY, <i>with the parasol:</i> 
 From Miss Daisy Miller? It’s true she’s very dazzling! 
-(Daisy enters from the right, strolling slowly, as if she has nothing to do, and 
+<i>(Daisy enters from the right, strolling slowly, as if she has nothing to do, and 
 passes across the stage in front of the others, who sit silent, watching her, Reverdy peeping for a moment from behind his parasol. “She was dressed in white mus- 
 lin, with a hundred frills and flounces, and knots of pale-colored ribbon. She was 
-bare-headed; but she balanced in her hand a large parasol, With it deep border of embroidery; and she was strikingly, admirably pretty.”1 She looks at the others
-as she passes them, and goes out on the left—not into the hotel. Reverdy con-
-tinues.) Now, then, may I look out? 
+bare-headed; but she balanced in her hand a large parasol, With it deep border of embroidery; and she was strikingly, admirably pretty.”1 She looks at the others as she passes them, and goes out on the left — not into the hotel. Reverdy continues.)</i> Now, then, may I look out? 
 
-MISS DURANT, taking back her parasol. 
+MISS DURANT, <i>taking back her parasol:</i> 
 She saw you, I’m happy to say.
 
 REVERDY. 
@@ -648,10 +599,9 @@ Oh yes, I gave her a wink!
 MRS. COSTELLO. 
 That’s the way she rooms about - 
 
-1 From the story. 
+<i>1 From the story.</i> 
  
-MISS DURANT. 
-Seeking whom she may devour! 
+MISS DURANT: Seeking whom she may devour! 
 
 REVERDY. Poor little creature! I ’m the only tolerably good-looking 
 young man in the hotel. 
