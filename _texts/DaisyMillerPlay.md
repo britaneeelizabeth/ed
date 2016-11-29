@@ -12,6 +12,7 @@ toc:
 - Act First.
 - Act Second.
 - Act Third.
+- How To Cite This
 ---
 
 ### A Note on the Text
