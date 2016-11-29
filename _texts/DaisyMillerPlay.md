@@ -2444,7 +2444,7 @@ Isn’t it your duty to go after them?
 
 REVERDY, between the two.
 They will be lovely company for the rest of the day! 
-
+---
 ACT SECOND. 
 A beautiful afternoon in the gardens of the Pincian Hill in Rome. A 
 view of St. Peter’s in the distance. 
