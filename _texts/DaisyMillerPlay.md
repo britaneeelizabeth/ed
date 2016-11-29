@@ -8,6 +8,7 @@ source: "James, Henry. Daisy Miller: A Comedy in Three Acts. Boston, MA: Houghto
 publication-date: 1883
 toc:
 - A Note on the Text
+- Title Page
 - Dramatis Personae
 - Act First.
 - Act Second.
@@ -17,6 +18,11 @@ toc:
 
 ### A Note on the Text
 
+---
+<a id="title-page" />
+
+<p align="center">Henry James</p>
+---
 ### _Dramatis Personae_
 
 Frederick Winterbourne.    
