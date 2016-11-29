@@ -44,7 +44,7 @@ An Hotel in Rome . . . . . . . . . . . . . . . . . . . . Act III.
 
 ---
 <a id="act-first" />
-<p align="center">ACT FIRST.</p>
+<p align="center large">ACT FIRST.</p>
 
 
 <p align="center">Garden and terrace of an hotel on the Lake of Geneva. The portico 
