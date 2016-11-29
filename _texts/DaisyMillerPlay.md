@@ -587,7 +587,7 @@ From Miss Daisy Miller? It’s true she’s very dazzling!
 <i>(Daisy enters from the right, strolling slowly, as if she has nothing to do, and 
 passes across the stage in front of the others, who sit silent, watching her, Reverdy peeping for a moment from behind his parasol. “She was dressed in white mus- 
 lin, with a hundred frills and flounces, and knots of pale-colored ribbon. She was 
-bare-headed; but she balanced in her hand a large parasol, With it deep border of embroidery; and she was strikingly, admirably pretty.”1 She looks at the others as she passes them, and goes out on the left — not into the hotel. Reverdy continues.)</i> Now, then, may I look out? 
+bare-headed; but she balanced in her hand a large parasol, With it deep border of embroidery; and she was strikingly, admirably pretty.”<sub>1</sub> She looks at the others as she passes them, and goes out on the left — not into the hotel. Reverdy continues.)</i> Now, then, may I look out? 
 
 MISS DURANT, <i>taking back her parasol:</i> 
 She saw you, I’m happy to say.
