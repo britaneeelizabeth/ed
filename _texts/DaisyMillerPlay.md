@@ -111,90 +111,78 @@ indeed, as when I was in the employment of Monsieur de
 Katkoff: that was the busiest part of my life. The Russians 
 are very exacting — the Americans are very easy! 
 
-MADAME DE KATKOFF. 
-You are with Americans now? 
+MADAME DE KATKOFF: You are with Americans now? 
 
-EUGENIO. Madame sees that she is willing to talk! I am travelling 
+EUGENIO: Madame sees that she is willing to talk! I am travelling 
 with a family from New York — a family of three persons. 
 
-MADAME DE KATKOFF. You have no excuse, then, for detaining me; you know 
+MADAME DE KATKOFF: You have no excuse, then, for detaining me; you know 
 where to find conversation. 
 
-EUGENIO. Their conversation is not so agreeable as that of Madame! 
-(With a slight change of tone.)  I know more about you than you 
+EUGENIO: Their conversation is not so agreeable as that of Madame! 
+<i>(With a slight change of tone.)</i> I know more about you than you 
 perhaps suspect.
 
-MADAME DE KATKOFF. 
-I know what you know.  
+MADAME DE KATKOFF: I know what you know.  
 
-EUGENIO. Oh, I don’t allude to Madame’s secrets. I should never 
+EUGENIO: Oh, I don’t allude to Madame’s secrets. I should never 
 be so indiscreet! It is not a secret to-day that Madame has 
 a charming villa on this lovely lake, about three miles from 
 Geneva. 
 
-MADAME DE KATKOFF. 
-N0, that is not a secret. 
+MADAME DE KATKOFF: No, that is not a secret. 
 
-EUGENIO. And that though she leads a life of elegant seclusion, suited 
-to the mourning which she has never laid aside—though 
-she has lightened it a little—since she became a widow, 
+EUGENIO: And that though she leads a life of elegant seclusion, suited 
+to the mourning which she has never laid aside — though 
+she has lightened it a little — since she became a widow, 
 Madame does not entirely shut her doors. She receives a 
 few privileged persons.
 
-MADAME DE KATKOFF, aside. What on earth is he coming to? (Aloud.) Do you aspire 
-to be one of them? 
-EUGENIO. 
-I should count upon it the day I should have something 
-particular to say to Madame. But that day may never 
-come. 
+MADAME DE KATKOFF, <i>aside:</i> What on earth is he coming to? <i>(Aloud.)</i> Do you aspire 
+to be one of them?
+  
+EUGENIO: I should count upon it the day I should have something 
+particular to say to Madame. But that day may never come. 
 
-MADAME DE KATKOFF. 
-Let us hope so!
+MADAME DE KATKOFF: Let us hope so!
 
-EUGENIO.
-Let us hope so! Meanwhile Madame is in a position to 
-know as well as myself that—as I said just now—the 
+EUGENIO: Let us hope so! Meanwhile Madame is in a position to 
+know as well as myself that — as I said just now — the 
 Americans are very easy. 
 
-MADAME DE KATKOFF. 
-The Americans? 
+MADAME DE KATKOFF: The Americans? 
 
-EUGENIO. Perhaps, after all, Madame does n’t find them so? Her 
-most privileged visitor is of that nationality! Has he dis- 
-covered—like me —that the Russians are very exacting? 
- 
+EUGENIO: Perhaps, after all, Madame doesn’t find them so? Her 
+most privileged visitor is of that nationality! Has he discovered — like me — that the Russians are very exacting? 
+  
+MADAME DE KATKOFF, <i>looking at him a moment, then quickly, though 
+with an effort:</i> The Russians, when their antagonists go too far, can be as dangerous as any one else! I forget your nationality. 
 
-MADAME DE KATKOFF, looking at him a moment, then quickly, though 
-with an effort. 
-The Russians, when their antagonists go too far, can be as dangerous as any one else! I forget your nationality. 
-
-EUGENIO. I am not sure that Madame ever knew it. I’m an Italian 
+EUGENIO: I am not sure that Madame ever knew it. I’m an Italian 
 Swiss, a native of the beautiful city of Lugano. Is Madame 
 acquainted with Lugano? If she should go that way, 
 I recommend the Hotel Washington: always our Americans, 
 you see! The Russians? They are the most dangerous 
-people I know, and we gentlemen who take charge of fami- 
-lies know everything. 
+people I know, and we gentlemen who take charge of families know everything. 
 
-MADAME DE KATKOFF. You had better add frankly that you traffic in your knowl- 
-edge. 
+MADAME DE KATKOFF: You had better add frankly that you traffic in your knowledge. 
 
-EUGENIO. What could be more just? It costs us a good deal to 
-get it. 
-MADAME DE KATKOFF, to herself, after a pause.  
-It is best to know the worst, and have done with it. 
-(Aloud) How much do you want? 
+EUGENIO: What could be more just? It costs us a good deal to 
+get it.
+  
+MADAME DE KATKOFF, <i>to herself, after a pause:</i> It is best to know the worst, and have done with it. 
+<i>(Aloud)</i> How much do you want? 
 
-EUGENIO. How much do I want for what? For keeping quiet about 
+EUGENIO: How much do I want for what? For keeping quiet about 
 Mr. Winterbourne, so that his family shan’t think he’s 
 wasting his time, and come out from America to bring him 
 home? You see I know even his name! He’s supposed 
 to be at Geneva for purposes of study. 
 
-MADAME DE KATKOFF. How much do you want to go away and never let me see 
+MADAME DE KATKOFF: How much do you want to go away and never let me see 
 you again? Be merciful. Remember that I’m not rich. 
 
-EUGENIO. I know exactly the fortune of Madame! She is not rich, 
+EUGENIO: I know exactly the fortune of Madame! She is not rich, 
 for very good reasons — she was exceedingly extravagant in 
 her youth! On the other hand, she is by no means in
 misery. She is not rich, like the American lady — the
@@ -202,11 +190,9 @@ amiable Mrs. Miller — whom I have at present the honor to
 serve; but she is able to indulge herself with the usual
 luxuries.
 
-MADAME DE KATKOFF.
-It would be a luxury to get rid of you!
+MADAME DE KATKOFF: It would be a luxury to get rid of you!
 
-EUGENIO.
-I should never think of comparing her with Madame! 
+EUGENIO: I should never think of comparing her with Madame! 
 Madame has much more the appearance of one who is born 
 to command. It is for this reason that I approached her 
 with the utmost deliberation. I recognized her three days 
@@ -217,49 +203,40 @@ confidential position. Mrs. Miller has a daughter even more
 amiable than herself, and this young lady was profoundly 
 impressed with the distinguished appearance of Madame. 
 
-MADAME DE KATKOFF. Her good opinion is doubtless of great value; but I sup- 
-pose it’s hardly to assure me of that — 
+MADAME DE KATKOFF: Her good opinion is doubtless of great value; but I suppose it’s hardly to assure me of that — 
 
-EUGENIO.
-I may add that I didn’t permit myself to make any 
+EUGENIO: I may add that I didn’t permit myself to make any 
 further remarks. 
 
-MADAME DE KATKOFF. And your discretion’s an example of what you are capa- 
-ble of doing? I should be happy to believe it, and if you 
-have not come to claim your reward — 
+MADAME DE KATKOFF: And your discretion’s an example of what you are capable of doing? I should be happy to believe it, and if you have not come to claim your reward — 
 
-EUGENIO. My reward? My reward shall be this: that we leave the 
-account open between us! (Changing his tone entirely.) Let me 
+EUGENIO: My reward? My reward shall be this: that we leave the 
+account open between us! <i>(Changing his tone entirely.)</i> Let me 
 speak to you very frankly. Some eight years ago, when you 
 were thirty years old, you were living at Dresden. 
 
-MADAME DE KATKOFF. I was living at Dresden, but I was not thirty years old. 
+MADAME DE KATKOFF: I was living at Dresden, but I was not thirty years old. 
 
-EUGENIO. 
-The age doesn’t matter — we will call it twenty, if you 
+EUGENIO: The age doesn’t matter — we will call it twenty, if you 
 like: that makes me younger, too. At that time I was 
 under your roof; I was the confidential servant, on a very 
 exceptional footing, of M. de Katkoff. He had a great deal 
 of business — a great deal of diplomatic business; and as 
-he employed me very often to write for him — do you re- 
-member my beautiful hand? - I was not so much a servant 
+he employed me very often to write for him — do you remember my beautiful hand? - I was not so much a servant 
 as a secretary. At any rate, I was in a position to observe 
 that you had a quarrel with your husband. 
 
-MADAME DE KATKOFF. 
-In a position? I should think you were! He paid you to 
+MADAME DE KATKOFF: In a position? I should think you were! He paid you to 
 spy upon me. 
 
-EUGENIO. 
-To spy upon you? 
+EUGENIO: To spy upon you? 
 
-MADAME DE KATKOFF. To watch me — to follow me — to calumniate me. 
+MADAME DE KATKOFF: To watch me — to follow me — to calumniate me. 
 
-EUGENIO, smiling. That’s just the way you used to talk! You were always 
+EUGENIO, <i>smiling:</i> That’s just the way you used to talk! You were always 
 violent, and that gave one an advantage. 
 
-MADAME DE KATKOFF. All this is insupportable. Please to spare me your remi- 
-niscences, and come to the point. 
+MADAME DE KATKOFF: All this is insupportable. Please to spare me your reminiscences, and come to the point. 
 
 EUGENIO. The point is this — that I got the advantage of you then, 
 and that I have never lost it! Though you didn’t care for 
