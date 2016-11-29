@@ -317,10 +317,9 @@ moment! That moment reechoes through eternity. He
 has shaken my nerves, and in this wretched garden one is 
 always observed. <i>(Exit into the hotel.)</i>
 
-SCENE SECOND. 
-MRS. COSTELLO, MISS DURANT, CHARLES REVERDY. 
-They come out of the hotel as Madame de Katkoff passes into it, looking 
-at her attentively. 
+<p align="center">SCENE SECOND. Mrs. Costello, Miss Durant, Charles Reverdy. 
+<i>They come out of the hotel as Madame de Katkoff passes into it, looking 
+at her attentively.</i></p> 
 
 REVERDY, who carries a camp-stool. That’s the biggest swell in the house—a Russian 
 princess! 
