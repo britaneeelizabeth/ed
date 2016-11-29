@@ -20,11 +20,15 @@ toc:
 
 ---
 <a id="title-page" />
-<p class="centered small">Henry James</p>
+<p class="centered small">HENRY JAMES</p>
 <br>
-<p class="centered larger">Daisy Miller</p>
+<p class="centered larger">DAISY MILLER</p>
 <p class="centered">A Comedy</p>
 <p class="centered">In Three Acts</p>
+<br>
+<p class="centered large">BOSTON</p>
+<p class="centered">JAMES R. OSGOOD AND COMPANY</p>
+<p class="centered small">1883</p>
 ---
 
 ### _Dramatis Personae_
