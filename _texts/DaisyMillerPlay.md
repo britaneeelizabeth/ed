@@ -602,58 +602,52 @@ That’s the way she rooms about -
  
 MISS DURANT: Seeking whom she may devour! 
 
-REVERDY. Poor little creature! I ’m the only tolerably good-looking 
+REVERDY: Poor little creature! I’m the only tolerably good-looking 
 young man in the hotel. 
 
-MRS. COSTELLO. Mercy on us ! I hope she won’t get hold of Frederick! 
+MRS. COSTELLO: Mercy on us! I hope she won’t get hold of Frederick! 
 
-REVERDY. Not if I can help it, dear Madam. I have never seen 
+REVERDY: Not if I can help it, dear Madam. I have never seen 
 Frederick — but I mistrust Frederick. 
 
-MRS. COSTELLO. He’s not at all in your style. He’s had a foreign educa- 
-tion. He speaks a dozen languages. 
+MRS. COSTELLO: He’s not at all in your style. He’s had a foreign education. He speaks a dozen languages. 
 
-REVERDY, aside. 
+REVERDY, <i>aside:</i> 
 An awful prig — I can see that. 
 
-MRS. COSTELLO. Let us hope that, thanks to his foreign education, he will 
+MRS. COSTELLO: Let us hope that, thanks to his foreign education, he will 
 be out of danger. Such people as that can only disgust 
 him. 
 
-REVERDY. I know the style of fellow you mean — a very high collar 
+REVERDY: I know the style of fellow you mean — a very high collar 
 and a very stiff spine! He speaks a dozen languages — but 
 he doesn’t speak the language of Schenectady. He won’t 
 understand an American girl — he had better leave her 
 alone. 
 
-MISS DURANT. 
-I am very much obliged to you — for me! 
+MISS DURANT: I am very much obliged to you — for me! 
 
-Enter a waiter from the hotel. 
+<i>Enter a waiter from the hotel.</i> 
 
-REVERDY. Oh, you are not an American; you’re an angel! 
+REVERDY: Oh, you are not an American; you’re an angel! 
 
-THE WAITER, approaching with a bow. 
+THE WAITER, <i>approaching with a bow:</i> 
 The breakfast that Madame ordered is served. 
 
-MRS. COSTELLO, to her companions. It’s just twelve o’clock; we certainly can’t wait any 
+MRS. COSTELLO, <i>to her companions:</i> It’s just twelve o’clock; we certainly can’t wait any 
 longer.
  
-MISS DURANT. 
-I don’t believe he’s coming at all! 
+MISS DURANT: I don’t believe he’s coming at all! 
 
-MRS. COSTELLO. Ah, if I’ve only brought on a headache for nothing! 
+MRS. COSTELLO: Ah, if I’ve only brought on a headache for nothing! 
 
-REVERDY, aside, 
-Won’t he catch it when he arrives? (They pass into the hotel, 
-the waiter leading the way.) 
+REVERDY, <i>aside:</i> 
+Won’t he catch it when he arrives? <i>(They pass into the hotel, 
+the waiter leading the way.)</i> 
 
-SCENE THIRD. 
-
-EUGENIO, THEN WINTERBOURNE AND THE WAITER. 
-
-Eugenio comes out of the hotel, then looks about him and begins to call. 
-He is without his hat and satchel. 
+<p align="center"SCENE THIRD. Eugenio, then Winterbourne and the waiter. 
+<br><i>Eugenio comes out of the hotel, then looks about him and begins to call. 
+He is without his hat and satchel.</i><.p> 
 
 EUGENIO. Meester Randolph! Meester Randolph! Confound that 
 infernal child — it’s the fifth time this morning that I’ve 
