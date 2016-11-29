@@ -104,13 +104,11 @@ EUGENIO, <i>smiling:</i> Madame is to be congratulated! I have never ceased
 to take an interest in Madame. I have followed her — at a 
 distance. 
 
-MADAME DE KATKOFF. 
-The greater the distance, the better! 
+MADAME DE KATKOFF: The greater the distance, the better! 
 
-EUGENIO, significantly. Yes, I remember that Madame was very fond of her pri- 
-vacy. But I intrude as little as possible. present which give me plenty of occupation. Not so much, 
+EUGENIO, <i>significantly:</i> Yes, I remember that Madame was very fond of her privacy. But I intrude as little as possible. I have duties at present which give me plenty of occupation. Not so much, 
 indeed, as when I was in the employment of Monsieur de 
-Katkoff : that was the busiest part of my life. The Russians 
+Katkoff: that was the busiest part of my life. The Russians 
 are very exacting — the Americans are very easy! 
 
 MADAME DE KATKOFF. 
