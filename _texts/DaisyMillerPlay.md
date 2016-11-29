@@ -25,7 +25,7 @@ toc:
 <p class="centered larger">Daisy Miller</p>
 <p class="centered">A Comedy</p>
 <p class="centered">In Three Acts</p>
-<img src="jro.png" />
+<img src="jro.jpg" />
 ---
 
 ### _Dramatis Personae_
