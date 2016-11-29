@@ -366,8 +366,7 @@ MRS. COSTELLO: I don’t care for that; I’ll sit on a bench.
 
 REVERDY, <i>aside:</i> 
 She insists on my bringing it, and yet she won’t use it! 
-<i>(The ladies seat themselves, and he places himself between them, astride the camp- 
-stool. He continues, aloud.)</i> If Mr. Winterbourne is already due, 
+<i>(The ladies seat themselves, and he places himself between them, astride the camp-stool. He continues, aloud.)</i> If Mr. Winterbourne is already due, 
 my holiday has legally begun. 
 
 MISS DURANT: You won’t lose anything by waiting. After he comes you 
