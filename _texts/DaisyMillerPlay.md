@@ -21,8 +21,9 @@ toc:
 ---
 <a id="title-page" />
 
-<p align="center">Henry James</p>
+## <p align="center"><large>Henry James</large></p>
 ---
+
 ### _Dramatis Personae_
 
 Frederick Winterbourne.    
