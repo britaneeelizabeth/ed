@@ -21,7 +21,7 @@ toc:
 ---
 <a id="title-page" />
 
-## <p align="center"><large>Henry James</large></p>
+<p align="center"><large>Henry James</large></p>
 ---
 
 ### _Dramatis Personae_
