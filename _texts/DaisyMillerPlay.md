@@ -238,95 +238,84 @@ violent, and that gave one an advantage.
 
 MADAME DE KATKOFF: All this is insupportable. Please to spare me your reminiscences, and come to the point. 
 
-EUGENIO. The point is this — that I got the advantage of you then, 
+EUGENIO: The point is this — that I got the advantage of you then, 
 and that I have never lost it! Though you didn’t care for 
-your husband, you cared for some one else; and M. de Kat- 
-koff — with my assistance, if you will - discovered the 
-object of your preference. Need I remind you of what fol- 
-lowed, the day this discovery became known to you ? Your 
+your husband, you cared for some one else; and M. de Katkoff — with my assistance, if you will - discovered the 
+object of your preference. Need I remind you of what followed, the day this discovery became known to you? Your 
 surprise was great, because you thought yourself safe; but 
 your anger was even greater. You found me for a moment 
 in your path, and you imagined — for that moment - 
-that I was a Russian serf. The mistake had serious con- 
-sequences. You called me by the vilest of names — and I 
+that I was a Russian serf. The mistake had serious consequences. You called me by the vilest of names — and I 
 have never forgotten it! 
 
-MADAME DE KATKOFF. I thank you for reminding me of my contempt. It was 
+MADAME DE KATKOFF: I thank you for reminding me of my contempt. It was 
 extremely sweet. 
 
-EUGENIO. 
-It made you very reckless. I got possession of two 
+EUGENIO: It made you very reckless. I got possession of two 
 letters, addressed to the person I speak of, and singularly 
 rash compositions. They bear your signature in full. 
 
-MADAME DE KATKOFF. Can there be any better proof that I have nothing to be 
+MADAME DE KATKOFF: Can there be any better proof that I have nothing to be 
 ashamed of? 
 
-EUGENIO. 
-You were not ashamed then, because, as I have already 
+EUGENIO: You were not ashamed then, because, as I have already 
 remarked, you were reckless. But to-day you are wise. 
 
-MADAME DE KATKOFF, proudly. 
-Whatever I have said - I have always signed! 
+MADAME DE KATKOFF, <i>proudly:</i> Whatever I have said - I have always signed! 
 
-EUGENIO. It’s a habit I appreciate. One of those letters I gave to 
+EUGENIO: It’s a habit I appreciate. One of those letters I gave to 
 M. de Katkoff; the other — the best — I kept for myself. 
 
-MADAME DE KATKOFF. 
-What do you mean by the best? 
+MADAME DE KATKOFF: What do you mean by the best? 
 
-EUGENIO. 
-I mean — the worst! 
+EUGENIO: I mean — the worst! 
 
-MADAME DE KATKOFF. 
-It can’t be very bad. 
+MADAME DE KATKOFF: It can’t be very bad. 
 
-EUGENIO, smiling. Should you like me to submit it to a few of your friends? 
+EUGENIO, <i>smiling:</i> Should you like me to submit it to a few of your friends? 
 
-MADAME DE KATKOFF, aside. Horrible man! (Aloud.) That’s the point, then: you 
+MADAME DE KATKOFF, <i>aside:</i> Horrible man! <i>(Aloud.)</i> That’s the point, then: you 
 wish to sell it. 
 
-EUGENIO. No; I only wish you to know I have it. 
+EUGENIO: No; I only wish you to know I have it. 
 
-MADAME DE KATKOFF. I knew that already. What good does it do you? 
+MADAME DE KATKOFF: I knew that already. What good does it do you? 
 
-EUGENIO. You suspected it, but you didn’t know it. The good it 
+EUGENIO: You suspected it, but you didn’t know it. The good it 
 does me is this — that when, as sometimes happens to us 
 poor members of a despised and laborious class, I take stock 
 of my prospects and reckon up the little advantages I may 
 happen to possess, I like to feel that particular one among 
 them. 
 
-MADAME DE KATKOFF. I see — you regard it as a part of your capital. But you
+MADAME DE KATKOFF: I see — you regard it as a part of your capital. But you
 draw no income. 
 
-EUGENIO. Ah, the income, Madame, is accumulating! 
+EUGENIO: Ah, the income, Madame, is accumulating! 
  
-MADAME DE KATKOFF. If you are trying to frighten me, you don’t — very much! 
+MADAME DE KATKOFF: If you are trying to frighten me, you don’t — very much! 
  
-EUGENIO. Very much — no! But enough is as good as a feast. 
+EUGENIO: Very much — no! But enough is as good as a feast. 
 There is no telling what may happen. We couriers have 
 our ups and downs, and some day I may be in distress. 
 Then, and only then, if I feel a pinch, I shall call on 
-Madame. For the present —— 
+Madame. For the present — 
 
-MADAME DE KATKOFF. For the present, you only wish to insult me! 
+MADAME DE KATKOFF: For the present, you only wish to insult me! 
 
-EUGENIO. Madame does injustice to my manners: they are usually 
+EUGENIO: Madame does injustice to my manners: they are usually 
 much appreciated. For the rest of the time that we remain 
-under the same roof — so to speak — I shall not again dis- 
-turb your meditations. 
+under the same roof — so to speak — I shall not again disturb your meditations. 
 
-MADAME DE KATKOFF. 
-Be so good as to leave me. 
+MADAME DE KATKOFF: Be so good as to leave me. 
 
-EUGENIO. I wish Madame a very good morning! (He goes into the hotel.) 
+EUGENIO: I wish Madame a very good morning! <i>(He goes into the hotel.)</i> 
 
-MADAME DE KATKOFF, stands a moment,thinking. 
+MADAME DE KATKOFF, <i>stands a moment,thinking:</i> 
 That’s what it is to have been a fool — for a single 
 moment! That moment reechoes through eternity. He 
 has shaken my nerves, and in this wretched garden one is 
-always observed. (Exit into the hotel.) 
+always observed. <i>(Exit into the hotel.)</i>
 
 SCENE SECOND. 
 MRS. COSTELLO, MISS DURANT, CHARLES REVERDY. 
