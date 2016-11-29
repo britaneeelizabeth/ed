@@ -43,8 +43,8 @@ The Promenade of the Pincian, Rome . . . . Act II.
 An Hotel in Rome . . . . . . . . . . . . . . . . . . . . Act III.
 
 ---
-
-## <p align="center">ACT FIRST.</p>
+<a id="act-first" />
+<p align="center">ACT FIRST.</p>
 
 
 <p align="center">Garden and terrace of an hotel on the Lake of Geneva. The portico 
