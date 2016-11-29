@@ -20,11 +20,11 @@ toc:
 
 ---
 <a id="title-page" />
-<p class="centered">Henry James</p>
+<p class="centered small">Henry James</p>
 <br>
 <p class="centered larger">Daisy Miller</p>
-<p class="centered large">A Comedy</p>
-<p class="centered large">In Three Acts</p>
+<p class="centered">A Comedy</p>
+<p class="centered">In Three Acts</p>
 ---
 
 ### _Dramatis Personae_
