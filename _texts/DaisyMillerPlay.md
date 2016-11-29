@@ -23,9 +23,12 @@ toc:
 <p class="centered">Henry James</p>
 
 
-<p class="centered largest">Daisy Miller</p>
-<p class="centered larger">A Comedy</p>
-<p class="centered larger">In Three Acts</p>
+
+
+
+<p class="centered larger">Daisy Miller</p>
+<p class="centered large">A Comedy</p>
+<p class="centered large">In Three Acts</p>
 ---
 
 ### _Dramatis Personae_
