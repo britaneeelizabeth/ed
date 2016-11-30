@@ -647,73 +647,65 @@ the waiter leading the way.)</i>
 
 <p align="center">SCENE THIRD. Eugenio, then Winterbourne and the waiter. <br><i>Eugenio comes out of the hotel, then looks about him and begins to call. He is without his hat and satchel.</i></p>
 
-EUGENIO. Meester Randolph! Meester Randolph! Confound that 
+EUGENIO: Meester Randolph! Meester Randolph! Confound that 
 infernal child — it’s the fifth time this morning that I’ve 
-chased him round the garden! (Stands calling again.) Meester 
+chased him round the garden! <i>(Stands calling again.)</i> Meester 
 Randolph! Meester Randolph! He is always there when 
 he’s not wanted and never when he is, and when I find him 
 I haven’t even the right to pinch his ear! He begins to 
 kick like a little mule, and he has nails in his boots — for 
 the mountains. Meester Randolph! Meester Randolph! 
-Drat the little wretch — I ’m a courier, not a nurse! (Exit to 
+Drat the little wretch — I’m a courier, not a nurse! <i>(Exit to 
 the right, while Winterbourne comes down from the hotel, followed by a waiter, the 
-same who has just appeared, carrying a little tray with a service of black coffee.) 
+same who has just appeared, carrying a little tray with a service of black coffee.)</i> 
 
-WINTERBOURNE. 
-I will have my coffee here, it’s so close in the hotel. 
-(The waiter places the tray on a small table, which he draws up to a bench. Winter- 
-bourne takes out a card, on which, on his pocket-book, he writes a few words.) 
+WINTERBOURNE: I will have my coffee here, it’s so close in the hotel. 
+<i>(The waiter places the tray on a small table, which he draws up to a bench. Winterbourne takes out a card, on which, on his pocket-book, he writes a few words.)</i> 
 And please to take that card to the lady whose name I have 
 written there, and ask her when it will be convenient for her 
 to see me. 
 
-THE WAITER, looking at the card. The Russian lady who arrived three days ago? I will let 
-you know, sir. 
-WINTERBOURNE, seated at the little table. 
+THE WAITER, <i>looking at the card:</i> The Russian lady who arrived three days ago? I will let 
+you know, sir.
+
+WINTERBOURNE, <i>seated at the little table:</i>
 Wait a moment. Do you know whether Mrs. Costello 
 has breakfasted? 
 
-THE WAITER. 
-Mrs. Costello? The lady with the young lady, and the 
+THE WAITER: Mrs. Costello? The lady with the young lady, and the 
 gentleman also young? 
 
-WINTERBOURNE. I know nothing about her companions. A lady with her
+WINTERBOURNE: I know nothing about her companions. A lady with her
 hair very high. She is rather — rather — 
 
-THE WAITER. 
-Yes, sir, she is rather high altogether! When she gives 
+THE WAITER: Yes, sir, she is rather high altogether! When she gives 
 an order —
 
-WINTERBOURNE, pouring out his coffee.  I don’t ask you to describe her — I ask you if she has 
+WINTERBOURNE, <i>pouring out his coffee:</i> I don’t ask you to describe her — I ask you if she has 
 breakfasted. 
 
-THE WAITER. The party’s at table now, sir. I conducted them myself, 
+THE WAITER: The party’s at table now, sir. I conducted them myself, 
 five minutes ago. I think they waited for you, sir; they 
 expected you to arrive. 
 
-WINTERBOURNE. 
-I arrived an hour ago, by the train; but I was dusty, and 
-I had to have a bath. (Lighting a cigarette.) Then while I 
+WINTERBOURNE: I arrived an hour ago, by the train; but I was dusty, and 
+I had to have a bath. <i>(Lighting a cigarette.)</i> Then while I 
 dressed, to save time, I had my breakfast brought to my 
 room. Where do they usually take their coffee? 
 
-THE WAITER. They take it in our beautiful garden, sir. 
+THE WAITER: They take it in our beautiful garden, sir. 
  
-WINTERBOURNE. 
-Very good. I will wait for them here. That’s all. (The
-waiter reenters the hotel. Winterbourne puffs his cigarette.) There is no
+WINTERBOURNE: Very good. I will wait for them here. That’s all. <i>(The
+waiter reenters the hotel. Winterbourne puffs his cigarette.)</i> There is no
 use in being in a hurry. I want to be eager — but I don’t 
 want to be too eager. That worthy man is quite right;
 when Aunt Louisa gives an order, it’s a military command. 
-She has ordered me up from Geneva, and I ’ve marched at 
-the word; but I’11 rest a little before reporting at head- 
-quarters. (Puffs his cigarette.) It coincides very happily, for I 
-don’t know that, without this pretext, I should have ven- 
-tured to come. Three days ago, the waiter said? A week 
+She has ordered me up from Geneva, and I’ve marched at 
+the word; but I’ll rest a little before reporting at headquarters. <i>(Puffs his cigarette.)</i> It coincides very happily, for I don’t know that, without this pretext, I should have ventured to come. Three days ago, the waiter said? A week 
 ago, at the villa, they told me she had gone. There is 
 always a mystery in that woman’s movements. Yes, Aunt 
 Louisa is rather high; but it’s not of her I’m afraid! 
-(Puffs a moment in silence.) 
+<i>(Puffs a moment in silence.)</i>
 
 SCENE FOURTH
 WINTERBOURNE, RANDOLPH, THEN DAISY. 
