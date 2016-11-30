@@ -4037,7 +4037,9 @@ My little revenge on the journey to the castle!
 
 WINTERBOURNE, looking at his watch, to himself. 
 Well, I shall have that moonlight drive! 
- 
+
+---
+
 ACT THIRD. 
 Rome. Public parlors at the Hotel de Paris; evening. Wide windows 
 at the back, overlooking the Corso, open upon a balcony, which must 
