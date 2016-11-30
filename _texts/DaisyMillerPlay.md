@@ -2053,6 +2053,7 @@ MRS. COSTELLO: They will never come back!
 MISS DURANT, <i>eagerly:</i> Isn’t it your duty to go after them? 
 
 REVERDY, <i>between the two:</i> They will be lovely company for the rest of the day! 
+ 
 ---
 <a id="act-second" />
 <p align="center">ACT SECOND.<br> A beautiful afternoon in the gardens of the Pincian Hill in Rome. A 
