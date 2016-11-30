@@ -2123,57 +2123,50 @@ MADAME DE KATKOFF: You wouldn’t have possession of your senses? So it appears.
 
 WINTERBOURNE, <i>after a silence:</i> What do you know about her? 
 
-MADAME DE KATKOFF. Nothing but that we are again at the same hotel. A 
+MADAME DE KATKOFF: Nothing but that we are again at the same hotel. A 
 former servant of mine, a very unprincipled fellow, is now in 
 her mother’s employ, and he was the first person I met as I 
 left my rooms to-day. I imagine from this that the young 
 lady is not far off. 
 
-WINTERBOURNE. Not far off from him. I wish she were farther! 
+WINTERBOURNE: Not far off from him. I wish she were farther! 
 
-MADAME DE KATKOFF. She struck me last summer as remarkably attractive. 
+MADAME DE KATKOFF: She struck me last summer as remarkably attractive. 
 
-WINTERBOURNE. She’s exactly what she was last summer — only more so! 
+WINTERBOURNE: She’s exactly what she was last summer — only more so! 
 
-MADAME DE KATKOFF. 
-She must be quite enchanting, then. 
+MADAME DE KATKOFF: She must be quite enchanting, then. 
 
-WINTERBOURNE. Do you wish me to fall in love with her? 
+WINTERBOURNE: Do you wish me to fall in love with her? 
 
-MADAME DE KATKOFF.
-It would give me particular pleasure. I would go so far 
+MADAME DE KATKOFF: It would give me particular pleasure. I would go so far 
 as to be the confidant of your passion. 
 
-WINTERBOURNE. I have no passion to confide. She’s a little American 
-flirt. 
+WINTERBOURNE: I have no passion to confide. She’s a little American flirt. 
 
-MADAME DE KATKOFF, aside. 
-It seems to me there is a certain passion in that! 
+MADAME DE KATKOFF, <i>aside:</i> It seems to me there is a certain passion in that! 
 
-WINTERBOURNE. 
-She’s foolish, frivolous, futile. She is making herself 
+WINTERBOURNE: She’s foolish, frivolous, futile. She is making herself 
 terribly talked about. 
 
-MADAME DE KATKOFF. She looked to me very innocent — with those eyes!
+MADAME DE KATKOFF: She looked to me very innocent — with those eyes!
 
-WINTERBOURNE. Oh, yes, I made a great deal of those eyes — they have 
+WINTERBOURNE: Oh, yes, I made a great deal of those eyes — they have 
 the most charming lashes. But they look at too many people. 
 
-MADAME DE KATKOFF. 
-Should you like them to fix themselves on you? You’re 
+MADAME DE KATKOFF: Should you like them to fix themselves on you? You’re 
 rather difficult to please. The young lady with your aunt is 
 too grave, and this poor little person is too gay! You had 
 better find some one who’s between the two. 
 
-WINTERBOURNE. You are between the two, and you won’t listen to me. 
+WINTERBOURNE: You are between the two, and you won’t listen to me. 
 
-MADAME DE KATKOFF. I think I understand your country-people better than you 
-do. I have learned a good deal about them from my obser- 
-vation of yourself. 
+MADAME DE KATKOFF: I think I understand your country-people better than you 
+do. I have learned a good deal about them from my observation of yourself. 
 
-WINTERBOURNE. That must have made you very fond of them! 
+WINTERBOURNE: That must have made you very fond of them! 
 
-MADAME DE KATKOFF. It has made me feel very kindly toward them, as you see 
+MADAME DE KATKOFF: It has made me feel very kindly toward them, as you see 
 from my interest in those young ladies. Don’t judge them 
 by what they seem. They are probably just the opposite, 
 for that is precisely the case with yourself. Most people 
@@ -2185,29 +2178,26 @@ could seem less glowing; but after you have been in the
 room with it for half an hour you feel that the temperature 
 is rising - and you want to open a window! 
 
-WINTERBOURNE. A tall German stove — that’s a very graceful comparison. 
+WINTERBOURNE: A tall German stove — that’s a very graceful comparison. 
 
-MADAME DE KATKOFF. I am sure your grave young lady is very gay. 
+MADAME DE KATKOFF: I am sure your grave young lady is very gay. 
 
-WINTERBOURNE. It doesn’t matter; she has got a young man of her own. 
+WINTERBOURNE: It doesn’t matter; she has got a young man of her own. 
 
-MADAME DE KATKOFF. The young man who was always with them? If you are 
+MADAME DE KATKOFF: The young man who was always with them? If you are 
 going to be put off by a rival, I have nothing to say. 
 
-WINTERBOURNE. He’s not a rival of mine; he’s only a rival of my aunt’s. 
-She wants me to marry Miss Durant, but Miss Durant pre- 
-fers the gallant Reverdy. 
+WINTERBOURNE: He’s not a rival of mine; he’s only a rival of my aunt’s. 
+She wants me to marry Miss Durant, but Miss Durant prefers the gallant Reverdy. 
 
-MADAME DE KATKOFF. 
-That simplifies it. 
+MADAME DE KATKOFF: That simplifies it. 
 
-WINTERBOURNE. Not so very much; because the gallant Reverdy shows a 
+WINTERBOURNE: Not so very much; because the gallant Reverdy shows a 
 predilection for Miss Daisy Miller. 
 
-MADAME DE KATKOFF. 
-Ah, then he is your rival! 
+MADAME DE KATKOFF: Ah, then he is your rival! 
 
-WINTERBOURNE. There are so many others that he doesn’t count. She has 
+WINTERBOURNE: There are so many others that he doesn’t count. She has 
 at least a dozen admirers, and she knocks about Rome with 
 all of them. She once told me that she was very fond of 
 gentlemen’s society; but unfortunately they are not all 
