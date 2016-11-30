@@ -36,7 +36,7 @@ toc:
 Frederick Winterbourne.    
 Mrs. Costello.  
 Charles Reverdy.    
-Madame De Katkoff.   
+Madame de Katkoff.   
 Giacomo Giovanelli.   
 Alice Durant.  
 Eugenio.   
@@ -62,7 +62,7 @@ posed to descend to a pier. Beyond this a distant view of mountains
 and of the lake, with the Chateau de Chillon. Orange-trees 
 in green tubs, benches, a few small tables and chairs.</p> 
 
-<p align="center">SCENE FIRST. Madame De Katkoff, Eugenio.</p>  
+<p align="center">SCENE FIRST. Madame de Katkoff, Eugenio.</p>  
 MADAME DE KATKOFF, <i>coming in as if a little startled, with a French book in a pink cover under her arm:</i> I believe he means to speak to me! He is capable of any impertinence.
 
 EUGENIO, <i>following slowly, handsomely dressed, with a large watchguard, and a courier’s satchel over his shoulder. He takes off his hat and bows obsequiously, but with a certain mock respect:</i> Madame does me the honor to recognize me, I think. 
@@ -1076,7 +1076,7 @@ DAISY, <i>going:</i> And I shall learn your name from Eugenio.
 EUGENIO, <i>aside:</i> And something else as well! He is not for the child. 
 <i>(Follows Daisy into the hotel.)</i> 
  
- <p align="center">SCENE SIXTH. Winterbourne alone, then Madame De Katkoff.</p> 
+ <p align="center">SCENE SIXTH. Winterbourne alone, then Madame de Katkoff.</p> 
 
 WINTERBOURNE: She’s simply amazing! I have never seen them like 
 that. I have seen them worse — oh, yes! - and I have 
@@ -1326,500 +1326,407 @@ MISS DURANT, <i>to Winterbourne:</i> I can’t say it was of you I thought when 
 WINTERBOURNE: I should never flatter myself: there are too many other 
 objects of interest. 
 
-MRS. COSTELLO. That’s precisely what we have been talking of. We are 
+MRS. COSTELLO.: That’s precisely what we have been talking of. We are 
 surrounded by objects of interest, and we depend upon you 
 to be our guide. 
 
-WINTERBOURNE. My dear aunt, I’m afraid I don’t know much about them. 
+WINTERBOURNE: My dear aunt, I’m afraid I don’t know much about them. 
 
-MRS. COSTELLO. You’ll have a motive to-day for learning. I have an idea 
+MRS. COSTELLO: You’ll have a motive to-day for learning. I have an idea 
 that you have always wanted a motive. In that stupid old 
 Geneva there can’t be many. 
 
-WINTERBOURNE. 
-Ah, if there’s one, it’s enough ! 
+WINTERBOURNE: Ah, if there’s one, it’s enough! 
 
-MISS DURANT, aside. If there’s one? He’s in love with some dreadful Gene- 
-vese! 
+MISS DURANT, <i>aside:</i> If there’s one? He’s in love with some dreadful Genevese! 
 
-MRS. COSTELLO. My young companion has a great desire to ascend a 
+MRS. COSTELLO: My young companion has a great desire to ascend a 
 mountain — to examine a glacier. 
 
-MISS DURANT. Cousin Louisa, you make me out too bold! 
+MISS DURANT: Cousin Louisa, you make me out too bold! 
 
-WINTERBOURNE, aside. She’s not bold, then, this one, like the other? I think I 
-prefer the other. (Aloud.) You should go to Zermatt. You’re 
+WINTERBOURNE, <i>aside.:</i> She’s not bold, then, this one, like the other? I think I 
+prefer the other. <i>(Aloud.)</i> You should go to Zermatt. You’re 
 in the midst of the glaciers there. 
 
-MRS. COSTELLO. We shall be delighted to go — under your escort. Mr. 
+MRS. COSTELLO: We shall be delighted to go — under your escort. Mr. 
 Reverdy will look after me! 
 
-MISS DURANT, glancing about for him. 
+MISS DURANT, <i>glancing about for him:</i> 
 When he has done with Miss Daisy Miller! 
 
-WINTERBOURNE, smiling. Even among the glaciers, I flatter myself I can take care 
+WINTERBOURNE, <i>smiling:</i> Even among the glaciers, I flatter myself I can take care 
 of both of you. 
 
-MISS DURANT. It will be all the easier, as I never leave your aunt. 
+MISS DURANT: It will be all the easier, as I never leave your aunt. 
 
-MRS. COSTELLO. 
-She doesn’t rush about the world alone, like so many 
+MRS. COSTELLO: She doesn’t rush about the world alone, like so many 
 American girls. She has been brought up like the young 
 ladies in Geneva. Her education was surrounded with every 
 precaution. 
 
-WINTERBOURNE, smiling. With too many, perhaps! The best education is seeing 
+WINTERBOURNE, <i>smiling:</i> With too many, perhaps! The best education is seeing 
 the world a little. 
 
-MRS. COSTELLO. That’s precisely what I wish her to do. When we have 
+MRS. COSTELLO: That’s precisely what I wish her to do. When we have 
 finished Zermatt, we wish to come back to Interlaken, and 
 from Interlaken you shall take us to Lucerne. 
  
-WINTERBOURNE, gravely. 
-Perhaps you’ll draw up a little list. 
+ WINTERBOURNE, <i>gravely:</i> Perhaps you’ll draw up a little list. 
 
-MISS DURANT, aside.
-Perfectly polite, but no enthusiasm! (Aloud.) I’m afraid
+MISS DURANT, <i>aside:</i> Perfectly polite, but no enthusiasm! <i>(Aloud.)</i> I’m afraid
 Mr. Winterbourne isn’t at liberty; he has other friends. 
 
-MRS. COSTELLO. 
-He hasn’t another aunt, I imagine!
+MRS. COSTELLO: He hasn’t another aunt, I imagine!
 
-WINTERBOURNE, aside. Fortunately not! (Aloud to Miss Durant.) It’s very charm- 
-ing of you to think of that. 
+WINTERBOURNE, <i>aside:</i> Fortunately not! <i>(Aloud to Miss Durant.)</i> It’s very charming of you to think of that. 
 
-MISS DURANT. Possibly we are indiscreet, as we just saw you talking to 
-a lady. 
+MISS DURANT: Possibly we are indiscreet, as we just saw you talking to a lady. 
 
-WINTERBOURNE. Madame de Katkoff? She leaves this place to-day. 
+WINTERBOURNE: Madame de Katkoff? She leaves this place to-day. 
 
-MRS. COSTELLO. You don’t mean to follow her, I hope? (Aside.) It’s best 
+MRS. COSTELLO: You don’t mean to follow her, I hope? <i>(Aside.)</i> It’s best 
 to be firm with him at the start. 
 
-WINTERBOURNE. My dear aunt, I don’t follow every woman I speak to. 
+WINTERBOURNE: My dear aunt, I don’t follow every woman I speak to. 
 
-MISS DURANT, aside. Ah, that’s meant for us! Mr. Reverdy is never so rude. 
+MISS DURANT, <i>aside:</i> Ah, that’s meant for us! Mr. Reverdy is never so rude. 
 I would thank him to come back. 
 
-MRS. COSTELLO. On the 1st of October, you know, you shall take us to 
-Italy. 
+MRS. COSTELLO: On the 1st of October, you know, you shall take us to Italy. 
 
-WINTERBOURNE. 
-Ah! every one is going to Italy. 
+WINTERBOURNE: Ah! every one is going to Italy. 
 
-MISS DURANT. Every one? Madame de Katkoff, perhaps. 
+MISS DURANT: Every one? Madame de Katkoff, perhaps. 
 
-WINTERBOURNE. Madame de Katkoff, precisely; and Mr. Randolph C. 
-Miller and his sister Daisy. 
-MRS. COSTELLO. 
-Bless my soul! What do you know about that? 
+WINTERBOURNE: Madame de Katkoff, precisely; and Mr. Randolph C. 
+Miller and his sister Daisy.
 
-WINTERBOURNE. 
-I know what they have told me. 
+MRS. COSTELLO: Bless my soul! What do you know about that? 
 
-MRS. COSTELLO. 
-Mercy on us! What opportunity? — 
+WINTERBOURNE: I know what they have told me. 
 
-WINTERBOURNE. 
-Just now, while I had my coffee. 
+MRS. COSTELLO: Mercy on us! What opportunity? — 
 
-MISS DURANT. As I say, Mr. Winterbourne has a great many friends. 
+WINTERBOURNE: Just now, while I had my coffee. 
 
-WINTERBOURNE. He only asks to add you to the number. 
+MISS DURANT: As I say, Mr. Winterbourne has a great many friends. 
 
-MISS DURANT. Side by side with Miss Daisy Miller? Thank you very 
-much. 
+WINTERBOURNE: He only asks to add you to the number. 
 
-MRS. COSTELLO. Come, my dear Frederick, that girl is not your friend. 
+MISS DURANT: Side by side with Miss Daisy Miller? Thank you very much. 
 
-WINTERBOURNE. Upon my word, I don’t know what she is, and I should 
-be very glad if you could tell me. 
+MRS. COSTELLO: Come, my dear Frederick, that girl is not your friend. 
 
-MRS. COSTELLO. That’s very easily done: she’s a little American flirt. 
+WINTERBOURNE: Upon my word, I don’t know what she is, and I should be very glad if you could tell me. 
 
-WTNTERBOURNE. 
-Ah! she’s a little American flirt! 
+MRS. COSTELLO: That’s very easily done: she’s a little American flirt. 
 
-MISS DUBANT. 
-She’s a vulgar little chatterbox. 
+WTNTERBOURNE: Ah! she’s a little American flirt! 
 
-WINTERBOURNE. 
-Ah! she’s a vulgar little chatterbox! 
+MISS DURANT: She’s a vulgar little chatterbox. 
+
+WINTERBOURNE: Ah! she’s a vulgar little chatterbox! 
  
-MRS. COSTELLO. 
-She’s in no sort of society.
+MRS. COSTELLO: She’s in no sort of society.
 
-WINTERBOURNE. 
-Ah! she’s in no sort of society! 
+WINTERBOURNE: Ah! she’s in no sort of society! 
 
-MISS DURANT. 
-You would never know her in America. 
+MISS DURANT: You would never know her in America. 
 
-WINTERBOURNE. If I should never know her in America, it seems to me a 
+WINTERBOURNE: If I should never know her in America, it seems to me a 
 reason for seizing the opportunity here. 
 
-MRS. COSTELLO. The opportunity appears to have come to you very easily. 
+MRS. COSTELLO: The opportunity appears to have come to you very easily. 
 
-WINTERBOURNE. I confess it did, rather. We fell into conversation while 
+WINTERBOURNE: I confess it did, rather. We fell into conversation while 
 I sat there on the bench. 
 
-MRS. COSTELLO. 
-Perhaps she sat down beside you? 
+MRS. COSTELLO: Perhaps she sat down beside you? 
 
-WINTERBOURNE. I won’t deny that she did; she is wonderfully charming. 
+WINTERBOURNE: I won’t deny that she did; she is wonderfully charming. 
 
-MISS DURANT. Oh! if that’s all that’s necessary to be charming — 
+MISS DURANT: Oh! if that’s all that’s necessary to be charming — 
 
-MRS. COSTELLO. You must give up the attempt — mustn’t you, my dear? 
+MRS. COSTELLO: You must give up the attempt — mustn’t you, my dear? 
 My poor Frederick, this is very dreadful! 
 
-WINTERBOURNE. 
-So it seems; but I don’t understand. 
+WINTERBOURNE: So it seems; but I don’t understand. 
 
-MRS. COSTELLO. What should you say at Geneva of a young woman who 
-made such advances? 
-WINTERBOURNE. 
-Such advances? I don’t know that they were advances. 
+MRS. COSTELLO: What should you say at Geneva of a young woman who made such advances?
 
-MRS. COSTELLO. Ah! if you wish to wait till she invites you to her room! 
+WINTERBOURNE: Such advances? I don’t know that they were advances. 
 
-WINTERBOURNE, laughing. 
-I shall not have to wait very long. 
+MRS. COSTELLO: Ah! if you wish to wait till she invites you to her room! 
 
-MISS DURANT. 
-Hadn’t I better leave you? 
+WINTERBOURNE, <i>laughing:</i> I shall not have to wait very long. 
 
-MRS. COSTELLO. 
-Poor child, I understand that you shrink . . . But we 
-must make it clear. 
+MISS DURANT: Hadn’t I better leave you? 
 
-MISS DURANT. 
-Oh, yes, we must make it clear! 
+MRS. COSTELLO: Poor child, I understand that you shrink... But we must make it clear. 
 
-WINTERBOURNE. Do make it clear; I want it to be clear. 
+MISS DURANT: Oh, yes, we must make it clear! 
 
-MRS. COSTELLO. Ask yourself, then, what they would say at Geneva. 
+WINTERBOURNE: Do make it clear; I want it to be clear. 
 
-WINTERBOURNE. They would say she was rather far gone. But we are not 
-at Geneva. 
-MRS. COSTELLO.
-We are only a few miles off. Miss Daisy Miller is very 
-far gone indeed. 
+MRS. COSTELLO: Ask yourself, then, what they would say at Geneva. 
 
-WINTERBOURNE. Ah! what a pity! But I thought, now, in New York — 
+WINTERBOURNE: They would say she was rather far gone. But we are not at Geneva.
 
-MRS. COSTELLO, sternly. Frederick, don’t lift your hand against your mother- 
+MRS. COSTELLO: We are only a few miles off. Miss Daisy Miller is very far gone indeed. 
+
+WINTERBOURNE: Ah! what a pity! But I thought, now, in New York — 
+
+MRS. COSTELLO, <i>sternly:</i> Frederick, don’t lift your hand against your mother- 
 country! 
 
-WINTERBOURNE. Never in the world. I only repeat what I hear — that 
-over there all this sort of thing - the manners of young per- 
-sons, the standard of propriety — is quite different. 
+WINTERBOURNE: Never in the world. I only repeat what I hear — that 
+over there all this sort of thing - the manners of young persons, the standard of propriety — is quite different. 
 
-MISS DURANT. I only know how I was brought up!  
+MISS DURANT: I only know how I was brought up!  
 
-WINTERBOURNE, slightly ironical. 
-Ah, that settles it. 
+WINTERBOURNE, <i>slightly ironical:</i> Ah, that settles it. 
 
-MRS. COSTELLO. 
-We must take him back with us, to see. 
+MRS. COSTELLO: We must take him back with us, to see. 
 
-WINTERBOURNE. Not to see, you mean - not to see my dear little friend! 
+WINTERBOURNE: Not to see, you mean - not to see my dear little friend! 
 
-MRS. COSTELLO. 
-In the best society — never. 
+MRS. COSTELLO: In the best society — never. 
 
-WINTERBOURNE. 
-Oh, hang the best society, then! 
+WINTERBOURNE: Oh, hang the best society, then! 
 
-MRS. COSTELLO, with majesty. 
-I am exceedingly obliged to you. 
+MRS. COSTELLO, <i>with majesty:</i> I am exceedingly obliged to you. 
 
-WINTERBOURNE. Oh, you are the best society! And the little girl with the 
+WINTERBOURNE: Oh, you are the best society! And the little girl with the 
 naughty brother is the worst? 
 
-MRS. COSTELLO. 
-The worst I have ever seen. 
+MRS. COSTELLO: The worst I have ever seen. 
 
-WINTERBOURNE, rather gravely, laying his hand on her arm. 
-My dear aunt, the best, then, ought to be awfully good! 
+WINTERBOURNE, <i>rather gravely, laying his hand on her arm:</i> My dear aunt, the best, then, ought to be awfully good! 
 
-MISS DURANT, aside. 
-He means that for an epigram! I’ll make him go and 
-look for Mr. Reverdy. (Aloud.) I wonder what has become 
-of Mr. Reverdy. 
+MISS DURANT, <i>aside:</i> He means that for an epigram! I’ll make him go and 
+look for Mr. Reverdy. <i>(Aloud.)</i> I wonder what has become of Mr. Reverdy. 
 
-MRS. COSTELLO, sharply. Never mind Mr. Reverdy; I’ll look after him. (To Winter- 
-bourne.) If you should see a little more of those vulgar 
-people, you would find that they don’t stand the test. 
+MRS. COSTELLO, <i>sharply:</i> Never mind Mr. Reverdy; I’ll look after him. <i>(To Winterbourne.)</i> If you should see a little more of those vulgar people, you would find that they don’t stand the test. 
 
-WINTERBOURNE. Oh, I shall see a little more of them — in a quarter of an 
-hour. (Looking at his watch.) The young lady is coming back 
-at two o’clock. 
+WINTERBOURNE: Oh, I shall see a little more of them — in a quarter of an 
+hour. <i>(Looking at his watch.)</i> The young lady is coming back at two o’clock. 
 
-MRS. COSTELLO.  
-Gracious goodness! Have you made an appointment? 
+MRS. COSTELLO: Gracious goodness! Have you made an appointment? 
 
-WINTERBOURNE. 
-I don’t know whether it’s an appointment, but she said 
-she would come back again. 
+WINTERBOURNE: I don’t know whether it’s an appointment, but she said she would come back again. 
 
-MRS. COSTELLO, to Miss Durant. 
-My precious darling, we must go in. We can hardly be 
+MRS. COSTELLO, <i>to Miss Durant:</i> My precious darling, we must go in. We can hardly be 
 expected to assist at such a scene. 
 
-WINTERBOURNE. My dear aunt, there is plenty of time yet. 
+WINTERBOURNE: My dear aunt, there is plenty of time yet. 
 
-MISS DURANT. Ah, no; she’ll be before! Would you kindly look for 
-Mr. Reverdy? 
+MISS DURANT: Ah, no; she’ll be before! Would you kindly look for Mr. Reverdy? 
 
-WINTERBOURNE, extremely polite. 
-With the greatest of pleasure. 
+WINTERBOURNE, <i>extremely polite:</i> With the greatest of pleasure. 
 
-MRS. COSTELLO. 
-Later in the afternoon, if this extraordinary interview is 
+MRS. COSTELLO: Later in the afternoon, if this extraordinary interview is 
 over, we should like you to go with us into the town. 
 
-WINTERBOURNE, in the same tone. With the greatest of pleasure. (Aside.) They hate her 
+WINTERBOURNE, <i>in the same tone:</i> With the greatest of pleasure. <i>(Aside.)</i> They hate her 
 ferociously, and it makes me feel sorry for her. 
 
-MRS. COSTELLO, to Miss Durant. 
-Quickly, my dear! We must get out of the way. 
+MRS. COSTELLO, <i>to Miss Durant:</i> Quickly, my dear! We must get out of the way. 
 
-WINTERBOURNE. 
-Let me at least see you into the house. (Accompanies them  
-into the hotel.) 
+WINTERBOURNE: Let me at least see you into the house. <i>(Accompanies them  
+into the hotel.)</i> 
   
-SCENE EIGHTH. 
-CHARLES REVERDY, RANDOLPH, THEN DAISY. 
+  <p align="center">SCENE EIGHTH. Charles Reverdy, Randolph, then Daisy.</p> 
 
-REVERDY, coming in from behind with the child on his back. 
-The horrid little wretch! I’m like Sinbad the Sailor 
-with the Old Man of the Sea! Don’t you think you’ve 
-had about enough? 
+REVERDY, <i>coming in from behind with the child on his back:</i> The horrid little wretch! I’m like Sinbad the Sailor 
+with the Old Man of the Sea! Don’t you think you’ve had about enough? 
 
-RANDOLPH, snapping a little whip. Oh, no; I haven’t had enough. I’ll tell you when I’ve 
-had enough. 
+RANDOLPH, <i>snapping a little whip:</i> Oh, no; I haven’t had enough. I’ll tell you when I’ve had enough. 
 
-REVEBDY. 
-Oh, come! I’ve galloped twenty miles; I’ve been 
+REVERDY: Oh, come! I’ve galloped twenty miles; I’ve been 
 through all my paces. You must sit still in the saddle a 
-while. (Pauses in front while Randolph bounces up and down.) I’m play- 
-ing horse with the brother to be agreeable to the sister; but 
-he’s riding me to death! 
+while. <i>(Pauses in front while Randolph bounces up and down.)</i> I’m playing horse with the brother to be agreeable to the sister; but he’s riding me to death! 
 
-RANDOLPH, still brandishing his whip. I want you to prance about and to kick. Get up, sir; 
-get up! 
+RANDOLPH, <i>still brandishing his whip:</i> I want you to prance about and to kick. Get up, sir; get up! 
 
-REVERDY, aside. It’s the devil’s own game - here at the door of the 
-hotel! (Aloud.) I’ll prance about so that you’ll come off. 
+REVERDY, <i>aside:</i> It’s the devil’s own game - here at the door of the 
+hotel! <i>(Aloud.)</i> I’ll prance about so that you’ll come off. 
 
-RANDOLPH, firm in his place. 
-If you throw me off, I’11 give you a licking! Get up, 
+RANDOLPH, <i>firm in his place:</i> If you throw me off, I’ll give you a licking! Get up, sir, get up! 
+
+REVERDY, <i>aside:</i> Damn the little demon! It was a happy thought of mine. 
+
+RANDOLPH, <i>kicking:</i> These are my spurs. I’ll drive in my spurs! Get up, 
 sir, get up! 
 
-REVERDY, aside. Damn the little demon! It was a happy thought of mine. 
+REVERDY: Oh misery, here goes! <i>(He begins to imitate the curvetting of a
+horse, in the hope of throwing Randolph off, but, seeing Daisy issue from the hotel, suddenly stops.)</i> 
 
-RANDOLPH, kicking. 
-These are my spurs. I’ll drive in my spurs! Get up, 
-sir, get up! 
+DAISY, <i>staring:</i> Well, Randolph, what are you doing up there? 
 
-REVERDY.
-Oh misery, here goes! (He begins to imitate the curvetting of a
-horse, in the hope of throwing Randolph off, but, seeing Daisy issue from the hotel, suddenly stops.) 
+RANDOLPH: I’m riding on a mule! 
 
-DAISY, staring. Well, Randolph, what are you doing up there? 
-
-RANDOLPH. 
-I’m riding on a mule! 
-
-REVERDY, with a groan. A mule? Not even the nobler animal! My dear young 
+REVERDY, <i>with a groan:</i> A mule? Not even the nobler animal! My dear young 
 lady, couldn’t you persuade him to dismount? 
 
-DAISY, laughing. You look so funny when you say that! I’m sure I 
-never persuaded Randolph. 
+DAISY, <i>laughing:</i> You look so funny when you say that! I’m sure I never persuaded Randolph. 
 
-RANDOLPH. 
-He said if I would tell him where you were, he would 
-give me a ride. 
+RANDOLPH: He said if I would tell him where you were, he would give me a ride. 
 
-REVERDY. And then, when he was up, he refused to tell me! 
+REVERDY: And then, when he was up, he refused to tell me! 
 
-RANDOLPH. I told you mother wouldn’t like it. She wants Daisy 
-and me to be proper. 
+RANDOLPH: I told you mother wouldn’t like it. She wants Daisy and me to be proper. 
 
-REVERDY, aside. “Me to be proper!” He’s really sublime, the little fiend! 
+REVERDY, <i>aside:</i> “Me to be proper!” He’s really sublime, the little fiend! 
 
-DAISY. Well, she does want you to be proper. She’s waiting 
-for you at lunch. 
+DAISY: Well, she does want you to be proper. She’s waiting for you at lunch. 
 
-RANDOLPH. I don’t want any lunch: there’s nothing fit to eat. 
+RANDOLPH: I don’t want any lunch: there’s nothing fit to eat. 
 
-DAISY. Well, I guess there is, if you’ll go and see. 
+DAISY: Well, I guess there is, if you’ll go and see. 
 
-REVERDY, aside. It’s uncommonly nice for me, while they argue the 
-question! 
+REVERDY, <i>aside:</i> It’s uncommonly nice for me, while they argue the question! 
 
-DAISY. There’s a man with candy in the hall; that’s where 
-mother wants you to be proper. 
+DAISY: There’s a man with candy in the hall; that’s where mother wants you to be proper. 
 
-RANDOLPH, jumping down. 
-A man with candy. Oh, blazes! 
+RANDOLPH, <i>jumping down:</i> A man with candy. Oh, blazes! 
 
-REVERDY, aside. Adorable creature! She has broken the spell. 
+REVERDY, <i>aside:</i> Adorable creature! She has broken the spell. 
 
-RANDOLPH, scampering into the hotel. 
-I say, old mule, you can go to grass! 
+RANDOLPH, <i>scampering into the hotel:</i> I say, old mule, you can go to grass! 
 
-REVERDY. 
-Delightful little nature, your brother. 
+REVERDY: Delightful little nature, your brother. 
 
-DAISY. Well, he used to have a pony at home. I guess he misses 
+DAISY: Well, he used to have a pony at home. I guess he misses 
 that pony. Is it true that you asked him that? 
 
-REVERDY. 
-To tell me where you were? I confess I wanted very 
+REVERDY: To tell me where you were? I confess I wanted very 
 much to know. 
 
-DAISY. Well, Randolph couldn’t tell you. I was having lunch 
+DAISY: Well, Randolph couldn’t tell you. I was having lunch 
 with mother. I thought you were with those ladies. 
 
-REVERDY. 
-Whom you saw me with this morning? Oh, no; they’ve 
+REVERDY: Whom you saw me with this morning? Oh, no; they’ve 
 got another cavalier, just arrived, on purpose. 
 
-DAISY, attentive. Another cavalier — just arrived? Do you mean that 
+DAISY, <i>attentive:</i> Another cavalier — just arrived? Do you mean that 
 gentleman that speaks so beautifully? 
 
-REVERDY. 
-A dozen languages? His English isn’t bad - compared 
+REVERDY: A dozen languages? His English isn’t bad - compared 
 with my French! 
 
-DAISY, thoughtful. Well, he looks like a cavalier. Did he come on purpose 
+DAISY, <i>thoughtful:</i> Well, he looks like a cavalier. Did he come on purpose 
 for them? 
 
-REVERDY, aside. What does she know about him? (Aloud.) Oh, yes;
-they sent for him to Geneva. 
+REVERDY, <i>aside:</i> What does she know about him? <i>(Aloud.)</i> Oh, yes; they sent for him to Geneva. 
 
-DAISY. 
-To Geneva? That’s the one! 
+DAISY: To Geneva? That’s the one! 
 
-REVERDY. You see, they want him to be always with them; he’s 
-for their own particular consumption. 
-DAISY, disappointed, but very simply. 
-Ah, then he won’t come out at two o’clock! 
+REVERDY: You see, they want him to be always with them; he’s 
+for their own particular consumption.
 
-REVERDY. I’m sure I don’t know. (The bell of the hotel strikes two.) There 
-it is. You’ll have a chance to see. (Winterbourne, on the stroke 
-of the hour, comes out of the hotel.) 
+DAISY, <i>disappointed, but very simply:</i> Ah, then he won’t come out at two o’clock! 
 
-DAISY, joyfully. 
-Here he comes! He’s too sweet! 
+REVERDY: I’m sure I don’t know. <i>(The bell of the hotel strikes two.)</i> There 
+it is. You’ll have a chance to see. <i>(Winterbourne, on the stroke 
+of the hour, comes out of the hotel.)</i> 
 
-REVERDY, aside. Oh, I say, she had made an appointment with him while 
-I was doing the mule! 
+DAISY, <i>joyfully:</i> Here he comes! He’s too sweet! 
 
-SCENE NINTH. 
-REVERDY, FOR A MOMENT; DAISY, WINTERBOURNE. 
+REVERDY, <i>aside:</i> Oh, I say, she had made an appointment with him while I was doing the mule! 
 
-WINTERBOURNE, to Reverdy. I am glad to find you: Miss Durant has a particular 
-desire to see you. 
+<p align="center">SCENE NINTH. Reverdy, for a moment; Daisy, Winterbourne.</p> 
 
-REVERDY. It’s very good of you to be her messenger. (Aside.) That’s 
+WINTERBOURNE, <i>to Reverdy:</i> I am glad to find you: Miss Durant has a particular desire to see you. 
+
+REVERDY: It’s very good of you to be her messenger. <i>(Aside.)</i> That’s 
 what he calls relieving me! 
  
-WINTERBOURNE. You will find those ladies in their own sitting-room, on 
-the second floor. 
-REVERDY.
-Oh, I know where it is. (To Daisy.) I shall be back in 
-five minutes. 
+WINTERBOURNE: You will find those ladies in their own sitting-room, on 
+the second floor.
 
-DAISY. 
-I’m sure you needn’t hurry. 
+REVERDY: Oh, I know where it is. <i>(To Daisy.)</i> I shall be back in five minutes. 
 
-WINTERBOURNE. I have an idea they have a good deal to say to you. 
+DAISY: I’m sure you needn’t hurry. 
 
-REVERDY. I hope it isn’t to complain of you! (Goes into the hotel.) 
+WINTERBOURNE: I have an idea they have a good deal to say to you. 
 
-DAISY, looking at Winterbourne a moment. 
-I was afraid you wouldn’t come. 
+REVERDY: I hope it isn’t to complain of you! <i>(Goes into the hotel.)</i> 
 
-WINTERBOURNE, aside. She has a way of looking at you! (Aloud.) I don’t 
+DAISY, <i>looking at Winterbourne a moment:</i> I was afraid you wouldn’t come. 
+
+WINTERBOURNE, <i>aside:</i> She has a way of looking at you! <i>(Aloud.)</i> I don’t 
 know what can have given you such an impression. 
 
-DAISY. Well, you know, half the time they don’t — the gentle- 
-men. 
-WINTERBOURNE.
-That’s in America, perhaps. But over here they always 
-come. 
+DAISY: Well, you know, half the time they don’t — the gentlemen.
 
-DAISY, simply. Well, I haven’t had much experience over here. 
+WINTERBOURNE: That’s in America, perhaps. But over here they always come. 
 
-WINTERBOURNE. I am glad to hear it. It was very good of your mother 
-to let you leave her again. 
-DAISY, surprised. 
-Oh, mother doesn’t care; she has got Eugenio. 
+DAISY, <i>simply:</i> Well, I haven’t had much experience over here. 
 
-WINTERBOURNE, startled. 
-Surely, not to sit with her? 
+WINTERBOURNE: I am glad to hear it. It was very good of your mother to let you leave her again.
+
+DAISY, <i>surprised:</i> Oh, mother doesn’t care; she has got Eugenio. 
+
+WINTERBOURNE, <i>startled:</i> Surely, not to sit with her? 
  
-DAISY. Well, he doesn‘t sit with her always, because he likes to 
+DAISY: Well, he doesn‘t sit with her always, because he likes to 
 go out. 
 
-WINTERBOURNE. 
-Oh, he likes to go out! 
+WINTERBOURNE: Oh, he likes to go out!
+
 DAISY. 
 He’s got a great many friends, Eugenio; he's awfully 
 popular. And then, you know, poor mother isn’t very 
 amusing. 
 
-WINTERBOURNE. Ah, she isn’t very amusing! (Aside.) Aunt Louisa was 
+WINTERBOURNE: Ah, she isn’t very amusing! <i>(Aside.)</i> Aunt Louisa was 
 right: it isn’t the best society! 
 
-DAISY. But Eugenio stays with her all he can: he says he didn’t 
+DAISY: But Eugenio stays with her all he can: he says he didn’t 
 expect that so much when he came. 
 
-WINTERBOURNE. I should think not! I hope at least that it isn’t a 
+WINTERBOURNE: I should think not! I hope at least that it isn’t a 
 monopoly, and that I may have the pleasure of making your 
 mother’s acquaintance. 
 
-DAISY. Well, you do speak beautifully! I told Mr. Reverdy. 
+DAISY: Well, you do speak beautifully! I told Mr. Reverdy. 
 
-WINTERBOURNE. It was very good of you to mention it. One speaks as 
+WINTERBOURNE: It was very good of you to mention it. One speaks as 
 one can. 
 
-DAISY. Mother’s awfully timid, or else I’d introduce you. She 
+DAISY: Mother’s awfully timid, or else I’d introduce you. She 
 always makes a fuss if I introduce a gentleman. But I do 
 introduce them — the ones I like. 
 
-WINTERBOURNE. If it’s a sign of your liking, I hope you will introduce me. 
+WINTERBOURNE: If it’s a sign of your liking, I hope you will introduce me. 
 But you must know my name, which you didn’t a while 
 ago. 
 
-DAISY. Oh, Eugenio has told me your name, and I think it’s 
+DAISY: Oh, Eugenio has told me your name, and I think it’s 
 very pretty. And he has told me something else. 
 
-WINTERBOURNE. I can’t imagine what he should tell you about me. 
+WINTERBOURNE: I can’t imagine what he should tell you about me. 
 
-DAISY. About you and some one else — that Russian lady who is 
+DAISY: About you and some one else — that Russian lady who is 
 leaving the hotel. 
 
-WINTERBOURNE, quickly. Who is leaving the hotel! How does he know that? 
+WINTERBOURNE, <i>quickly:</i> Who is leaving the hotel! How does he know that? 
 
-DAISY, with a little laugh. You see it is true: you are very fond of that Russian 
+DAISY, <i>with a little laugh:</i> You see it is true: you are very fond of that Russian 
 lady! 
 
-WINTERBOURNE, aside. 
-She is leaving the hotel — but not till six o’clock. (Aloud.) 
+WINTERBOURNE, <i>aside:</i> She is leaving the hotel — but not till six o’clock. <i>(Aloud.)</i> 
 I haven’t known you very long, but I should like to give
 you a piece of advice. Don’t gossip with your courier! 
 
-DAISY. I see you’re offended — and it proves Eugenio was right. 
+DAISY: I see you’re offended — and it proves Eugenio was right. 
 He said it was a secret — and you don’t like me to know it. 
 
-WINTERBOURNE. You may know everything, my dear young lady; only 
+WINTERBOURNE: You may know everything, my dear young lady; only 
 don’t get your information from a servant. 
 
-DAISY. Do you call Eugenio a servant? He’ll be amused if I 
+DAISY: Do you call Eugenio a servant? He’ll be amused if I 
 tell him that! 
 
 WINTERBOURNE. He won’t be amused — he will be furious; but the par- 
