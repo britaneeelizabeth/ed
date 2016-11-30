@@ -1729,417 +1729,337 @@ don’t get your information from a servant.
 DAISY: Do you call Eugenio a servant? He’ll be amused if I 
 tell him that! 
 
-WINTERBOURNE. He won’t be amused — he will be furious; but the par- 
-ticular emotion doesn’t matter. It’s very good of you to 
+WINTERBOURNE: He won’t be amused — he will be furious; but the particular emotion doesn’t matter. It’s very good of you to 
 take such an interest. 
  
-DAISY. Oh, I don’t know what I should do if I didn’t take some 
+DAISY: Oh, I don’t know what I should do if I didn’t take some 
 interest! You do care for her, then? 
 
-WINTERBOURNE, a little annoyed. For the Russian lady? Oh, yes, we are old friends. 
-(Aside.) My aunt’s right; they don’t stand the test! 
+WINTERBOURNE, <i>a little annoyed:</i> For the Russian lady? Oh, yes, we are old friends. 
+<i>(Aside.)</i> My aunt’s right; they don’t stand the test! 
 
-DAISY. I’m very glad she is going, then. But the others mean
+DAISY: I’m very glad she is going, then. But the others mean
 to stay? 
 
-WINTERBOURNE. 
-The others? What others? 
+WINTERBOURNE: The others? What others? 
  
-DAISY. The two that Mr. Reverdy told me about, and to whom 
-he’s so very devoted. 
-WINTERBOURNE. 
-It’s my aunt and a friend of hers; but you needn’t mind 
+DAISY: The two that Mr. Reverdy told me about, and to whom 
+he’s so very devoted.
+
+WINTERBOURNE: It’s my aunt and a friend of hers; but you needn’t mind 
 them. 
 
-DAISY. For all they mind me! But they look very stylish. 
+DAISY: For all they mind me! But they look very stylish. 
 
-WINTERBOURNE. Oh, yes, they are very stylish; you can bet your life on 
+WINTERBOURNE: Oh, yes, they are very stylish; you can bet your life on 
 that, as your brother says! 
 
-DAISY, looking at him a moment. Did you come for them, or for the Russian lady? 
+DAISY, <i>looking at him a moment:</i> Did you come for them, or for the Russian lady? 
 
-WINTERBOURNE, aside, more annoyed. Ah, too many questions! (Aloud.) I came for none of 
+WINTERBOURNE, <i>aside, more annoyed:</i> Ah, too many questions! <i>(Aloud.)</i> I came for none of 
 them; I came for myself. 
 
-DAISY, serenely. Yes, that’s the impression you give me: you think a 
+DAISY, <i>serenely:</i> Yes, that’s the impression you give me: you think a 
 great deal of yourself! But I should like to know your 
 aunt, all the same. She has her hair done like an old  
 picture, and she holds herself so very well; she speaks to no 
 one, and she dines in private. That’s the way I should like 
 to be! 
 
-WINTERBOURNE. Ah, you would make a bad exchange. My aunt is liable 
-to fearful headaches. 
-DAISY. 
-I think she is very elegant — headaches and all! I want 
+WINTERBOURNE: Ah, you would make a bad exchange. My aunt is liable 
+to fearful headaches.
+
+DAISY: I think she is very elegant — headaches and all! I want 
 very much to know her. 
 
-WINTERBOURNE, aside. Goodness, what a happy thought! (Aloud.) She would be 
-enchanted; only the state of her health . . . 
+WINTERBOURNE, <i>aside:</i> Goodness, what a happy thought! <i>(Aloud.)</i> She would be 
+enchanted; only the state of her health... 
 
-DAISY. Oh, yes, she has an excuse; that’s a part of the elegance! 
+DAISY: Oh, yes, she has an excuse; that’s a part of the elegance! 
 I should like to have an excuse. Any one can see your aunt 
 would have one. 
 
-WINTERBOURNE. 
-Oh, she has five hundred! 
+WINTERBOURNE: Oh, she has five hundred! 
 
-DAISY. Well, we haven’t any, mother and I. I like a lady to be 
+DAISY: Well, we haven’t any, mother and I. I like a lady to be 
 exclusive. I’m dying to be exclusive myself. 
 
-WINTERBOURNE. Be just as you are. You wouldn’t be half so charming if 
-you were different. (Aside.) It’s odd how true that is, with 
+WINTERBOURNE: Be just as you are. You wouldn’t be half so charming if 
+you were different. <i>(Aside.)</i> It’s odd how true that is, with 
 all her faults! 
 
-DAISY. You don’t think me charming: you only think me queer. 
+DAISY: You don’t think me charming: you only think me queer. 
 I can see that by your manner. I should like to know your 
 aunt, any way. 
 
-WINTERBOURNE. It’s very good of you, I’m sure; but I am afraid those 
+WINTERBOURNE: It’s very good of you, I’m sure; but I am afraid those 
 headaches will interfere. 
 
-DAISY. 
-I suppose she doesn’t have a headache every day, does 
+DAISY: I suppose she doesn’t have a headache every day, does 
 she? 
 
-WINTERBOURNE, aside. What the deuce is a man to say? (Aloud.) She assures 
-me she does. 
-DAISY, turns away a moment, walks to the parapet, and stands there thoughtful. 
-She doesn’t want to know me! (Looking at Winterbourne.) 
+WINTERBOURNE, <i>aside:</i> What the deuce is a man to say? <i>(Aloud.)</i> She assures 
+me she does.
+
+DAISY, <i>turns away a moment, walks to the parapet, and stands there thoughtful:</i> 
+She doesn’t want to know me! <i>(Looking at Winterbourne.)</i> 
 Why don’t you say so? You needn’t be afraid; I’m not 
-afraid. (Suddenly, with a little break in her voice.) Gracious, she is 
+afraid. <i>(Suddenly, with a little break in her voice.)</i> Gracious, she is 
 exclusive! 
 
-WINTERBOURNE. 
-So much the worse for her! 
+WINTERBOURNE: So much the worse for her! 
 
-DAISY. You see, you’ve got to own to it! Well, I don’t care. 
+DAISY: You see, you’ve got to own to it! Well, I don’t care. 
 I mean to be like that — when I’m old. 
 
-WINTERBOURNE. 
-I can’t think you’ll ever be old. 
+WINTERBOURNE: I can’t think you’ll ever be old. 
 
-DAISY. Oh, you horrid thing! As if I were going to perish in 
+DAISY: Oh, you horrid thing! As if I were going to perish in 
 my flower! 
 
-WINTERBOURNE. I should be very sorry if I thought that. But you will 
+WINTERBOURNE: I should be very sorry if I thought that. But you will 
 never have any quarrel with Time: he’ll touch you very 
 gently. 
 
-DAISY, at the parapet, looking over the lake. I hope I shall never have any quarrel with any one. I’m
-very good-natured. 
-WINTERBOURNE, laughing. 
-You certainly disarm criticism — oh, completely! 
+DAISY, <i>at the parapet, looking over the lake:</i> I hope I shall never have any quarrel with any one. I’m
+very good-natured.
 
-DAISY.  
-Well, I don’t care. Have you ever been to that old cas- 
-tle? (Pointing to Chillon, in the distance.) 
+WINTERBOURNE, <i>laughing:</i> You certainly disarm criticism — oh, completely! 
+
+DAISY: Well, I don’t care. Have you ever been to that old castle? <i>(Pointing to Chillon, in the distance.)</i> 
  
-WINTERBOUBNE. 
-The Castle of Chillon? Yes, in former days, more than 
+WINTERBOUBNE: The Castle of Chillon? Yes, in former days, more than 
 once. I suppose you have been there, too. 
 
-DAISY. 
-Oh, no, we haven’t been there. I want to go there aw- 
-fully. Of course, I mean to go there. I wouldn’t go away 
+DAISY: Oh, no, we haven’t been there. I want to go there awfully. Of course, I mean to go there. I wouldn’t go away 
 from here without having seen that old castle! 
 
-WINTERBOURNE. 
-It’s a very pretty excursion, and very easy to make. You 
+WINTERBOURNE: It’s a very pretty excursion, and very easy to make. You 
 can drive, you know, or you can take the little steamer. 
 
-DAISY. 
-Well, we were going last week, but mother gave out. She 
+DAISY: Well, we were going last week, but mother gave out. She 
 suffers terribly from dyspepsia. She said she couldn’t go.
 Randolph won’t go, either: he doesn’t think much of old 
 castles. 
 
-WINTERBOURNE, smiling. Ah, your brother isn’t interested in historical monuments? 
+WINTERBOURNE, <i>smiling:</i> Ah, your brother isn’t interested in historical monuments? 
 
-DAISY. 
-Well, he’s generally disappointed. He wants to stay 
-round here. Mother’s afraid to leave him alone, and Eu- 
-genio can’t be induced to stay with him, so that we haven’t 
+DAISY: Well, he’s generally disappointed. He wants to stay 
+round here. Mother’s afraid to leave him alone, and Eugenio can’t be induced to stay with him, so that we haven’t 
 been to many places. But it will be too bad if we don’t go 
 up to that castle. 
 
-WINTERBOURNE. 
-I think it might be arranged. Let me see. Couldn’t you 
+WINTERBOURNE: I think it might be arranged. Let me see. Couldn’t you 
 get some one to remain for the afternoon with Randolph? 
 
-DAISY, suddenly. 
-Oh, yes; we could get Mr. Reverdy! 
+DAISY, <i>suddenly:</i> Oh, yes; we could get Mr. Reverdy! 
  
-WINTERBOURNE.
-Mr. Reverdy? 
+WINTERBOURNE: Mr. Reverdy? 
 
-DAISY.
-He’s awfully fond of Randolph; they’re always fooling 
+DAISY: He’s awfully fond of Randolph; they’re always fooling 
 round. 
 
-WINTERBOURNE, laughing. It isn’t a bad idea. Reverdy must lay in a stock of sugar. 
+WINTERBOURNE, <i>laughing:</i> It isn’t a bad idea. Reverdy must lay in a stock of sugar. 
 
-DAISY. There’s one thing: with you, mother will be afraid to go. 
+DAISY: There’s one thing: with you, mother will be afraid to go. 
 
-WINTERBOURNE. She carries her timidity too far! We must wait till she 
+WINTERBOURNE: She carries her timidity too far! We must wait till she 
 has got used to me. 
 
-DAISY. I don’t want to wait. I want to go right off. 
+DAISY: I don’t want to wait. I want to go right off. 
 
-WINTERBOURNE. Ah, you can hardly force her to come, you know. 
+WINTERBOURNE: Ah, you can hardly force her to come, you know. 
 
-DAISY. 
-I don’t want to force her: I want to leave her! 
+DAISY: I don’t want to force her: I want to leave her! 
 
-WINTERBOURNE. To leave her behind? What, then, would you do for an 
+WINTERBOURNE: To leave her behind? What, then, would you do for an 
 escort ? 
 
-DAISY, serenely.
-I would take you. 
+DAISY, <i>serenely:</i> I would take you. 
 
-WINTERBOURNE, astounded. 
-Me? Me alone? 
+WINTERBOURNE, <i>astounded:</i> Me? Me alone? 
 
-DAISY, laughing. 
-You seem about as timid as mother! Never mind, I’ll 
+DAISY, <i>laughing:</i> You seem about as timid as mother! Never mind, I’ll 
 take care of you. 
 
-WINTERBOURNE, still bewildered. Off to Chillon — with you alone — right off?
+WINTERBOURNE, <i>still bewildered:</i> Off to Chillon — with you alone — right off?
 
-DAISY, eagerly questioning. 
-Right off? Could we go now? 
+DAISY, <i>eagerly questioning:</i> Right off? Could we go now? 
  
-WINTERBOURNE, aside. She takes away my breath! (Aloud.) There’s a boat just
+ WINTERBOURNE, <i>aside:</i> She takes away my breath! <i>(Aloud.)</i> There’s a boat just
 after three. 
 
-DAISY. 
-We’ll go straight on board! 
+DAISY: We’ll go straight on board! 
 
-WINTERBOURNE, aside. She has known me for a couple of hours! (Aloud, rather 
-formally.) The privilege for me is immense; but I feel as if 
+WINTERBOURNE, <i>aside:</i> She has known me for a couple of hours! <i>(Aloud, rather 
+formally.)</i> The privilege for me is immense; but I feel as if 
 I ought to urge you to reflect a little. 
 
-DAISY. So as to show how stiff you can be? Oh, I know all 
-about that.
+DAISY: So as to show how stiff you can be? Oh, I know all about that.
 
-WINTERBOURNE.
-No, just to remind you that your mother will certainly 
-discover…
+WINTERBOURNE: No, just to remind you that your mother will certainly discover...
 
-DAISY, staring. 
-Will certainly discover? 
+DAISY, <i>staring:</i> Will certainly discover? 
 
-WINTERBOURNE. 
-Your little escapade. You can’t hide it. 
+WINTERBOURNE: Your little escapade. You can’t hide it. 
 
-DAISY, amazed, and a little touched. 
-I don’t know what you mean. I have nothing to hide. 
+DAISY, <i>amazed, and a little touched:</i> I don’t know what you mean. I have nothing to hide. 
 
-WINTERBOURNE, aside. Ah, I give it up! (Seeing Eugenio, who comes out of the hotel.) 
+WINTERBOURNE, <i>aside:</i> Ah, I give it up! <i>(Seeing Eugenio, who comes out of the hotel.)</i> 
 And here comes that odious creature, to spoil it! 
 
-SCENE TENTH. 
-WINTERBOURNE, DAISY, EUGENIO. 
+<p align="center">SCENE TENTH. Winterbourne, Daisy, Eugenio.</p> 
 
-EUGENIO. 
-Mademoiselle, your mother requests that you will come to 
-her.
+EUGENIO: Mademoiselle, your mother requests that you will come to her.
 
-DAISY.  I don’t believe a word of it! 
+DAISY: I don’t believe a word of it! 
 
-EUGENIO. You should not do me the injustice to doubt of my honor! 
+EUGENIO: You should not do me the injustice to doubt of my honor! 
 Madame asked me to look for you ten minutes ago; but I 
-was detained by meeting in the hall a lady (speaking slowly, and 
-looking at Winterbourne), a Russian lady, whom I once had the 
+was detained by meeting in the hall a lady <i>(speaking slowly, and 
+looking at Winterbourne)</i>, a Russian lady, whom I once had the 
 honor to serve, and who was leaving the hotel. 
 
-WINTERBOURNE, startled, aside. 
-Madame de Katkoff — leaving already? 
+WINTERBOURNE, <i>startled, aside:</i> Madame de Katkoff — leaving already? 
 
-EUGENIO, watching Winterbourne. She had so many little bags that she could hardly settle 
+EUGENIO, <i>watching Winterbourne:</i> She had so many little bags that she could hardly settle 
 herself in the carriage, and I thought it my duty — I have 
 had so much practice — to show her how to stow them 
 away. 
 
-WINTERBOURNE, quickly, to Daisy. 
-Will you kindly excuse me a moment? 
+WINTERBOURNE, <i>quickly, to Daisy:</i> Will you kindly excuse me a moment? 
 
-EUGENIO, obsequious, interposing. If it’s to overtake the Russian lady, Madame de Katkoff 
-is already far away. (Aside.) She had four horses: I 
-frightened her more than a little! 
+EUGENIO, <i>obsequious, interposing:</i> If it’s to overtake the Russian lady, Madame de Katkoff 
+is already far away. <i>(Aside.)</i> She had four horses: I frightened her more than a little! 
 
-WINTERBOURNE, aside. Far away — without another word? She can be hard— 
-when she tries. Very good. Let me see if I can be the 
-same! 
+WINTERBOURNE, <i>aside:</i> Far away — without another word? She can be hard - when she tries. Very good. Let me see if I can be the same! 
 
-DAISY, noticing Winterbourne, aside. Poor man, he’s stiffer than ever! But I’m glad she 
-has gone. (Aloud.) See here, Eugenio, I’m going to that 
-castle. 
+DAISY, <i>noticing Winterbourne, aside:</i> Poor man, he’s stiffer than ever! But I’m glad she 
+has gone. <i>(Aloud.)</i> See here, Eugenio, I’m going to that castle. 
 
-EUGENIO, with a certain impertinence. 
-Mademoiselle has made arrangements? 
+EUGENIO, <i>with a certain impertinence:</i> Mademoiselle has made arrangements? 
 
-DAISY. Well, if Mr. Winterbourne doesn’t back out. 
+DAISY: Well, if Mr. Winterbourne doesn’t back out. 
  
-WINTERBOURNE. Back out? I shan’t be happy till we are off! (Aside.) 
+WINTERBOURNE: Back out? I shan’t be happy till we are off! <i>(Aside.)</i> 
 I’ll go anywhere — with any one — now; and if the poor 
 girl is injured by it, it isn’t my fault! 
 
-EUGENIO. I think Mademoiselle will find that Madame is in no 
-state — 
+EUGENIO: I think Mademoiselle will find that Madame is in no state — 
 
-DAISY. My dear Eugenio, Madame will stay at home with you. 
+DAISY: My dear Eugenio, Madame will stay at home with you. 
 
-WINTERBOURNE, wincing, aside. If she would only not call him her “dear”! 
+WINTERBOURNE, <i>wincing, aside:</i> If she would only not call him her “dear”! 
 
-EUGENIO. 
-I take the liberty of advising Mademoiselle not to go to 
-the castle. 
+EUGENIO: I take the liberty of advising Mademoiselle not to go to the castle. 
 
-WINTERBOURNE, irritated. 
-You had better remember that your place is not to advise, 
+WINTERBOURNE, <i>irritated:</i> You had better remember that your place is not to advise, 
 but to look after the little bags! 
 
-DAISY. Oh, I hoped you would make a fuss! But I don’t want 
-to go now.  
+DAISY: Oh, I hoped you would make a fuss! But I don’t want to go now.  
 
-WINTERBOURNE, decided. 
-I shall make a fuss if you don’t go. 
+WINTERBOURNE, <i>decided:</i> I shall make a fuss if you don’t go. 
 
-DAISY, nervously, with a little laugh. 
-That’s all I want — a little fuss! 
+DAISY, <i>nervously, with a little laugh:</i> That’s all I want — a little fuss! 
 
-WINTERBOURNE, aside. She’s not so easy as she would like to appear. She knows  
+WINTERBOURNE, <i>aside:</i> She’s not so easy as she would like to appear. She knows  
 it’s a risk — but she likes the risk. 
 
-EUGENIO. If Mademoiselle will come with me, I will undertake to 
-organize a fuss. (A steamboat whistle is heard in the distance.) 
+EUGENIO: If Mademoiselle will come with me, I will undertake to organize a fuss. <i>(A steamboat whistle is heard in the distance.)</i> 
 
-WINTERBOURNE, to Daisy. The boat’s coming up. You have only till three o’clock. 
+WINTERBOURNE, <i>to Daisy:</i> The boat’s coming up. You have only till three o’clock. 
 
-DAISY, suddenly decided. 
-Oh, I can be quick when I try! (Hurries into the hotel.) 
+DAISY, <i>suddenly decided:</i> Oh, I can be quick when I try! <i>(Hurries into the hotel.)</i> 
 
-WINTERBOURNE, looking a moment at Eugenio. 
-You had better not interfere with that young lady! 
+WINTERBOURNE, <i>looking a moment at Eugenio:</i> You had better not interfere with that young lady! 
 
-EUGENIO, insolent. I suppose you mean that I had better not interfere with 
-you! You had better not defy me to do so! (Aside.) It’s 
-a pity I sent away the Katkoff! (Follows Daisy into the hotel.) 
+EUGENIO, <i>insolent:</i> I suppose you mean that I had better not interfere with 
+you! You had better not defy me to do so! <i>(Aside.)</i> It’s 
+a pity I sent away the Katkoff! <i>(Follows Daisy into the hotel.)</i> 
 
-WINTERBOURNE, alone. That’s a singularly offensive beast! And what the mis- 
-chief does he mean by his having been in her service? 
-Thank heaven she has got rid of him! (Seeing Mrs. Costello, Miss 
+WINTERBOURNE, <i>alone:</i> That’s a singularly offensive beast! And what the mischief does he mean by his having been in her service? Thank heaven she has got rid of him! <i>(Seeing Mrs. Costello, Miss 
 Durant, and Charles Reverdy, who issue from the hotel, the ladies dressed for a 
-walk.) Oh, confusion, I had forgotten them! 
+walk.)</i> Oh, confusion, I had forgotten them! 
 
-SCENE ELEVENTH. 
-MRS. COSTELLO, MISS DURANT, CHARLES REVERDY, 
-WINTERBOURNE, THEN DAISY. 
+<p align="center">SCENE ELEVENTH. Mrs. Costello, Miss Durant, Charles Reverdy, Winterbourne, then Daisy. 
 
-MRS. COSTELLO. Well, Frederick, we take for granted that your little inter- 
-view is over, and that you are ready to accompany us into 
-the town. 
+MRS. COSTELLO: Well, Frederick, we take for granted that your little interview is over, and that you are ready to accompany us into the town. 
 
-WINTERBOURNE. Over, dear aunt? Why, it’s only just begun. We are 
-going to the Chateau de Chillon. 
-MRS. COSTELLO. 
-You and that little girl? You will hardly get us to believe 
-that! 
+WINTERBOURNE: Over, dear aunt? Why, it’s only just begun. We are going to the Chateau de Chillon.
 
-REVERDY, aside, still with the camp-stool. 
-Hang me, why didn’t I think of that? 
+MRS. COSTELLO: You and that little girl? You will hardly get us to believe that! 
 
-WINTERBOURNE. I am afraid I rather incommode you; but I shall be de- 
-lighted to go into the town when we come back. 
+REVERDY, <i>aside, still with the camp-stool:</i> Hang me, why didn’t I think of that? 
 
-MISS DURANT. 
-You had better never come back. No one will speak to 
-you! 
-MRS. COSTELLO. 
-My dear Frederick, if you are joking, your joke is in 
-dreadful taste. 
+WINTERBOURNE: I am afraid I rather incommode you; but I shall be delighted to go into the town when we come back. 
 
-WINTERBOURNE. I am not joking, in the least. The young lady is to be 
-here at three. 
+MISS DURANT: You had better never come back. No one will speak to you!
 
-MRS. COSTELLO. She herself is joking, then. She won’t be so crazy as to 
-come. 
+MRS. COSTELLO: My dear Frederick, if you are joking, your joke is in dreadful taste. 
 
-REVERDY, who has gone to the parapet and looked off to right, coming back, 
-taking out his watch. 
+WINTERBOURNE: I am not joking, in the least. The young lady is to be here at three. 
 
-It’s close upon three, and the boat’s at the wharf. 
+MRS. COSTELLO: She herself is joking, then. She won’t be so crazy as to come. 
 
-WINTERBOURNE, watch in hand. 
-Not quite yet. Give her a moment’s grace. 
+REVERDY, <i>who has gone to the parapet and looked off to right, coming back, 
+taking out his watch:</i> It’s close upon three, and the boat’s at the wharf. 
 
-MRS. COSTELLO. It won’t be for us to give her grace: it will be for society. 
+WINTERBOURNE, <i>watch in hand:</i> Not quite yet. Give her a moment’s grace. 
 
-WINTERBOURNE. Ah, but you are society, you know. She wants immensely 
-to know you. 
+MRS. COSTELLO: It won’t be for us to give her grace: it will be for society. 
 
-MRS. COSTELLO. Is that why she is flinging herself at you? 
+WINTERBOURNE: Ah, but you are society, you know. She wants immensely to know you. 
 
-WINTERBOURNE, very gravely. Listen to me seriously, please. The poor little girl 
+MRS. COSTELLO: Is that why she is flinging herself at you? 
+
+WINTERBOURNE, <i>very gravely:</i> Listen to me seriously, please. The poor little girl 
 has given me a great mark — a very touching mark — of 
 confidence. I wish to present her to you, because I wish 
 some one to answer for my honor. 
 
-MRS. COSTELLO. 
-And pray, who is to answer for hers? 
+MRS. COSTELLO: And pray, who is to answer for hers? 
 
-WINTERBOURNE. 
-Oh, I say, you’re cruel! 
+WINTERBOURNE: Oh, I say, you’re cruel! 
 
-MRS. COSTELLO. I am an old woman, Frederick; but I thank my stars I 
-am not too old to be horrified! (The bell of the steamboat is heard to 
-ring in the distance.) 
+MRS. COSTELLO: I am an old woman, Frederick; but I thank my stars I 
+am not too old to be horrified! <i>(The bell of the steamboat is heard to 
+ring in the distance.)</i> 
 
-REVERDY. There’s your boat, sir. I’m afraid you’ll miss it! 
+REVERDY: There’s your boat, sir. I’m afraid you’ll miss it! 
 
-WINTERBOURNE, watch still in hand, aside. 
-Three o’clock. Damn that courier! 
+WINTERBOURNE, <i>watch still in hand, aside:</i> Three o’clock. Damn that courier! 
 
-MRS. COSTELLO. If she doesn’t come, you may present her. 
+MRS. COSTELLO: If she doesn’t come, you may present her. 
 
-MISS DURANT. She won’t come. We must do her justice. 
+MISS DURANT: She won’t come. We must do her justice. 
 
-DAISY, hurrying out of the hotel.
-I say, Mr. Winterbourne, I’m as punctual as you! (She 
+DAISY, <i>hurrying out of the hotel:</i> I say, Mr. Winterbourne, I’m as punctual as you! <i>(She 
 wears a charming travelling-dress, and is buttoning her glove. Eugenio appears 
 in the porch of the hotel, and stands there, with his hands in his pockets, and with 
-a baffled but vindictive air, watching the rest of the scene.) 
+a baffled but vindictive air, watching the rest of the scene.)</i> 
 
-REVERDY. 
-Alas, the presentation’s gone! 
+REVERDY: Alas, the presentation’s gone! 
 
-DAISY, half aloud. 
-Gracious, how they glare at me! 
+DAISY, <i>half aloud:</i> Gracious, how they glare at me! 
 
-WINTERBOURNE, hurriedly. 
-Take my arm. The boat’s at the wharf. (She takes his arm, 
+WINTERBOURNE, <i>hurriedly:</i> Take my arm. The boat’s at the wharf. <i>(She takes his arm, 
 and they hasten away, passing through the little gate of the parapet, where they 
 descend and disappear. The bell of the steamer continues to ring. Mrs. Costello 
 and her companions have watched them; as they vanish, she and Miss Durant 
-each drop into a chair.) 
+each drop into a chair.)</i> 
   
-MRS. COSTELLO. 
-They will never come back! 
+MRS. COSTELLO: They will never come back! 
 
-MISS DURANT, eager1y. 
-Isn’t it your duty to go after them? 
+MISS DURANT, <i>eagerly:</i> Isn’t it your duty to go after them? 
 
-REVERDY, between the two.
-They will be lovely company for the rest of the day! 
+REVERDY, <i>between the two:</i> They will be lovely company for the rest of the day! 
 ---
-ACT SECOND. 
-A beautiful afternoon in the gardens of the Pincian Hill in Rome. A 
-view of St. Peter’s in the distance. 
+<a id="act-second" />
+<p align="center">ACT SECOND.<br> A beautiful afternoon in the gardens of the Pincian Hill in Rome. A 
+view of St. Peter’s in the distance.</p> 
 
-SCENE FIRST. 
-WINTERBOURNE, MADAME DE KATKOFF, meeting from opposite 
-sides. He stands before her a moment, and kisses her hand. 
+<p align="center">SCENE FIRST. Winterbourne, Madame de Katkoff, <i>meeting from opposite 
+sides. He stands before her a moment, and kisses her hand.</i></p> 
 
 WINTERBOURNE. When, at your hotel just now, they told me you had gone 
 out, I was pretty sure you had come here. 
