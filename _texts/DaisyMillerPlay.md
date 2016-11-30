@@ -2063,84 +2063,65 @@ view of St. Peter’s in the distance.</p>
 <p align="center">SCENE FIRST. Winterbourne, Madame de Katkoff, <i>meeting from opposite 
 sides. He stands before her a moment, and kisses her hand.</i></p> 
 
-WINTERBOURNE. When, at your hotel just now, they told me you had gone 
+WINTERBOURNE: When, at your hotel just now, they told me you had gone 
 out, I was pretty sure you had come here. 
 
-MADAME DE KATKOFF. I always come here as soon as I arrive in Rome, for the 
+MADAME DE KATKOFF: I always come here as soon as I arrive in Rome, for the 
 sake of that view. It’s an old friend of mine. 
 
-WINTERBOURNE. Have you no old friends but that, and wasn’t it also — a 
+WINTERBOURNE: Have you no old friends but that, and wasn’t it also — a 
 little — for the sake of meeting one or two of them? We 
 all come here, you know. 
 
-MADAME DE KATKOFF. One or two of them? You don’t mean two — you mean 
+MADAME DE KATKOFF: One or two of them? You don’t mean two — you mean 
 one! I know you all come here, and that’s why I have 
 arrived early, before the crowd and the music. 
 
-WINTERBOURNE. That’s what I was counting on. I know your tastes. I 
+WINTERBOURNE: That’s what I was counting on. I know your tastes. I 
 wanted to find you alone. 
 
-MADAME DE KATKOFF. Being alone with you isn’t one of my tastes! If I had 
+MADAME DE KATKOFF: Being alone with you isn’t one of my tastes! If I had 
 known I should meet you, I think I shouldn’t have left my 
 carriage. 
 
-WINTERBOURNE. If it’s there, at hand, you might invite me to get into it. 
+WINTERBOURNE: If it’s there, at hand, you might invite me to get into it. 
 
-MADAME DE KATKOFF. 
-I have sent it away for half an hour, while I stretch myself 
-a little. I have been sitting down for a week — in railway- 
-trains. 
+MADAME DE KATKOFF: I have sent it away for half an hour, while I stretch myself 
+a little. I have been sitting down for a week — in railway - trains. 
 
-WINTERBOURNE. 
-You can’t escape from me, then! 
+WINTERBOURNE: You can’t escape from me, then! 
 
-MADAME DE KATKOFF. Don’t begin that way, or you’ll disappoint me. You 
+MADAME DE KATKOFF: Don’t begin that way, or you’ll disappoint me. You 
 speak as if you had received none of my letters. 
 
-WINTERBOURNE. And you speak as if you had written me a dozen! I re- 
-ceived three little notes. 
+WINTERBOURNE: And you speak as if you had written me a dozen! I received three little notes. 
 
-MADAME DE KATKOFF. 
-They were short, but they were clear. 
+MADAME DE KATKOFF: They were short, but they were clear. 
 
-WINTERBOURNE. Oh, very clear indeed! “You’re an awful nuisance, and 
-I wish never to hear of you again.” That was about the 
-gist of them. 
+WINTERBOURNE: Oh, very clear indeed! “You’re an awful nuisance, and 
+I wish never to hear of you again.” That was about the gist of them. 
 
-MADAME DE KATKOFF. “Unless you promise not to persecute me, I won’t come 
-to Rome.” That’s more how I should express it. And you 
-did promise. 
+MADAME DE KATKOFF: “Unless you promise not to persecute me, I won’t come 
+to Rome.” That’s more how I should express it. And you did promise. 
 
-WINTERBOURNE. I promised to try and hate you, for that seemed to be what 
+WINTERBOURNE: I promised to try and hate you, for that seemed to be what 
 you wished to bring me to! And I have been waiting for 
 you these three weeks, as a man waits for his worst enemy. 
  
-MADAME DE KATKOFF. I should be your worst enemy indeed, if I listened to you 
-— if I allowed you to mingle your fresh, independent life 
-with my own embarrassed and disillusioned one. If you 
-have been here three weeks, you ought to have found some 
-profitable occupation. 
+MADAME DE KATKOFF: I should be your worst enemy indeed, if I listened to you — if I allowed you to mingle your fresh, independent life with my own embarrassed and disillusioned one. If you have been here three weeks, you ought to have found some profitable occupation. 
 
-WINTERBOURNE. 
-You speak as if I were looking out for a job! My princi- 
-pal occupation has been waiting for you. 
+WINTERBOURNE: You speak as if I were looking out for a job! My principal occupation has been waiting for you. 
 
-MADAME DE KATKOFF. It must have made you pleasant company to your friends. 
+MADAME DE KATKOFF: It must have made you pleasant company to your friends. 
 
-WINTERBOURNE. 
-My friends are only my aunt and the young lady who is 
+WINTERBOURNE: My friends are only my aunt and the young lady who is 
 with her — a very good girl, but painfully prim. I have 
 been devoted to them, because I said to myself that after you 
-came —— 
+came — 
 
-MADAME DE KATKOFF. 
-You wouldn’t have possession of your senses? So it ap- 
-pears. On the same principle, I hope you have shown some 
-attention to the little girl who was at Vevey, whom I saw you 
-in such a fair way to be intimate with. 
+MADAME DE KATKOFF: You wouldn’t have possession of your senses? So it appears. On the same principle, I hope you have shown some attention to the little girl who was at Vevey, whom I saw you in such a fair way to be intimate with. 
 
-WINTERBOURNE, after a silence. 
-What do you know about her? 
+WINTERBOURNE, <i>after a silence:</i> What do you know about her? 
 
 MADAME DE KATKOFF. Nothing but that we are again at the same hotel. A 
 former servant of mine, a very unprincipled fellow, is now in 
