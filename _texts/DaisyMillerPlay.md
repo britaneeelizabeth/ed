@@ -707,8 +707,7 @@ always a mystery in that woman’s movements. Yes, Aunt
 Louisa is rather high; but it’s not of her I’m afraid! 
 <i>(Puffs a moment in silence.)</i>
 
-SCENE FOURTH
-WINTERBOURNE, RANDOLPH, THEN DAISY. 
+<p align="center">SCENE FOURTH. Winterbourne, Randolph, then Daisy.</p> 
 
 RANDOLPH. He comes in from the back, approaches Winterbourne, and 
 stops. “The child, who was diminutive for his years, had an aged expression of countenance, a pale complexion, and sharp little features. He was dressed in knickerbockers, with red stockings, which displayed his poor little spindle- 
