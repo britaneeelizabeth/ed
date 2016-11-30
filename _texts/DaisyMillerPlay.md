@@ -1635,7 +1635,7 @@ DAISY, <i>joyfully:</i> Here he comes! He’s too sweet!
 
 REVERDY, <i>aside:</i> Oh, I say, she had made an appointment with him while I was doing the mule! 
 
-<p align="center">SCENE NINTH. Reverdy, for a moment; Daisy, Winterbourne.</p> 
+<p align="center">SCENE NINTH. Reverdy, <i>for a moment</i>; Daisy, Winterbourne.</p> 
 
 WINTERBOURNE, <i>to Reverdy:</i> I am glad to find you: Miss Durant has a particular desire to see you. 
 
@@ -2055,6 +2055,7 @@ MISS DURANT, <i>eagerly:</i> Isn’t it your duty to go after them?
 REVERDY, <i>between the two:</i> They will be lovely company for the rest of the day! 
 ---
 <a id="act-second" />
+
 <p align="center">ACT SECOND.<br> A beautiful afternoon in the gardens of the Pincian Hill in Rome. A 
 view of St. Peter’s in the distance.</p> 
 
