@@ -645,9 +645,7 @@ REVERDY, <i>aside:</i>
 Won’t he catch it when he arrives? <i>(They pass into the hotel, 
 the waiter leading the way.)</i> 
 
-<p align="center"SCENE THIRD. Eugenio, then Winterbourne and the waiter. 
-<br><i>Eugenio comes out of the hotel, then looks about him and begins to call. 
-He is without his hat and satchel.</i><.p> 
+<p align="center">SCENE THIRD. Eugenio, then Winterbourne and the waiter. <br><i>Eugenio comes out of the hotel, then looks about him and begins to call. He is without his hat and satchel.</i></p>
 
 EUGENIO. Meester Randolph! Meester Randolph! Confound that 
 infernal child — it’s the fifth time this morning that I’ve 
