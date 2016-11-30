@@ -709,275 +709,232 @@ Louisa is rather high; but it’s not of her I’m afraid!
 
 <p align="center">SCENE FOURTH. Winterbourne, Randolph, then Daisy.</p> 
 
-RANDOLPH. He comes in from the back, approaches Winterbourne, and 
-stops. “The child, who was diminutive for his years, had an aged expression of countenance, a pale complexion, and sharp little features. He was dressed in knickerbockers, with red stockings, which displayed his poor little spindle- 
-shanks; he also wore a brilliant red cravat. He carried in his hand a long 
-alpenstock, the sharp point of which he thrust into everything that he ap- 
-proached — the flower-beds, the garden-benches. . . . In front of Winterbourne 
-he paused, looking at him with a pair of bright, penetrating little eyes.”1 
-Winterbourne, smoking, returns his gaze. 
+RANDOLPH: <i>He comes in from the back, approaches Winterbourne, and 
+stops. “The child, who was diminutive for his years, had an aged expression of countenance, a pale complexion, and sharp little features. He was dressed in knickerbockers, with red stockings, which displayed his poor little spindle-shanks; he also wore a brilliant red cravat. He carried in his hand a long 
+alpenstock, the sharp point of which he thrust into everything that he approached — the flower-beds, the garden-benches...In front of Winterbourne he paused, looking at him with a pair of bright, penetrating little eyes.”<sub>1</sub> Winterbourne, smoking, returns his gaze.</i> Will you give me a lump of sugar? 
 
-Will you give me a lump of sugar? 
-
-WINTERBOURNE. 
-Yes, you may take one, - but I don’t think sugar is good 
+WINTERBOURNE: Yes, you may take one; but I don’t think sugar is good 
 for little boys. 
 
-1 From the story. 
+<i>1 From the story.</i> 
 
-RANDOLPH. He steps forward and carefully possesses himself of the whole 
+RANDOLPH: <i>He steps forward and carefully possesses himself of the whole 
 contents of the plate. From these he still more carefully selects the largest lump, 
-depositing the others in his pocket. Biting, with a grimace. 
+depositing the others in his pocket. Biting, with a grimace.</i> Oh, blazes! It’s hard! 
 
-Oh, blazes! It’s hard! 
+WINTERBOURNE: Take care, young man. You’ll hurt your teeth. 
 
-WINTERBOURNE. Take care, young man. You’ll hurt your teeth. 
-
-RANDOLPH. I haven’t got any teeth to hurt; they’ve all come out. 
+RANDOLPH: I haven’t got any teeth to hurt; they’ve all come out. 
 I’ve only got seven teeth. Mother counted them last night, 
 and one came out afterwards. She said she’d slap me if 
 any more came out. I can’t help it — it’s this old Europe. 
 It’s the climate that makes ’em come out. In America 
 they didn’t come out; it’s these hotels! 
 
-WINTERBOURNE. If you eat all that sugar, your mother will certainly slap 
+WINTERBOURNE: If you eat all that sugar, your mother will certainly slap 
 you. 
 
-RANDOLPH. She’s got to give me some candy, then. I can’t get any 
+RANDOLPH: She’s got to give me some candy, then. I can’t get any 
 candy here — any American candy. American candy’s the 
 best. 
 
-WINTERBOURNE. And are American boys the best little boys? 
+WINTERBOURNE: And are American boys the best little boys? 
 
-RANDOLPH. I don’t know. I’m an American boy! 
+RANDOLPH: I don’t know. I’m an American boy! 
 
-WINTERBOURNE. 
-I see you are one of the best. 
+WINTERBOURNE: I see you are one of the best. 
 
-RANDOLPH. That isn’t what my mother says, you can bet your life on 
-that!  
-WINTERBOURNE. 
-Oh, your mother’s too modest !
+RANDOLPH: That isn’t what my mother says, you can bet your life on that!
 
-RANDOLPH, astride his alpenstock, looking at Winterbourne. She’s sick — she’s always sick. It’s this old Europe! 
+WINTERBOURNE: Oh, your mother’s too modest!
+
+RANDOLPH, <i>astride his alpenstock, looking at Winterbourne:</i> She’s sick — she’s always sick. It’s this old Europe! 
 Are you an American man? 
 
-WINTERBOURNE. 
-Oh, yes, a fellow-citizen. (Aside) I wonder whether I 
+WINTERBOURNE: Oh, yes, a fellow-citizen. <i>(Aside)</i> I wonder whether I 
 was once like that! 
 
-RANDOLPH.
-American men are the best. 
+RANDOLPH: American men are the best. 
 
-WINTERBOURNE. 
-So they often say. 
+WINTERBOURNE: So they often say. 
 
-RANDOLPH, looking off to the left. Here comes my sister. She ’s an American girl. 
+RANDOLPH, <i>looking off to the left:</i> Here comes my sister. She’s an American girl. 
 
-WINTERBOURNE. 
-American girls are the best girls. 
+WINTERBOURNE: American girls are the best girls. 
 
-RANDOLPH. Oh, my sister ain’t the best. She’s always blowing at me! 
+RANDOLPH: Oh, my sister ain’t the best. She’s always blowing at me! 
 
-WINTERBOURNE.
-I imagine that’s your fault, not hers. (Daisy comes in from 
-the left in the same manner as on her previous entrance, and on reaching the mid— 
-dle of the stage stops and looks at Winterbourne and at Randolph, who has 
-converted his alpenstock into a vaulting-pole. and is springing about violently. Winterbourne continues, getting up.) By Jove, how pretty! 
+WINTERBOURNE: I imagine that’s your fault, not hers. <i>(Daisy comes in from 
+the left in the same manner as on her previous entrance, and on reaching the middle of the stage stops and looks at Winterbourne and at Randolph, who has converted his alpenstock into a vaulting-pole, and is springing about violently. Winterbourne continues, getting up.)</i> By Jove, how pretty! 
 
-DAISY. Well, Randolph, what are you doing? 
+DAISY: Well, Randolph, what are you doing? 
 
-RANDOLPH. I’m going up the Alps. This is the way! 
+RANDOLPH: I’m going up the Alps. This is the way! 
 
-WINTERBOURNE. 
-That’s the way they come down. 
+WINTERBOURNE: That’s the way they come down. 
 
-RANDOLPH. He’s all right; he’s an American man! 
+RANDOLPH: He’s all right; he’s an American man! 
   
-WINTERBOURNE, aside. 
-It seems to me that I have been in a manner presented. 
-(Approaches Daisy, throwing away his cigarette. Aloud, with great civility.) 
+WINTERBOURNE, <i>aside:</i> It seems to me that I have been in a manner presented. 
+<i>(Approaches Daisy, throwing away his cigarette. Aloud, with great civility.)</i> 
 This little boy and I have made acquaintance. 
 
-DAISY. She looks at him a moment serenely, and then, as if she had scarcely heard him, addresses Randolph again. 
+DAISY: <i>She looks at him a moment serenely, and then, as if she had scarcely heard him, addresses Randolph again.</i> 
 I should like to know where you got that pole! 
 
-RANDOLPH. The same way as you get your things. I made Eugenio 
+RANDOLPH: The same way as you get your things. I made Eugenio 
 buy it. 
 
-WINTERBOURNE, aside. 
-With a little commission! 
+WINTERBOURNE, <i>aside:</i> With a little commission! 
 
-DAISY. You don’t mean to say you ’re going to take that pole to 
+DAISY: You don’t mean to say you’re going to take that pole to 
 Italy? 
 
-WINTERBOURNE, same manner. 
+WINTERBOURNE, <i>same manner:</i> 
 Are you thinking of going to Italy? 
 
-DAISY, looking at him, and then looking away. 
+DAISY, <i>looking at him, and then looking away:</i> 
 Yes, sir. 
 
-WINTERBOURNE. 
-Are you going over the Simplon ? 
+WINTERBOURNE: Are you going over the Simplon? 
 
-DAISY. 
-I don’t know - I suppose it’s some mountain. Randolph, 
+DAISY: I don’t know - I suppose it’s some mountain. Randolph, 
 what mountain are we going over? 
 
-RANDOLPH. 
-Going where? 
+RANDOLPH: Going where? 
 
-DAISY. TO Italy. (Arranging her ribbons.) Don’t you know about Italy? 
+DAISY: To Italy. <i>(Arranging her ribbons.)</i> Don’t you know about Italy? 
 
-RANDOLPH. No, and I don’t want to. I want to go to America! 
+RANDOLPH: No, and I don’t want to. I want to go to America! 
 
-WINTERBOURNE. 
-Oh, Italy’s a beautiful place. 
+WINTERBOURNE: Oh, Italy’s a beautiful place. 
 
-RANDOLPH. 
-Can you get any candy there? 
+RANDOLPH: Can you get any candy there? 
 
-DAISY. I hope not! I guess you have had candy enough, and 
+DAISY: I hope not! I guess you have had candy enough, and 
 mother thinks so too. 
 
-RANDOLPH, still jumping about. I haven’t had any for ever so long — for a hundred 
+RANDOLPH, <i>still jumping about:</i> I haven’t had any for ever so long — for a hundred 
 weeks! 
 
-DAISY. Why, Randolph. I don’t see how you can tell— (She 
-pauses a moment.) Well I don’t care! (Looks down at her dress, and 
-continues to smooth her ribbons.) 
+DAISY: Why, Randolph. I don’t see how you can tell — <i>(She 
+pauses a moment.)</i> Well I don’t care! <i>(Looks down at her dress, and 
+continues to smooth her ribbons.)</i> 
 
-WINTERBOURNE, aside. Does she accept my acquaintance or not? It’s rather 
+WINTERBOURNE, <i>aside:</i> Does she accept my acquaintance or not? It’s rather 
 sudden, and it wouldn’t do at Geneva. But why else did 
 she come and plant herself in front of me? She is the 
-prettiest of the pretty, and, I declare, I’1l risk it! (After a 
-moment, aloud.) We are very fortunate in our weather, are we 
+prettiest of the pretty, and, I declare, I’ll risk it! <i>(After a 
+moment, aloud.)</i> We are very fortunate in our weather, are we 
 not? 
 
-DAISY. 
-Well, yes, we’ve got nice weather. 
+DAISY: Well, yes, we’ve got nice weather. 
 
-WINTERBOURNE. 
-And still more fortunate in our scenery. (Indicating the view.) 
+WINTERBOURNE: And still more fortunate in our scenery. <i>(Indicating the view.)</i> 
 
-DAISY. 
-Well, yes, the scenery’s lovely. It seems very moun- 
-tainous. 
+DAISY: Well, yes, the scenery’s lovely. It seems very mountainous. 
 
-WINTERBOURNE. Ah, Switzerland is mountainous, you know. 
+WINTERBOURNE: Ah, Switzerland is mountainous, you know. 
 
-DAISY. I don’t know much about it. We have only been here a 
+DAISY: I don’t know much about it. We have only been here a 
 week. 
  
-WINTERBOURNE, smiling. 
-In a week one can see a good deal. 
+WINTERBOURNE, <i>smiling:</i> In a week one can see a good deal. 
 
-DAISY. Well, we haven’t; we have only walked round a little. 
+DAISY: Well, we haven’t; we have only walked round a little. 
 
-WINTERBOURNE, aside. What a remarkable type! (Aloud.) You must be rather 
-tired: there are plenty of chairs. (Draws forward two of them.) 
+WINTERBOURNE, <i>aside:</i> What a remarkable type! <i>(Aloud.)</i> You must be rather 
+tired: there are plenty of chairs. <i>(Draws forward two of them.)</i> 
 
-DAISY, looking at them a moment. 
-You’ll be very clever if you can get Randolph to sit. 
+DAISY, <i>looking at them a moment:</i> You’ll be very clever if you can get Randolph to sit. 
 
-WINTERBOURNE. I don’t care a fig about Randolph. (Daisy seats herself. Aside.) 
-Oh, Geneva, Geneva! 
-DAISY, smoothing her ribbons. 
-Well, he ’s only nine. We’ve sat round a good deal, too. 
+WINTERBOURNE: I don’t care a fig about Randolph. <i>(Daisy seats herself. Aside.)</i> 
+Oh, Geneva, Geneva!
 
-WINTERBOURNE, seated beside her. 
-It’s very pleasant, these summer days. 
+DAISY, <i>smoothing her ribbons:</i> Well, he’s only nine. We’ve sat round a good deal, too. 
 
-DAISY. Well, yes, it’s very pleasant. But it’s nicer in the 
+WINTERBOURNE, <i>seated beside her:</i> It’s very pleasant, these summer days. 
+
+DAISY: Well, yes, it’s very pleasant. But it’s nicer in the 
 evening. 
 
-WINTERBOURNE. Ah, much nicer in the evening. It’s remarkably nice in 
-the evening. (Aside.) What the deuce is she coming to? 
-(Aloud.) When you get to Italy you ’11 find the evenings 
-there! . . . 
+WINTERBOURNE: Ah, much nicer in the evening. It’s remarkably nice in 
+the evening. <i>(Aside.)</i> What the deuce is she coming to? 
+<i>(Aloud.)</i> When you get to Italy you'll find the evenings 
+there!... 
 
-DAISY. I’ve heard a good deal about the evenings there. 
+DAISY: I’ve heard a good deal about the evenings there. 
 
-WINTERBOURNE. In Venice, you know — on the water — with music! 
+WINTERBOURNE: In Venice, you know — on the water — with music! 
 
-DAISY. I don’t know much about it. (With a little laugh.) I don’t 
+DAISY: I don’t know much about it. <i>(With a little laugh.)</i> I don’t 
 know much about anything! 
  
-WINTERBOURNE, aside. 
+WINTERBOURNE, <i>aside:</i> 
 Heaven forgive her, she’s charming! I must really 
-ascertain . . . (To Randolph, who has continued to roam about, and who 
+ascertain... <i>(To Randolph, who has continued to roam about, and who 
 comes back to them with his alpenstock, catching him and drawing him between 
-his knees.) Tell me your name, my beautiful boy! 
+his knees.)</i> Tell me your name, my beautiful boy! 
 
-RANDOLPH, struggling. 
-Well, you drop me first! 
+RANDOLPH, <i>struggling:</i> Well, you drop me first! 
 
-DAISY. Why, Randolph, I should think you’d like it! 
+DAISY: Why, Randolph, I should think you’d like it! 
 
-WINTERBOURNE, aside. 
-Jupiter, that is a little strong! 
+WINTERBOURNE, <i>aside:</i> Jupiter, that is a little strong! 
 
-RANDOLPH, liberating himself. Try it yourself! My name is Randolph C. Miller. 
+RANDOLPH, <i>liberating himself:</i> Try it yourself! My name is Randolph C. Miller. 
 
-WINTERBOURNE, aside. Alarming child! But she doesn’t seem to be alarmed. 
+WINTERBOURNE, <i>aside:</i> Alarming child! But she doesn’t seem to be alarmed. 
 
-RANDOLPH, levelling his alpenstock at Daisy, who averts it with her hand. 
+RANDOLPH, <i>levelling his alpenstock at Daisy, who averts it with her hand.</i> 
 And I’ll tell you her name. 
 
-DAISY, leaning back serenely. 
+DAISY, <i>leaning back serenely.</i> 
 You had better wait till you are asked. 
 
-WINTERBOURNE. I should like very much to know your name. 
+WINTERBOURNE: I should like very much to know your name. 
 
-RANDOLPH. 
-Her name is Daisy Miller. 
+RANDOLPH: Her name is Daisy Miller. 
 
-WINTERBOURNE, expressively. 
-How very interesting! 
+WINTERBOURNE, <i>expressively:</i> How very interesting! 
 
-DAISY, looking at him, aside. Well, he’s a queer specimen! I guess he’s laughing. 
+DAISY, <i>looking at him, aside:</i> Well, he’s a queer specimen! I guess he’s laughing. 
 
-RANDOLPH. That isn’t her real name — that isn’t her name on her 
+RANDOLPH: That isn’t her real name — that isn’t her name on her 
 cards. 
 
-DAISY. It’s a pity that you haven’t got one of my cards! 
+DAISY: It’s a pity that you haven’t got one of my cards! 
 
-RANDOLPH. 
-Her name is Annie P. Miller. 
+RANDOLPH: Her name is Annie P. Miller. 
 
-WINTERBOURNE. Oh, I see. (Aside.) That doesn’t tell me much. 
+WINTERBOURNE: Oh, I see. <i>(Aside.)</i> That doesn’t tell me much. 
 
-DAISY, indicating Winterbourne. 
-Ask him his name. 
+DAISY, <i>indicating Winterbourne:<i> Ask him his name. 
 
-RANDOLPH. 
-Ask him yourself! My father’s name is Ezra B. Miller. 
+RANDOLPH: Ask him yourself! My father’s name is Ezra B. Miller. 
 My father ain’t in Europe. My father’s in a better place 
 than Europe. 
 
-WINTERBOURNE, uncertain. 
-Ah, you have had the misfortune… 
+WINTERBOURNE, <i>uncertain:</i> 
+Ah, you have had the misfortune... 
 
-RANDOLPH. 
-My father’s in Schenectady. He does a big business. 
+RANDOLPH: My father’s in Schenectady. He does a big business. 
 He’s rich, you can bet your head! 
 
-WINTERBOURNE, aside. Oh, in Schenectady? I thought he meant in Paradise! 
+WINTERBOURNE, <i>aside:</i> Oh, in Schenectady? I thought he meant in Paradise! 
 
-DAISY, to Randolph. Well, you needn’t stick your pole into my eye! 
+DAISY, <i>to Randolph:</i> Well, you needn’t stick your pole into my eye! 
 
-RANDOLPH, to Winterbourne. 
-Didn’t I tell you she was always blowing? (Scampers away 
-and disappears.) 
+RANDOLPH, <i>to Winterbourne:</i> Didn’t I tell you she was always blowing? <i>(Scampers away 
+and disappears.)</i> 
 
-DAISY, looking after him. He doesn’t like Europe; he wants to go back. He hasn’t 
+DAISY, <i>looking after him:</i> He doesn’t like Europe; he wants to go back. He hasn’t 
 got any boys here. There’s one boy here, but he’s always 
 going round with a teacher. 
 
-WINTERBOURNE. 
-And your brother hasn’t any teacher? 
+WINTERBOURNE: And your brother hasn’t any teacher? 
 
-DAISY. Mother thought of getting him one, to travel round with 
+DAISY: Mother thought of getting him one, to travel round with 
 us. But Randolph said he didn’t want a teacher when 
 school didn’t keep; he said he wouldn’t have lessons when 
 he was in the cars. And we are in the cars most of the 
@@ -988,456 +945,385 @@ give him instruction, she called it. I guess he could give
 me more instruction than I could give him! He’s very 
 smart — he’s only nine. 
 
-WINTERBOURNE, aside. 
-He might be ninety! 
-DAISY. 
-Mother’s going to get a teacher for him as soon as we 
+WINTERBOURNE, <i>aside:</i> He might be ninety!
+
+DAISY: Mother’s going to get a teacher for him as soon as we 
 get to Italy. Can you get good teachers in Italy? 
 
-WINTERBOURNE. 
-Oh, it’s the land of art — of science. 
+WINTERBOURNE: Oh, it’s the land of art — of science. 
 
-DAISY. 
-Well, I guess he doesn’t want to study art; but she’s 
-going to find some school, if she can. (Pensively.) Randolph 
+DAISY: Well, I guess he doesn’t want to study art; but she’s 
+going to find some school, if she can. <i>(Pensively.)</i> Randolph 
 ought to learn some more. 
 
-WINTERBOURNE. 
-It depends upon what it is! 
+WINTERBOURNE: It depends upon what it is! 
 
-DAISY, after a silence, during which her eyes have rested upon him. 
+DAISY, <i>after a silence, during which her eyes have rested upon him.</i> 
 I presume you are a German. 
 
-WINTERBOURNE, rising quickly. 
+WINTERBOURNE, <i>rising quickly.</i> 
 Oh dear, no! I shouldn’t have ventured to speak to 
 you, if your brother’s mention of my nationality had not 
-seemed a guarantee . . . 
+seemed a guarantee...
 
-DAISY, getting up. 
-I didn’t suppose my brother knew. And you do speak 
+DAISY, <i>getting up:</i> I didn’t suppose my brother knew. And you do speak 
 queerly, any way!
 
-WINTERBOURNE. I’m a countryman of your own. But I should tell you 
+WINTERBOURNE: I’m a countryman of your own. But I should tell you 
 that I have spent many years in this old Europe, as your 
 brother says. 
 
-DAISY. Do you live here — in the mountains? 
+DAISY: Do you live here — in the mountains? 
 
-WINTERBOURNE, aside. Does she think I’m a goatherd? (Aloud.) No, I live 
+WINTERBOURNE, <i>aside:</i> Does she think I’m a goatherd? <i>(Aloud.)</i> No, I live 
 just now at Geneva. 
 
-DAISY. 
-Well, you are peculiar, anyhow! 
+DAISY: Well, you are peculiar, anyhow! 
 
-WINTERBOURNE, aside. 
-So are you, if you come to that. (Aloud.) I’m afraid I 
-have got rather out of the way — (pauses for a moment.) 
+WINTERBOURNE, <i>aside:</i> So are you, if you come to that. <i>(Aloud.)</i> I’m afraid I 
+have got rather out of the way — <i>(pauses for a moment.)</i> 
 
-DAISY. 
-Out of the way of what? 
+DAISY: Out of the way of what? 
 
-WINTERBOURNE. Of making myself agreeable to the young ladies. 
+WINTERBOURNE: Of making myself agreeable to the young ladies. 
 
-DAISY. 
-Haven’t they got any over here? I must say I haven’t seen any! Of course I haven’t looked out much for them. 
+DAISY: Haven’t they got any over here? I must say I haven’t seen any! Of course I haven’t looked out much for them. 
 
-WINTERBOURNE. You have looked out more for the gentlemen! 
+WINTERBOURNE: You have looked out more for the gentlemen! 
 
-DAISY. Well, at Schenectady I didn’t have to look out. 
+DAISY: Well, at Schenectady I didn’t have to look out. 
 
-WINTERBOURNE, aside. 
-Queer place, Schenectady. 
+WINTERBOURNE, <i>aside:</i> Queer place, Schenectady. 
 
-DAISY. I had so much society. But over here - (She hesitates.) 
+DAISY: I had so much society. But over here - <i>(She hesitates.)</i> 
 
-WINTERBOURNE. 
-Over here? 
+WINTERBOURNE: Over here? 
 
-DAISY. Well, you’re the first gentleman that has been at all 
-attentive. 
+DAISY: Well, you’re the first gentleman that has been at all attentive. 
 
-WINTERBOURNE. 
-Ah, you see, they’re afraid! 
+WINTERBOURNE: Ah, you see, they’re afraid! 
 
-DAISY, continuing. And the first I’ve cared anything about! 
+DAISY, <i>continuing:</i> And the first I’ve cared anything about! 
 
-WINTERBOURNE, aside. And to think that, at the beginning, I was afraid. (Aloud.) 
-If they knew how kind you are they would be much less 
-timid. 
+WINTERBOURNE, <i>aside:,</i> And to think that, at the beginning, I was afraid. <i>(Aloud.)</i> 
+If they knew how kind you are they would be much less timid. 
 
-DAISY. I hate gentlemen to be timid. That’s only for us. 
+DAISY: I hate gentlemen to be timid. That’s only for us. 
 
-WINTERBOURNE, aside. 
-“For us” is enchanting! 
+WINTERBOURNE, <i>aside:</i> “For us” is enchanting! 
 
-SCENE FIFTH 
-DAISY, WINTERBOURNE, EUGENIO, who comes in hastily from 
-the right, wiping his forehead. 
+<p align="center">SCENE FIFTH. Daisy, Winterbourne, Eugenio, <i>who comes in hastily from 
+the right, wiping his forehead.</i></p> 
 
-EUGENIO. Mademoiselle, I have been looking for an hour for Meester 
+EUGENIO: Mademoiselle, I have been looking for an hour for Meester 
 Randolph. He must be drowned in the lake! 
 
-DAISY. I guess he’s talking to that waiter. (Serenely.) He likes 
+DAISY: I guess he’s talking to that waiter. <i>(Serenely.)</i> He likes 
 to talk to that waiter. 
  
-EUGENIO. He shouldn’t talk to waiters, Mademoiselle. 
+EUGENIO: He shouldn’t talk to waiters, Mademoiselle. 
 
-WINTERBOURNE, aside. 
-Only to couriers — the hierarchy! 
+WINTERBOURNE, <i>aside:</i> Only to couriers — the hierarchy! 
 
-DAISY. 
-I want to introduce you to a friend of mine — Mr. — 
-Mr. — (To Winterbourne.) I declare, I don’t know your name. 
+DAISY: I want to introduce you to a friend of mine — Mr. — 
+Mr. — <i>(To Winterbourne.)</i> I declare, I don’t know your name. 
 
-WINTERBOURNE, aside. 
-To the courier? Excuse me! 
+WINTERBOURNE, <i>aside:</i> To the courier? Excuse me! 
 
-EUGENIO, very proper. I have the honor of knowing the name of Monsieur. 
+EUGENIO, <i>very proper:</i> I have the honor of knowing the name of Monsieur. 
 
-DAISY. 
-Gracious, you know everything! 
+DAISY: Gracious, you know everything! 
 
-EUGENIO, aside. 
-The lover of the Katkoff! (Aloud.) I found Meester 
+EUGENIO, <i>aside:</i> The lover of the Katkoff! <i>(Aloud.)</i> I found Meester 
 Randolph, but he escaped again. 
 
-DAISY. 
-Well, Eugenio, you’re a splendid courier, but you can’t 
+DAISY: Well, Eugenio, you’re a splendid courier, but you can’t 
 make much impression on Randolph. 
 
-EUGENIO. 
-I do what I can, Mademoiselle. The lunch is waiting, 
+EUGENIO: I do what I can, Mademoiselle. The lunch is waiting, 
 and Madame is at the table. If you will excuse me, I will 
-give up the chase. (Glancing at Winterbourne, aside.) Is he leaving 
-the Katkoff for the child? 
-DAISY. 
-You needn’t be so grand, need he? (To Winterbourne.) It’s 
+give up the chase. <i>(Glancing at Winterbourne, aside.)</i> Is he leaving 
+the Katkoff for the child?
+
+DAISY: You needn’t be so grand, need he? <i>(To Winterbourne.)</i> It’s 
 not the first time you’ve been introduced to a courier!
 
-WINTERBOURNE, stiffly. 
-The very first. 
+WINTERBOURNE, <i>stiffly:</i> The very first. 
 
-EUGENIO, aside. 
-He has never kept one. (Aloud.) If Mademoiselle will 
-pass into the hotel! (Aside again.) The child is not for 
+EUGENIO, <i>aside:</i> He has never kept one. <i>(Aloud.)</i> If Mademoiselle will 
+pass into the hotel! <i>(Aside again.)</i> The child is not for 
 every one. 
 
-DAISY. Tell mother to begin — that I’m talking to a gentleman. 
+DAISY: Tell mother to begin — that I’m talking to a gentleman. 
 
-WINTERBOURNE, protesting. I shall be very sorry to incommode your mother. 
+WINTERBOURNE, <i>protesting:</i> I shall be very sorry to incommode your mother. 
 
-DAISY, smiling. I like the way you say such things. (Familiarly.) What 
+DAISY, <i>smiling:</i> I like the way you say such things. <i>(Familiarly.)</i> What 
 are you going to do all day? 
 
-WINTERBOURNE, embarrassed. 
-I hardly know. I’ve only just arrived. 
+WINTERBOURNE, <i>embarrassed:</i> I hardly know. I’ve only just arrived. 
 
-DAISY. 
-I will come out after lunch. 
+DAISY: I will come out after lunch. 
 
-WINTERBOURNE, with extreme respect. 
-I shall be here, to take your commands. 
+WINTERBOURNE, <i>with extreme respect:</i> I shall be here, to take your commands. 
 
-DAISY. Well, you do say them! About two o’clock. 
+DAISY: Well, you do say them! About two o’clock. 
 
-WINTERBOURNE. 
-I shall not go far. 
-DAISY, going. 
-And I shall learn your name from Eugenio. 
+WINTERBOURNE: I shall not go far.
 
-EUGENIO, aside. 
-And something else as well! He is not for the child. 
-(Follows Daisy into the hotel.) 
+DAISY, <i>going:</i> And I shall learn your name from Eugenio. 
 
-
+EUGENIO, <i>aside:</i> And something else as well! He is not for the child. 
+<i>(Follows Daisy into the hotel.)</i> 
  
-SCENE SIXTH. WINTERBOURNE ALONE, THEN MADAME DE KATKOFF. 
+ <p align="center">SCENE SIXTH. Winterbourne alone, then Madame De Katkoff.</p> 
 
-WINTERBOURNE. She’s simply amazing! I have never seen them like 
+WINTERBOURNE: She’s simply amazing! I have never seen them like 
 that. I have seen them worse — oh, yes! - and I have 
-seen them better; but I’ve never encountered that partic- 
-ular shade — that familiarity, that facility, that fragility! 
+seen them better; but I’ve never encountered that particular shade — that familiarity, that facility, that fragility! 
 She’s too audacious to be innocent, and too candid to be — 
 the other thing. But her candor itself is a queer affair. 
 Coming up to me and proposing acquaintance, and letting 
 her eyes rest on mine! Planting herself there like a flower 
-to be gathered! Introducing me to her courier, and offer-
-ing me a rendezvous at the end of twenty minutes! Are 
+to be gathered! Introducing me to her courier, and offering me a rendezvous at the end of twenty minutes! Are 
 they all like that, the little American girls? It’s time I 
-should go back and see. (Seeing Madame de Katkoff.) But I can 
+should go back and see. <i>(Seeing Madame de Katkoff.)</i> But I can 
 hardly go while I have this reason for staying! 
  
-MADAME DE KATKOFF. She comes out of the hotel; she has still her 
-book under her arm. 
+MADAME DE KATKOFF: <i>She comes out of the hotel; she has still her 
+book under her arm.</i> They brought me your card, but I thought it better I should come and see you here. 
 
-They brought me your card, but I thought it better I should come and see you here. 
+WINTERBOURNE: I know why you do that: you think it’s less encouraging than to receive me in-doors. 
 
-WINTERBOURNE. I know why you do that: you think it’s less encouraging 
-than to receive me in-doors. 
+MADAME DE KATKOFF, <i>smiling:</i> Oh, if I could discourage you a little! 
 
-MADAME DE KATKOFF, smiling. 
-Oh, if I could discourage you a little! 
+WINTERBOURNE: It’s not for want of trying. I bore you so much! 
 
-WINTERBOURNE. It’s not for want of trying. I bore you so much! 
-
-MADAME DE KATKOFF.  No, you don’t bore me, but you distress me. I give you 
+MADAME DE KATKOFF: No, you don’t bore me, but you distress me. I give you 
 so little. 
 
-WINTERBOURNE. That’s for me to measure. I’m content for the present. 
+WINTERBOURNE: That’s for me to measure. I’m content for the present. 
 
-MADAME DE KATKOFF. If you had been content, you wouldn’t have followed me 
+MADAME DE KATKOFF: If you had been content, you wouldn’t have followed me 
 to this place. 
 
-WINTERBOURNE. I didn’t follow you, and, to speak perfectly frankly, it’s 
-not for you I came. 
-MADAME DE KATKOFF. 
-Is it for that young lady I just saw from my window? 
+WINTERBOURNE: I didn’t follow you, and, to speak perfectly frankly, it’s 
+not for you I came.
 
-WINTERBOURNE. I never heard of that young lady before. I came for an 
+MADAME DE KATKOFF: Is it for that young lady I just saw from my window? 
+
+WINTERBOURNE: I never heard of that young lady before. I came for an 
 aunt of mine, who is staying here. 
 
-MADAME DE KATKOFF, smiling again. Ah, if your family could only take an interest in you! 
+MADAME DE KATKOFF, <i>smiling again:</i> Ah, if your family could only take an interest in you! 
 
-WINTERBOURNE. Don’t count on them too much. I haven’t seen my 
-aunt yet. 
-MADAME DE KATKOFF.
-You have asked first for me? You see, then, it was for 
+WINTERBOURNE: Don’t count on them too much. I haven’t seen my 
+aunt yet.
+
+MADAME DE KATKOFF: You have asked first for me? You see, then, it was for 
 me you came. 
 
-WINTERBOURNE. I wish I could believe it pleased you a little to think so. 
+WINTERBOURNE: I wish I could believe it pleased you a little to think so. 
 
-MADAME DE KATKOFE. 
-It does please me — a little; I like you very much. 
+MADAME DE KATKOFF: It does please me — a little; I like you very much. 
  
-WINTERBOURNE. You always say that, when you are about to make some 
+WINTERBOURNE: You always say that, when you are about to make some 
 particularly disagreeable request. You like me, but you 
 dislike my society. On that principle, I wish you hated me! 
 
-MADAME DE KATKOFF. 
-I may come to it yet. 
+MADAME DE KATKOFF: I may come to it yet. 
  
-WINTERBOURNE. 
-Before that, then, won’t you sit down? (Indicating a bench.) 
+WINTERBOURNE: Before that, then, won’t you sit down? <i>(Indicating a bench.)</i> 
  
-MADAME DE KATKOFF. 
-Thank you; I’m not tired. 
+MADAME DE KATKOFF: Thank you; I’m not tired. 
 
-WINTERBOURNE. That would be too encouraging! I went to the villa a 
+WINTERBOURNE:That would be too encouraging! I went to the villa a 
 week ago. You had already left it. 
 
-MADAME DE KATKOFF. I went first to Lausanne. If I had remained there, you 
+MADAME DE KATKOFF: I went first to Lausanne. If I had remained there, you 
 wouldn’t have found me. 
 
-WINTERBOURNE. I’m delighted you didn’t remain. But I’m sorry you 
+WINTERBOURNE: I’m delighted you didn’t remain. But I’m sorry you 
 are altering your house. 
 
-MADAME DE KATKOFF. Only two rooms. That’s why I came away: the work- 
-men made too much noise. 
+MADAME DE KATKOFF: Only two rooms. That’s why I came away: the workmen made too much noise. 
 
-WINTERBOURNE. I hope they are not the rooms I know - in which the 
+WINTERBOURNE: I hope they are not the rooms I know - in which the 
 happiest hours of my life have been passed! 
 
-MADAME DE KATKOFF. I see why you wished me to sit down. You want to 
+MADAME DE KATKOFF: I see why you wished me to sit down. You want to 
 begin a siege. 
 
-WINTERBOURNE. No, I was only going to say that I shall always see with 
+WINTERBOURNE: No, I was only going to say that I shall always see with 
 particular vividness your little blue parlor.
 
-MADAME DE KATKOFF. 
-They are going to change it to red. (Aside.) Perhaps 
-that will cure him! (Aloud.) Apropos of your family, have  they come to Europe to bring you home? 
+MADAME DE KATKOFF: They are going to change it to red. <i>(Aside.)</i> Perhaps 
+that will cure him! <i>(Aloud.)</i> Apropos of your family, have they come to Europe to bring you home? 
 
-WINTERBOURNE. As I tell you, I haven’t yet ascertained their intentions. 
+WINTERBOURNE: As I tell you, I haven’t yet ascertained their intentions. 
  
-MADAME DE KATKOFF. I take a great interest in them. I feel a little responsible 
+MADAME DE KATKOFF: I take a great interest in them. I feel a little responsible 
 for you. 
 
-WINTERBOURNE. 
-You don’t care a straw for me! 
+WINTERBOURNE: You don’t care a straw for me! 
 
-MADAME DE KATKOFF. Let me give you a proof. I think it would conduce to 
+MADAME DE KATKOFF: Let me give you a proof. I think it would conduce to 
 your happiness to return for a while to America. 
 
-WINTERBOURNE. To my happiness? You are confounding it with your own. 
+WINTERBOURNE: To my happiness? You are confounding it with your own. 
 
-MADAME DE KATKOFF. It is true that the two things are rather distinct. But 
+MADAME DE KATKOFF: It is true that the two things are rather distinct. But 
 you have been in Europe for years - for years and years. 
 
-WINTERBOURNE. Oh, I have been here too long. I know that. 
+WINTERBOURNE: Oh, I have been here too long. I know that. 
 
-MADAME DE KATKOFF. You ought to go over and make the acquaintance of your 
+MADAME DE KATKOFF: You ought to go over and make the acquaintance of your 
 compatriots. 
 
-WINTERBOURNE. Going over isn’t necessary. I can do it here. 
+WINTERBOURNE: Going over isn’t necessary. I can do it here. 
 
-MADAME DE KATKOFF. You ought at least to see their institutions — their scenery. 
+MADAME DE KATKOFF: You ought at least to see their institutions — their scenery. 
 
-WINTERBOURNE. 
-Don’t talk about scenery, on the Lake of Geneva! As 
+WINTERBOURNE: Don’t talk about scenery, on the Lake of Geneva! As 
 for American institutions, I can see them in their fruits. 
 
-MADAME DE KATKOFF. 
-In their fruits?
+MADAME DE KATKOFF: In their fruits?
 
-WINTERBOURNE. 
-Little nectarines and plums. A very pretty bloom, but 
+WINTERBOURNE: Little nectarines and plums. A very pretty bloom, but 
 decidedly crude. What book are you reading? 
  
-MADAME DE KATKOFF. I don’t know what. The last French novel. 
+MADAME DE KATKOFF: I don’t know what. The last French novel. 
 
-WINTERBOURNE. Are you going to remain in the garden? 
+WINTERBOURNE: Are you going to remain in the garden? 
 
-MADAME DE KATKOFF, looks at him a moment. I see what you are coming to: you wish to offer to read 
+MADAME DE KATKOFF, <i>looks at him a moment:</i> I see what you are coming to: you wish to offer to read 
 to me. 
 
-WINTERBOURNE. 
-As I did in the little blue parlor! 
+WINTERBOURNE: As I did in the little blue parlor! 
 
-MADAME DE KATKOFF. You read very well; but we are not there now. 
+MADAME DE KATKOFF: You read very well; but we are not there now. 
 
-WINTERBOURNE. A quiet corner, under the trees, will do as well. 
+WINTERBOURNE: A quiet corner, under the trees, will do as well. 
 
-MADAME DE KATKOFF. We neither of us have the time. I recommend you to 
+MADAME DE KATKOFF: We neither of us have the time. I recommend you to 
 your aunt. She will be sure to take you in hand. 
 
-WINTERBOURNE. I have an idea I shan’t fall in love with my aunt. 
+WINTERBOURNE: I have an idea I shan’t fall in love with my aunt. 
 
-MADAME DE KATKOFF. I am sorry for her. I should like you as a nephew. 
+MADAME DE KATKOFF: I am sorry for her. I should like you as a nephew. 
 
-WINTERBOURNE. I should like you as a serious woman! 
+WINTERBOURNE: I should like you as a serious woman! 
 
-MADAME DE KATKOFF. I am intensely serious. Perhaps you will believe it when 
+MADAME DE KATKOFF: I am intensely serious. Perhaps you will believe it when 
 I tell you that I leave this place to-day. 
 
-WINTERBOURNE. I don’t call that serious: I call it cruel. 
+WINTERBOURNE: I don’t call that serious: I call it cruel. 
 
-MADAME DE KATKOFF. At all events, it’s deliberate. Vevey is too hot; I shall 
+MADAME DE KATKOFF: At all events, it’s deliberate. Vevey is too hot; I shall 
 go higher up into the mountains. 
 
-WINTERBOURNE. 
-You knew it was hot when you came. 
+WINTERBOURNE: You knew it was hot when you came. 
 
-MADAME DE KATKOFF, after a pause, with significance. 
+MADAME DE KATKOFF, <i>after a pause, with significance:</i>
 Yes, but it’s hotter than I supposed. 
 
-WINTERBOURNE. 
-You don’t like meeting old friends. 
+WINTERBOURNE: You don’t like meeting old friends. 
 
-MADAME DE KATKOFF, aside. No, nor old enemies! (Aloud.) I like old friends in the 
-autumn — the melancholy season! I shall count on seeing 
-you then. 
-WINTERBOURNE.
-And not before, of course. Say at once you wish to cut 
-me. 
+MADAME DE KATKOFF, <i>aside:</i> No, nor old enemies! <i>(Aloud.)</i> I like old friends in the 
+autumn — the melancholy season! I shall count on seeing you then.
 
-MADAME DE KATKOFF, smiling. 
-Very good: I wish to cut you! 
+WINTERBOURNE: And not before, of course. Say at once you wish to cut me. 
 
-WINTERBOURNE. You give a charm even to that! Where shall you be in 
+MADAME DE KATKOFF, <i>smiling:</i> Very good: I wish to cut you! 
+
+WINTERBOURNE: You give a charm even to that! Where shall you be in 
 the autumn? 
 
-MADAME DE KATKOFF. 
-I shall be at the villa — if the little blue parlor is altered! 
+MADAME DE KATKOFF: I shall be at the villa — if the little blue parlor is altered! 
 In the winter I shall go to Rome. 
 
-WINTERBOURNE. A happy journey, then! I shall go to America. 
+WINTERBOURNE: A happy journey, then! I shall go to America. 
 
-MADAME DE KATKOFF. That’s capital. Let me give you a word of advice. 
+MADAME DE KATKOFF: That’s capital. Let me give you a word of advice. 
 
-WINTERBOURNE. 
-Yes, that’s the finishing touch! 
+WINTERBOURNE: Yes, that’s the finishing touch! 
 
-MADAME DE KATKOFF. The little nectarines and plums: don’t mind if they are a 
+MADAME DE KATKOFF: The little nectarines and plums: don’t mind if they are a 
 trifle crude! Pick out a fair one, a sweet one — 
 
-WINTERBOURNE, stopping her with a gesture. Don’t, don’t! I shall see you before you go. 
+WINTERBOURNE, <i>stopping her with a gesture:</i> Don’t, don’t! I shall see you before you go. 
 
-MADAME DE KATKOFF, aside.
-Not if I can help it! (Aloud.) I think this must be your
-family. (Goes into the hotel.) 
+MADAME DE KATKOFF, <i>aside:</i> Not if I can help it! <i>(Aloud.)</i> I think this must be your
+family. <i>(Goes into the hotel.)</i> 
 
-SCENE SEVENTH.  
-WINTERBOURNE, MRS. COSTELLO, MISS DURANT, REVERDY, 
-who come out of the hotel as Madame de Katkoff enters it. 
+<p align="center">SCENE SEVENTH. Winterbourne, Mrs. Costello, Miss Durant, Reverdy, 
+<i>who come out of the hotel as Madame de Katkoff enters it.</i> 
 
-REVERDY. We are always meeting the Russian princess! 
+REVERDY: We are always meeting the Russian princess! 
 
-MISS DURANT. If you call that meeting her, when she never looks at you! 
+MISS DURANT: If you call that meeting her, when she never looks at you! 
 
-MRS. COSTELLO. She doesn’t look at you, but she sees you. Bless my
+MRS. COSTELLO: She doesn’t look at you, but she sees you. Bless my
 soul, if here isn’t Frederick! 
 
-WINTERBOURNE.
-My dear aunt, I was only waiting till you had breakfasted. 
+WINTERBOURNE: My dear aunt, I was only waiting till you had breakfasted. 
 
-MISS DURANT, aside. He was talking with the Russian princess! 
+MISS DURANT, <i>aside:</i> He was talking with the Russian princess! 
 
-MRS. COSTELLO.
-You might have sat down with us: we waited an hour. 
+MRS. COSTELLO: You might have sat down with us: we waited an hour. 
 
-WINTERBOURNE. 
-I breakfasted in my room. I was obliged on my arrival 
+WINTERBOURNE: I breakfasted in my room. I was obliged on my arrival 
 to jump into a bath. 
 
-MISS DURANT, aside.
-He’s very cold - he’s very cold! 
+MISS DURANT, <i>aside:</i> He’s very cold - he’s very cold! 
  
-WINTERBOURNE. They told me you were at table, and I just sat down here. 
+WINTERBOURNE: They told me you were at table, and I just sat down here. 
 
-MRS. COSTELLO. You were in no hurry to embrace me - after ten years? 
+MRS. COSTELLO: You were in no hurry to embrace me - after ten years? 
 
-WINTERBOURNE. It was just because of those ten years; they seemed to 
+WINTERBOURNE: It was just because of those ten years; they seemed to 
 make you so venerable that I was pausing — as at the 
 entrance of a shrine! Besides, I knew you had charming 
 company. 
 
-MRS. COSTELLO. You shall discover how charming. This is Alice Durant, 
+MRS. COSTELLO: You shall discover how charming. This is Alice Durant, 
 who is almost our cousin. 
 
-WINTERBOURNE, smiling. 
-Almost? I wish it were quite. 
+WINTERBOURNE, <i>smiling:</i> Almost? I wish it were quite. 
 
-MRS. COSTELLO. 
-And that is Mr. Charles Reverdy. 
+MRS. COSTELLO: And that is Mr. Charles Reverdy. 
 
-REVERDY. 
-Who is almost their courier! 
+REVERDY: Who is almost their courier! 
 
-WINTERBOURNE. 
-I must relieve you of your duties. 
+WINTERBOURNE: I must relieve you of your duties. 
 
-REVERDY, aside. 
-Oh, thank you, thank you! By George, if I’m relieved 
-I’11 look out for Miss Miller. (Looks about him, and finally steals 
-away.) 
+REVERDY, <i>aside:</i> Oh, thank you, thank you! By George, if I’m relieved 
+I’lllook out for Miss Miller. <i>(Looks about him, and finally steals 
+away.)</i> 
 
-MRS. COSTELLO. My dear Frederick, in all this time you have not changed 
+MRS. COSTELLO: My dear Frederick, in all this time you have not changed 
 for the worse. 
 
-WINTERBOURNE. How can you tell that — in three minutes? 
+WINTERBOURNE: How can you tell that — in three minutes? 
 
-MISS DURANT, aside. 
-Decidedly good-looking, but fearfully distant! 
+MISS DURANT, <i>aside:</i> Decidedly good-looking, but fearfully distant! 
 
-MRS. COSTELLO. Oh, if you are not agreeable, we shall be particularly dis- 
-appointed. We count on you immensely.  
+MRS. COSTELLO: Oh, if you are not agreeable, we shall be particularly disappointed. We count on you immensely.  
  
-WINTERBOURNE. 
-I shall do my best, dear aunt. 
+WINTERBOURNE: I shall do my best, dear aunt. 
 
-MRS. COSTELLO. 
-Especially for our sweet Alice. 
+MRS. COSTELLO: Especially for our sweet Alice. 
 
-MISS DURANT. 
-Oh, Cousin Louisa, how can you? 
+MISS DURANT: Oh, Cousin Louisa, how can you? 
 
-MRS. COSTELLO. I thought of you when I invited her to come to Europe. 
+MRS. COSTELLO: I thought of you when I invited her to come to Europe. 
 
-WINTERBOURNE. It was a very happy thought. I don’t mean thinking of 
+WINTERBOURNE: It was a very happy thought. I don’t mean thinking of 
 me, but inviting Miss Durant. 
 
-MISS DURANT, to Winterbourne. I can’t say it was of you I thought when I accepted. 
-WINTERBOURNE. I should never flatter myself: there are too many other 
+MISS DURANT, <i>to Winterbourne:</i> I can’t say it was of you I thought when I accepted. 
+
+WINTERBOURNE: I should never flatter myself: there are too many other 
 objects of interest. 
 
 MRS. COSTELLO. That’s precisely what we have been talking of. We are 
