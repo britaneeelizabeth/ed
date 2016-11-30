@@ -1257,11 +1257,11 @@ MADAME DE KATKOFF, <i>aside:</i> Not if I can help it! <i>(Aloud.)</i> I think t
 family. <i>(Goes into the hotel.)</i> 
 
 <p align="center">SCENE SEVENTH. Winterbourne, Mrs. Costello, Miss Durant, Reverdy, 
-<i>who come out of the hotel as Madame de Katkoff enters it.</i><br>   
+<i>who come out of the hotel as Madame de Katkoff enters it.</i></p>   
 
-REVERDY: We are always meeting the Russian princess!<br>   
+REVERDY: We are always meeting the Russian princess!   
 
-MISS DURANT: If you call that meeting her, when she never looks at you!<br>   
+MISS DURANT: If you call that meeting her, when she never looks at you!   
 
 MRS. COSTELLO: She doesn’t look at you, but she sees you. Bless my
 soul, if here isn’t Frederick!   
