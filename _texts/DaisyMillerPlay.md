@@ -1981,7 +1981,7 @@ WINTERBOURNE, <i>alone:</i> That’s a singularly offensive beast! And what the 
 Durant, and Charles Reverdy, who issue from the hotel, the ladies dressed for a 
 walk.)</i> Oh, confusion, I had forgotten them! 
 
-<p align="center">SCENE ELEVENTH. Mrs. Costello, Miss Durant, Charles Reverdy, Winterbourne, then Daisy. 
+<p align="center">SCENE ELEVENTH. Mrs. Costello, Miss Durant, Charles Reverdy, Winterbourne, then Daisy.</p> 
 
 MRS. COSTELLO: Well, Frederick, we take for granted that your little interview is over, and that you are ready to accompany us into the town. 
 
