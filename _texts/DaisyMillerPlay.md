@@ -3064,98 +3064,85 @@ his Russian. <i>(Winterbourne comes in, with Mrs. Walker.)</i>
 
 REVERDY: With the wife of the consul, to look after him! 
 
-SCENE SEVENTH. 
-MRS. COSTELLO, MISS DURANT, REVERDY, WINTERBOURNE, 
-MRS. WALKER. 
+<p align="center">SCENE SEVENTH. Mrs. Costello, Miss Durant, Reverdy, Winterbourne, Mrs. Walker.</p> 
 
-MRS. WALKER. Oh, you dreadful people, what are you doing here, when 
+MRS. WALKER: Oh, you dreadful people, what are you doing here, when 
 you ought to be at my reception? 
 
-MRS. COSTELLO. We were just thinking of going; it’s so very near. 
+MRS. COSTELLO: We were just thinking of going; it’s so very near. 
 
-MRS. WALKER. 
-Only round the corner! But there are better reasons 
+MRS. WALKER: Only round the corner! But there are better reasons 
 than that. 
 
-MISS DURANT. There can hardly be a very good one, when you yourself 
+MISS DURANT: There can hardly be a very good one, when you yourself 
 have come away! 
 
-MRS. WALKER. You would never imagine what has brought me! I have  
+MRS. WALKER: You would never imagine what has brought me! I have  
 come in pursuit of little Daisy Miller. 
 
-MRS. COSTELLO. And you have brought my nephew to help you! 
+MRS. COSTELLO: And you have brought my nephew to help you! 
 
-WINTERBOURNE. A walk in such charming company is a privilege not to be 
+WINTERBOURNE: A walk in such charming company is a privilege not to be 
 lost. Perhaps, dear aunt, you can give us news. 
 
-MRS. COSTELLO. Of that audacious and desperate person? Dear me, yes. 
+MRS. COSTELLO: Of that audacious and desperate person? Dear me, yes. 
 We met her just now, on the arm of a dreadful man. 
 
-MRS. WALKER. 
-Oh, we are too late then. She is lost! 
+MRS. WALKER: Oh, we are too late then. She is lost! 
 
-MRS. COSTELLO. It seems to me she was lost long ago, and (significantly, at 
-Winterbourne) that this is not the first rendezvous she has 
-taken. 
+MRS. COSTELLO: It seems to me she was lost long ago, and <i>(significantly, at 
+Winterbourne)</i> that this is not the first rendezvous she has taken. 
 
-WINTERBOURNE, smiling. If it does her no more harm than the others, Mrs. Walker 
+WINTERBOURNE, <i>smiling:</i> If it does her no more harm than the others, Mrs. Walker 
 had better go back to her teapot! 
 
-REVERDY, to Miss Durant. 
-That’s an allusion to the way he was sold! 
+REVERDY, <i>to Miss Durant:</i> That’s an allusion to the way he was sold! 
 
-MRS. WALKER. She left my house, half an hour ago, without a word to 
+MRS. WALKER: She left my house, half an hour ago, without a word to 
 any one but her idiot of a mother, who thought it all right 
-that she should walk off to the Pincian to meet the hand- 
-some Giovanelli. I only discovered her flight just now, by 
+that she should walk off to the Pincian to meet the handsome Giovanelli. I only discovered her flight just now, by 
 a lady who was coming in at the moment that Miss Daisy, 
 shaking out her little flounces and tossing up her little head, 
-tripped away from my door, to fall into the arms of a cava- 
-lier! 
+tripped away from my door, to fall into the arms of a cavalier! 
 
-MRS. WALKER. My dear young lady, with these unscrupulous foreigners 
+MRS. WALKER: My dear young lady, with these unscrupulous foreigners 
 one can never be sure. You know as well as I what becomes 
 of the reputation of a girl who shows herself in this place, 
 at this hour, with all the rank and fashion of Rome about 
-her, with no more responsible escort than a gentleman re- 
-nowned for his successes! 
+her, with no more responsible escort than a gentleman renowned for his successes! 
 
-REVERDY, to Miss Durant. It’s as if you were here with me, you know! 
+REVERDY, <i>to Miss Durant:</i> It’s as if you were here with me, you know! 
 
-MRS. WALKER. This idea came over me with a kind of horror, and I de- 
-termined to save her if I could. 
+MRS. WALKER: This idea came over me with a kind of horror, and I determined to save her if I could. 
 
-MRS. COSTELLO. 
-There is nothing left of her to save! 
+MRS. COSTELLO: There is nothing left of her to save! 
 
-MRS. WALKER. There is always something left, and my representative 
+MRS. WALKER: There is always something left, and my representative 
 position makes it a duty. My rooms were filled with 
-guests — a hundred and fifty people — but I put on my bon- 
-net and seized Mr. Winterbourne’s arm. 
+guests — a hundred and fifty people — but I put on my bonnet and seized Mr. Winterbourne’s arm. 
 
-WINTERBOURNE. You can testify that I didn’t wince! I quite agree with 
-you as to the importance of looking her up. Foreigners 
-never understand. 
+WINTERBOURNE: You can testify that I didn’t wince! I quite agree with 
+you as to the importance of looking her up. Foreigners never understand. 
 
-REVERDY, aside. My dear fellow, if they understand no better than you!…  
+REVERDY, <i>aside:</i> My dear fellow, if they understand no better than you!...
 
-MRS. WALKER. What I want of you dear people is to go and entertain 
-MISS DURANT. Into his arms? Ah, Mrs. Walker I 
+MRS. WALKER: What I want of you dear people is to go and entertain 
+
+MISS DURANT: Into his arms? Ah, Mrs. Walker I 
 my visitors. Console them for my absence, and tell them I 
 shall be back in five minutes. 
 
-MISS DURANT. It will be very nice to give a reception without any trouble. 
+MISS DURANT: It will be very nice to give a reception without any trouble. 
 
-MRS. COSTELLO. Without any trouble — scarcely! But there is nothing 
+MRS. COSTELLO: Without any trouble — scarcely! But there is nothing 
 we wouldn’t do — 
 
-MRS. WALKER. For the representative of one’s country! Be charming, 
-then, as you can so well. (Seeing Daisy and Giovanelli come in.) I 
-shall not be long, for by the mercy of Heaven the child is 
-guided to this spot! 
+MRS. WALKER: For the representative of one’s country! Be charming, 
+then, as you can so well. <i>(Seeing Daisy and Giovanelli come in.)</i> I 
+shall not be long, for by the mercy of Heaven the child is guided to this spot! 
 
-REVERDY. If you think you have only to pick her up, we won’t wait 
-for you! (He goes out with Mrs. Costello and Miss Durant.) 
+REVERDY: If you think you have only to pick her up, we won’t wait 
+for you! <i>(He goes out with Mrs. Costello and Miss Durant.)</i> 
 
 SCENE EIGHTH. 
 MRS. WALKER, WINTERBOURNE, DAISY, GIOVANELLI. 
