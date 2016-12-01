@@ -3387,7 +3387,7 @@ DAISY, <i>smiling:</i> In the heart of ancient Rome! But don’t tell Mr. Winter
 MRS. WALKER, <i>aside:</i> I’ll get you out of Rome to-morrow! <i>(Aloud.)</i> I must 
 show you to the crowd — with me. <i>(Goes out leading Daisy.)</i> 
 
-<p align="center">SCENE NINTH. Reverdy, Randolph. 
+<p align="center">SCENE NINTH. Reverdy, Randolph.</p> 
 
 REVERDY, <i>coming in just as the others pass out, and completing Mrs. Walker’s 
 phrase:</i> The wife of the American consul! The American consul 
