@@ -3335,7 +3335,7 @@ DAISY: I am very sorry, but I am not sure of this evening.
 
 WINTERBOURNE, <i>gravely:</i> That’s a great disappointment to me. <i>(A short silence.)</i> 
   
-  MRS. WALKER, <i>to Giovanelli:</i> You promised me you would go to my house! 
+MRS. WALKER, <i>to Giovanelli:</i> You promised me you would go to my house! 
  
 GIOVANELLI: As a man of honor, then, I must go. But I assure you, 
 Mademoiselle <i>(to Daisy,)</i> that I soon return. 
@@ -3387,238 +3387,181 @@ DAISY, <i>smiling:</i> In the heart of ancient Rome! But don’t tell Mr. Winter
 MRS. WALKER, <i>aside:</i> I’ll get you out of Rome to-morrow! <i>(Aloud.)</i> I must 
 show you to the crowd — with me. <i>(Goes out leading Daisy.)</i> 
 
-SCENE NINTH. 
-REVERDY, RANDOLPH. 
+<p align="center">SCENE NINTH. Reverdy, Randolph. 
 
-REVERDY, coming in just as the others pass out, and completing Mrs. Walker’s 
-phrase. 
-
-The wife of the American consul! The American consul 
-is all very well, but I’ll be hanged if I’ll carry on the busi- 
-ness! It’s quite enough to do odd jobs for Mrs. Costello, 
+REVERDY, <i>coming in just as the others pass out, and completing Mrs. Walker’s 
+phrase:</i> The wife of the American consul! The American consul 
+is all very well, but I’ll be hanged if I’ll carry on the business! It’s quite enough to do odd jobs for Mrs. Costello, 
 without taking service at the consulate. Fifty carriages 
 before the door, and five hundred people up-stairs. My
-companions may get up if they can! It’s the first time to- 
-day I’ve had a moment for a quiet smoke. (Lights a cigar, and 
-while he is doing so Randolph comes in.) O Lord, the Old Man of the Sea! 
-REVERDY.
+companions may get up if they can! It’s the first time to-day I’ve had a moment for a quiet smoke. <i>(Lights a cigar, and 
+while he is doing so Randolph comes in.)</i> O Lord, the Old Man of the Sea! 
 
-RANDOLPH, planted before Reverdy.
-I say, Mr. Reverdy, suppose you offer me a cigar.
+RANDOLPH, <i>planted before Reverdy:</i> I say, Mr. Reverdy, suppose you offer me a cigar.
 
-REVERDY. My poor child, my cigars are as big as yourself! 
+REVERDY: My poor child, my cigars are as big as yourself! 
 
-RANDOLPH. There’s nothing fit to smoke over here. You can’t get 
-’em as you can in America. 
+RANDOLPH: There’s nothing fit to smoke over here. You can’t get ’em as you can in America. 
 
-REVERDY. 
-Yes, they’re better in America (smoking); but they cost a 
+REVERDY: Yes, they’re better in America <i>(smoking)</i>; but they cost a 
 good deal more.
 
-RANDOLPH. I don’t care what I pay. I’ve got all the money I want. 
+RANDOLPH: I don’t care what I pay. I’ve got all the money I want. 
 
-REVERDY. Don’t spend it; keep it till you grow up. 
+REVERDY: Don’t spend it; keep it till you grow up. 
 
-RANDOLPH. Oh, I ain’t going to grow up. I’ve been this way for 
+RANDOLPH: Oh, I ain’t going to grow up. I’ve been this way for 
 ever so long. Mother brought me over to see if I wouldn’t 
 start, but I haven’t started an inch. You can’t start in this 
 old country. 
 
-REVERDY. 
-The Romans were rather tall. 
+REVERDY: The Romans were rather tall. 
 
-RANDOLPH. I don’t care for the Romans. A child’s as good as a 
-man. 
+RANDOLPH: I don’t care for the Romans. A child’s as good as a man. 
 
-REVERDY. The future of democracy! You remind me of the in- 
-fant Hannibal. 
+REVERDY: The future of democracy! You remind me of the infant Hannibal. 
 
-RANDOLPH. There’s one good thing: so long as I’m little, my mother 
+RANDOLPH: There’s one good thing: so long as I’m little, my mother 
 can’t see me. She’s looking all round. 
 
-REVERDY. I was going to ask you if she allowed you to mingle in 
+REVERDY: I was going to ask you if she allowed you to mingle in 
 this human maze. 
 
-RANDOLPH. Mother’s in the carriage, but I jumped out. 
+RANDOLPH: Mother’s in the carriage, but I jumped out. 
 
-REVERDY. Imprudent little man! At the risk of breaking your 
-neck? 
+REVERDY: Imprudent little man! At the risk of breaking your neck? 
 
-RANDOLPH.
-Oh, we were crawling along — we haven’t American
+RANDOLPH: Oh, we were crawling along — we haven’t American
 trotters. I saw you walking about, and when mother wasn’t 
-looking I just dropped. As soon as she missed me, she 
-began to howl!
+looking I just dropped. As soon as she missed me, she began to howl!
 
-REVERDY. I am sorry to be the occasion of a family broil. 
+REVERDY: I am sorry to be the occasion of a family broil. 
 
-RANDOLPH. She thinks I am run over; she has begun to collect a 
-crowd. 
-REVERDY. 
-You wicked little person! I must take you straight back 
-to her. 
+RANDOLPH: She thinks I am run over; she has begun to collect a crowd.
 
+REVERDY: You wicked little person! I must take you straight back to her. 
 
-RANDOLPH. I thought you might like to know where my sister is.
+RANDOLPH: I thought you might like to know where my sister is.
 
-REVERDY. At the present moment my anxiety is about your mother. 
+REVERDY: At the present moment my anxiety is about your mother. 
 
-RANDOLPH. Daisy’s gone on a bender. If you’ll give me a cigar, I’ll 
-put you up to it. 
+RANDOLPH: Daisy’s gone on a bender. If you’ll give me a cigar, I’ll put you up to it. 
 
-REVERDY. You’re a vulgar little boy. Take me instantly to your 
-mother. 
+REVERDY: You’re a vulgar little boy. Take me instantly to your mother. 
  
-RANDOLPH, very sarcastic. 
-Wouldn’t you like to carry me on your back? 
+RANDOLPH, <i>very sarcastic:</i> Wouldn’t you like to carry me on your back? 
 
-REVERDY. If you don’t come, I’ll take you under my arm. (Starts to  
-seize him.) 
+REVERDY: If you don’t come, I’ll take you under my arm. <i>(Starts to seize him.)</i> 
 
-RANDOLPH, dodging. 
-I won’t come, then! 
-REVERDY. 
-Damn the little wretch! I must relieve his mother. 
-(Makes another attempt to capture Randolph, who escapes, while Reverdy gives 
-chase, and they disappear.) 
+RANDOLPH, <i>dodging:</i> I won’t come, then!
 
-SCENE TENTH. 
-WINTERBOURNE, THEN MADAME DE KATKOFF. 
+REVERDY: Damn the little wretch! I must relieve his mother. 
+<i>(Makes another attempt to capture Randolph, who escapes, while Reverdy gives 
+chase, and they disappear.)</i> 
 
-WINTERBOURNE, coming in alone. 
-Remarkable family, the Millers! Mrs. Miller, standing 
+<p align="center">SCENE TENTH. Winterbourne, then Madame de Katkoff.</p> 
+
+WINTERBOURNE, <i>coming in alone:</i> Remarkable family, the Millers! Mrs. Miller, standing 
 up in her carriage, in the centre of a crowd of Italians, and 
 chattering to them in her native tongue. She falls upon my 
-neck when she sees me, and announces that the gifted Ran- 
-dolph is no more. He has tumbled out of the vehicle, and 
-been trampled to death! We institute a search for his re- 
-mains, and as it proves fruitless she begs me to come and 
-look for him here. (Looking round him.) I don’t perceive any 
+neck when she sees me, and announces that the gifted Randolph is no more. He has tumbled out of the vehicle, and 
+been trampled to death! We institute a search for his remains, and as it proves fruitless she begs me to come and 
+look for him here. <i>(Looking round him.)</i> I don’t perceive any 
 remains! He has mingled in the giddy throng, and the 
 giddy throng may bring him back! It’s the business of that 
-ruffian of a courier! (Seeing Madame de Katkoff, aside.) Is she still 
-here ? (Aloud.) To meet you again is better fortune than I 
-hoped. 
+ruffian of a courier! <i>(Seeing Madame de Katkoff, aside.)</i> Is she still 
+here? <i>(Aloud.)</i> To meet you again is better fortune than I hoped. 
 
-MADAME DE KATKOFF, strolling in slowly, with an air of deliberation, 
-and standing a moment thoughtful. 
-Will you do me the favor to dine with me to—night? 
+MADAME DE KATKOFF, <i>strolling in slowly, with an air of deliberation, 
+and standing a moment thoughtful:</i> Will you do me the favor to dine with me to—night? 
 
-WINTERBOURNE, startled. 
-To dine with you to-night? 
+WINTERBOURNE, <i>startled:</i> To dine with you to-night? 
 
-MADAME DE KATKOFF. You stare as if I were a ghost! It’s very simple: to 
-dine with me to-night, at seven o’clock, at the Hotel de 
-Paris?
-WINTERBOURNE, aside. 
-It’s a little awkward. (Aloud.) Do you dine at the table 
-d’hote? 
+MADAME DE KATKOFF: You stare as if I were a ghost! It’s very simple: to 
+dine with me to-night, at seven o’clock, at the Hotel de Paris?
 
-MADAME DE KATKOFF. At the table d’hote, with that rabble of tourists? I dine 
-in my own apartments. 
+WINTERBOURNE, <i>aside:</i> It’s a little awkward. <i>(Aloud.)</i> Do you dine at the table d’hote? 
 
-WINTERBOURNE. 
-I supposed you had left the Pincian; I had no idea you 
-were lingermg. 
+MADAME DE KATKOFF: At the table d’hote, with that rabble of tourists? I dine in my own apartments. 
 
-MADAME DE KATKOFF. Apparently I had a purpose, which you seem quite unable 
-to appreciate. You are very slow in accepting! 
+WINTERBOURNE: I supposed you had left the Pincian; I had no idea you were lingermg. 
 
-WINTERBOURNE. To tell you the honest truth, I have made an engagement. 
+MADAME DE KATKOFF: Apparently I had a purpose, which you seem quite unable to appreciate. You are very slow in accepting! 
 
-MADAME DE KATKOFF. An engagement? A moment ago you were dying to 
-spend the evening with me. 
+WINTERBOURNE: To tell you the honest truth, I have made an engagement. 
 
-WINTERBOURNE. A moment ago you wouldn’t listen to me. 
+MADAME DE KATKOFF: An engagement? A moment ago you were dying to spend the evening with me. 
 
-MADAME DE KATKOFF, after a pause. My dear friend, you are very stupid, A woman doesn’t 
-confess the truth at the first summons! 
+WINTERBOURNE: A moment ago you wouldn’t listen to me. 
 
-WINTERBOURNE. 
-You are very strange. I accepted an invitation just after 
-we parted.  
-MADAME DE KATKOFF. 
-Send word you can’t come.
+MADAME DE KATKOFF, <i>after a pause:</i> My dear friend, you are very stupid, A woman doesn’t confess the truth at the first summons! 
 
-WINTERBOURNE. It was from the young lady you recommended me so 
-strongly to turn my attention to. 
-MADAME DE KATKOFF. 
-Ah, she gives invitations? 
+WINTERBOURNE: You are very strange. I accepted an invitation just after we parted. 
 
-WINTERBOURNE. 
-I confess I asked for this one. They are also at the 
-Hotel de Paris, and they dine at the table d’hote. 
+MADAME DE KATKOFF: Send word you can’t come.
 
-MADAME DE KATKOFF. A charming place to carry on a courtship! 
+WINTERBOURNE: It was from the young lady you recommended me so strongly to turn my attention to.
 
-WINTERBOURNE. It’s not a courtship — however much I may have wished 
+MADAME DE KATKOFF: Ah, she gives invitations? 
+
+WINTERBOURNE: I confess I asked for this one. They are also at the Hotel de Paris, and they dine at the table d’hote. 
+
+MADAME DE KATKOFF: A charming place to carry on a courtship! 
+
+WINTERBOURNE: It’s not a courtship — however much I may have wished 
 to please you. 
 
-MADAME DE KATKOFF. Your wish to please me has suddenly diminished. Ap- 
-parently, I am to understand that you refuse! 
+MADAME DE KATKOFF: Your wish to please me has suddenly diminished. Apparently, I am to understand that you refuse! 
 
-WINTERBOURNE. Even when you are kind, there’s something cruel in it! 
-— I will dine with you with pleasure. 
+WINTERBOURNE: Even when you are kind, there’s something cruel in it! — I will dine with you with pleasure. 
 
-MADAME DE KATKOFF. 
-Send word, then, to your little American. 
+MADAME DE KATKOFF: Send word, then, to your little American. 
 
-WINTERBOURNE. Yes, I will send word. (Aside.) That’s uncommonly 
-rough! (Aloud.) After dinner, I suppose, you will go to 
-the opera. 
+WINTERBOURNE: Yes, I will send word. <i>(Aside.)</i> That’s uncommonly rough! <i>(Aloud.)</i> After dinner, I suppose, you will go to the opera. 
 
-MADAME DE KATKOFF. I don’t know about the opera. (Looking at him a moment.) It 
-will be a splendid night. How should you like a moonlight 
-drive? 
+MADAME DE KATKOFF: I don’t know about the opera. <i>(Looking at him a moment.)</i> It 
+will be a splendid night. How should you like a moonlight drive? 
 
-WINTERBOURNE. A moonlight drive — with you? It seems to me you 
-mock me! 
+WINTERBOURNE: A moonlight drive — with you? It seems to me you mock me! 
  
-MADAME DE KATKOFF, in the same tone. To wander through the old streets, when everything is 
+MADAME DE KATKOFF, <i>in the same tone:</i> To wander through the old streets, when everything is 
 still; to see the solemn monuments wrapped up in their 
 shadows; to watch the great fountains turn to silver in the 
 moonshine — that has always been a dream of mine! We 
-will try it to-night. 
-WINTERBOURNE, affected by her tone. 
-We will see the great square of St. Peter’s; we will dip 
-our hands in the Fountain of Trevi! You must be strangely 
-beautiful in the moonlight. 
+will try it to-night.
 
-MADAME DE KATKOFF. 
-I don’t know. You shall see. 
+WINTERBOURNE, <i>affected by her tone:</i> We will see the great square of St. Peter’s; we will dip 
+our hands in the Fountain of Trevi! You must be strangely beautiful in the moonlight. 
 
-WINTERBOURNE. What will you do with the Russian ambassador? 
+MADAME DE KATKOFF: I don’t know. You shall see. 
 
-MADAME DE KATKOFF. 
-Send him about his business. 
+WINTERBOURNE: What will you do with the Russian ambassador? 
 
-WINTERBOURNE. 
-An ambassador! For me? 
+MADAME DE KATKOFF: Send him about his business. 
 
-MADAME DE KATKOFF. Don’t force me to say it; I shall make you too vain. 
+WINTERBOURNE: An ambassador! For me? 
 
-WINTERBOURNE. I am not used to being treated so, and I can’t help feeling 
+MADAME DE KATKOFF: Don’t force me to say it; I shall make you too vain. 
+
+WINTERBOURNE: I am not used to being treated so, and I can’t help feeling 
 that it may be only a refinement of cruelty. 
 
-MADAME DE KATKOFF. If I have been cruel before, it was in self-defence. I have 
+MADAME DE KATKOFF: If I have been cruel before, it was in self-defence. I have 
 been sorely troubled, and I don’t pretend to be consistent. 
 Women are never so — especially women who love!
 
-WINTERBOURNE. I ask no questions; I only thank you. 
+WINTERBOURNE: I ask no questions; I only thank you. 
 
-MADAME DE KATKOFF.  
-At seven o’clock, then. 
+MADAME DE KATKOFF: At seven o’clock, then. 
 
-WINTERBOURNE. You are very strange; but you are only the more ador- 
-able. At seven o’clock! 
+WINTERBOURNE: You are very strange; but you are only the more adorable. At seven o’clock! 
 
-MADAME DE KATKOFF. 
-You are not to come with me; my carriage is there. 
-(Aside, as she leaves him.) Ingenuous young man! 
+MADAME DE KATKOFF: You are not to come with me; my carriage is there. 
+<i>(Aside, as she leaves him.)</i> Ingenuous young man! 
 
-WINTERBOURNE, alone, standing a moment in thought. “Women are never consistent - especially women who 
+WINTERBOURNE, <i>alone, standing a moment in thought:</i> “Women are never consistent - especially women who 
 love!” I have waited three years, but it was worth waiting 
-for! (Mrs. Walker comes in with Daisy, without his seeing them.) 
+for! <i>(Mrs. Walker comes in with Daisy, without his seeing them.)</i> 
 
 SCENE ELEVENTH. 
 WINTERBOURNE, MRS. WALKER, DAISY, THEN EUGENIO 
