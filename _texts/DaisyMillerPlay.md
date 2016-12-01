@@ -3144,50 +3144,41 @@ shall not be long, for by the mercy of Heaven the child is guided to this spot!
 REVERDY: If you think you have only to pick her up, we won’t wait 
 for you! <i>(He goes out with Mrs. Costello and Miss Durant.)</i> 
 
-SCENE EIGHTH. 
-MRS. WALKER, WINTERBOURNE, DAISY, GIOVANELLI. 
+<p align="center">SCENE EIGHTH. Mrs. Walker, Winterbourne, Daisy, Giovanelli.</p>
 
-WINTERBOURNE, as the two others slowly come in together, not at first see- 
-ing him. 
+WINTERBOURNE, <i>as the two others slowly come in together, not at first seeing him:</i>We shall have a siege: she won’t give him up for the asking.
 
-We shall have a siege: she won’t give him up for the 
-asking. 
-MRS. WALKER.
-We must divide our forces, then. You will deal with 
-Daisy. 
+MRS. WALKER: We must divide our forces, then. You will deal with Daisy. 
 
-WINTERBOURNE. 
-I would rather attack the gentleman. 
+WINTERBOURNE: I would rather attack the gentleman. 
 
-MRS. WALKER. No, no; there’ll be trouble. Mr. Giovanelli, I should 
-like a little conversation with you. 
-GIOVANELLI, starting, and coming forward; very polite. 
-You do me great honor, Madame! 
+MRS. WALKER: No, no; there’ll be trouble. Mr. Giovanelli, I should 
+like a little conversation with you.
+
+GIOVANELLI, <i>starting, and coming forward; very polite:</i> You do me great honor, Madame! 
   
-MRS. WALKER. I wish to scold you for not coming to me to-day; but to 
-spare your blushes, it must be in private. (Strolls away with him, 
-out of sight.) 
+MRS. WALKER: I wish to scold you for not coming to me to-day; but to 
+spare your blushes, it must be in private. <i>(Strolls away with him, 
+out of sight.)</i> 
 
-DAISY, aside. They have come to take me away. Ah, they are very 
-cruel!
+DAISY, <i>aside:</i> They have come to take me away. Ah, they are very cruel!
 
-WINTERBOURNE. I had no chance to speak to you at Mrs. Walker’s, and 
+WINTERBOURNE: I had no chance to speak to you at Mrs. Walker’s, and 
 I have come to make up for my loss. 
 
-DAISY, looking at him a moment. 
-What is Mrs. Walker doing here! Why doesn’t she 
+DAISY, <i>looking at him a moment:</i> What is Mrs. Walker doing here! Why doesn’t she 
 stay with her guests? 
 
-WINTERBOURNE. I brought her away — to do just what she has done. 
+WINTERBOURNE: I brought her away — to do just what she has done. 
 
-DAISY. To take away Mr. Giovanelli? I don’t understand you. 
+DAISY: To take away Mr. Giovanelli? I don’t understand you. 
 
-WINTERBOURNE. A great many people think that you understand, but that 
+WINTERBOURNE: A great many people think that you understand, but that 
 you don’t care. 
 
-DAISY. I don’t care what people think. I have done no harm. 
+DAISY: I don’t care what people think. I have done no harm. 
 
-WINTERBOURNE. That’s exactly what I say - you don’t care. But I wish 
+WINTERBOURNE: That’s exactly what I say - you don’t care. But I wish 
 you would care a little, for your friends are very much 
 frightened. When Mrs. Walker ascertained that you had 
 left her house alone, and had come to meet a gentleman 
@@ -3197,38 +3188,33 @@ calumniated — when Mrs. Walker made this discovery, she
 said but three words — “To the rescue!” But she took 
 her plunge, as if you had been drowning. 
 
-DAISY. 
-And you jumped overboard, too! 
+DAISY: And you jumped overboard, too! 
 
-WINTERBOURNE. Oh dear, no; I’m standing on the brink. I only inter- 
-pret her sentiments. I don’t express my own. 
+WINTERBOURNE: Oh dear, no; I’m standing on the brink. I only interpret her sentiments. I don’t express my own. 
 
-DAISY. They would interest me more than Mrs. Walker’s; but I 
+DAISY: They would interest me more than Mrs. Walker’s; but I 
 don’t see what either of you have to do with me. 
 
-WINTERBOURNE. 
-We admire you very much, and we hate to see: you mis- 
-judged. 
+WINTERBOURNE: We admire you very much, and we hate to see: you misjudged. 
 
-DAISY. I don’t know what you mean, and I don’t know what you 
+DAISY: I don’t know what you mean, and I don’t know what you 
 think I want to do. 
 
-WINTERBOURNE. I haven’t the least idea about that. All I mean is that 
+WINTERBOURNE: I haven’t the least idea about that. All I mean is that 
 if you could see, as I see it, how little it’s the custom here 
 to do what you do, and how badly it looks to fly in the face 
 of the custom, you would be a little more on your guard. 
 
-DAISY. I know nothing about the custom. I’m an American; 
+DAISY: I know nothing about the custom. I’m an American; 
 I’m not one of these people. 
 
-WINTERBOURNE. In that case, you would behave differently. Your being 
+WINTERBOURNE: In that case, you would behave differently. Your being 
 an American is just the point. You are a very conspicuous 
 American, thanks to your attractions, to your charms, to the 
 publicity of your life. Such people, with the best intentions 
 in the world, are often very indiscreet; and it’s to save the 
 reputation of her compatriots that the fairest and brightest 
-of American girls should sacrifice a little of her independ- 
-ence. 
+of American girls should sacrifice a little of her independence. 
  
 DAISY. Look here, Mr. Winterbourne, you make too much fuss: 
 that’s what’s the matter with you! 
