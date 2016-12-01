@@ -3216,37 +3216,35 @@ in the world, are often very indiscreet; and it’s to save the
 reputation of her compatriots that the fairest and brightest 
 of American girls should sacrifice a little of her independence. 
  
-DAISY. Look here, Mr. Winterbourne, you make too much fuss: 
+DAISY: Look here, Mr. Winterbourne, you make too much fuss: 
 that’s what’s the matter with you! 
 
-WINTERBOURNE. If I make enough to persuade you to go home with Mrs. 
+WINTERBOURNE: If I make enough to persuade you to go home with Mrs. 
 Walker, my highest ambition will be gratified. 
 
-DAISY. I think you are trying to mystify me: I can tell that by 
+DAISY: I think you are trying to mystify me: I can tell that by 
 your language. One would never think you were the same 
 person who went with me to that castle. 
 
-WINTERBOURNE. I am not quite the same, but I have a good deal in com- 
-mon with him. Now, Mr. Giovanelli doesn’t resemble that 
+WINTERBOURNE: I am not quite the same, but I have a good deal in common with him. Now, Mr. Giovanelli doesn’t resemble that 
 person at all.
 
-DAISY, coldly. I don’t know why you speak to me about Mr. Giovanelli.
+DAISY, <i>coldly:</i> I don’t know why you speak to me about Mr. Giovanelli.
 
-WINTERBOURNE. Because — because Mrs. Walker asked me to. 
+WINTERBOURNE: Because — because Mrs. Walker asked me to. 
 
-DAISY. It would be better if she should do it herself. 
+DAISY: It would be better if she should do it herself. 
 
-WINTERBOURNE. That’s exactly what I told her; but she had an odd fancy 
+WINTERBOURNE: That’s exactly what I told her; but she had an odd fancy 
 that I have a kind of influence with you. 
 
-DAISY, with expression. 
-Poor Mrs. Walker!
+DAISY, <i>with expression:</i> Poor Mrs. Walker!
 
-WINTERBOURNE. Poor Mrs. Walker! She doesn’t know that no one has 
+WINTERBOURNE: Poor Mrs. Walker! She doesn’t know that no one has 
 any influence with you — that you do nothing in the world 
-but what pleases yourself. 
-DAISY. 
-Whom, then, am I to please? The people that think 
+but what pleases yourself.
+
+DAISY: Whom, then, am I to please? The people that think 
 such dreadful things of me? I don’t even understand what 
 they think! What do you mean, about my reputation? I 
 haven’t got any reputation! If people are so cruel and 
@@ -3258,158 +3256,136 @@ others may say what they like. I can’t understand Italian,
 and I should never hear of it if you didn’t come and 
 translate. 
 
-WINTERBOURNE. It’s not only the Italians — it’s the Americans. 
+WINTERBOURNE: It’s not only the Italians — it’s the Americans. 
 
-DAISY. Do you mean your aunt and your cousin? I don’t know 
+DAISY: Do you mean your aunt and your cousin? I don’t know 
 why I should make myself miserable for them!
 
-WINTERBOURNE. 
-I mean every one who has ever had the very questionable 
-advantage of making your acquaintance — only to be sub- 
-jected to the torment of being unable either to believe in you 
+WINTERBOURNE: I mean every one who has ever had the very questionable 
+advantage of making your acquaintance — only to be subjected to the torment of being unable either to believe in you 
 or to doubt of you. 
 
-DAISY. To doubt of me? You are very strange! 
+DAISY: To doubt of me? You are very strange! 
 
-WINTERBOUBNE. You are stranger still. But I didn’t come here to reason 
+WINTERBOUBNE: You are stranger still. But I didn’t come here to reason 
 with you: that would be vain, for we speak a different 
 language, and we shouldn’t understand each other. I only 
 came to say to you, in the most respectful manner, that if 
 you should consult your best interests you would go home 
 with Mrs. Walker. 
 
-DAISY. Do you think I had such a lovely time there, half an hour 
+DAISY: Do you think I had such a lovely time there, half an hour 
 ago, when you didn’t so much as look at me? 
  
-WINTERBOURNE. If I had spoken to you, would you have stayed? 
+WINTERBOURNE: If I had spoken to you, would you have stayed? 
 
-DAISY. After I had an engagement here? (With a little laugh.) I 
+DAISY: After I had an engagement here? <i>(With a little laugh.)</i> I 
 must say, you expect a great deal! 
 
-WINTERBOURNE, looking at her a moment. 
-What they say is true — you are a thorough-going 
+WINTERBOURNE, <i>looking at her a moment:</i> What they say is true — you are a thorough-going 
 coquette! 
 
-(Mrs. Walker reappears, with Giovanelli.) 
+<i>(Mrs. Walker reappears, with Giovanelli.)</i> 
 
-DAISY. 
-You speak too much of what they say. To escape from 
-you, I’ll go anywhere! 
+DAISY: You speak too much of what they say. To escape from you, I’ll go anywhere! 
 
-MRS. WALKER, to Winterbourne, while Giovanelli speaks to Daisy. He’s very accommodating, when you tell him that if Mrs. 
-Miller gets frightened she will start off for America. 
+MRS. WALKER, <i>to Winterbourne, while Giovanelli speaks to Daisy:</i> He’s very accommodating, when you tell him that if Mrs. Miller gets frightened she will start off for America. 
 
-WINTERBOURNE. It’s more than I can say of Miss Daisy! 
+WINTERBOURNE: It’s more than I can say of Miss Daisy! 
 
-MRS. WALKER. 
-Have you had no success? 
+MRS. WALKER: Have you had no success? 
 
-WINTERBOURNE. 
-I have had my ears boxed!
+WINTERBOURNE: I have had my ears boxed!
 
-MRS. WALKER, to Daisy. My precious child, you escaped from my drawing-room 
+MRS. WALKER, <i>to Daisy:</i> My precious child, you escaped from my drawing-room 
 before I had half the talk we wanted. 
 
-DAISY. Are they all waiting there to see me brought back? 
+DAISY: Are they all waiting there to see me brought back? 
 
-MRS. WALKER. Oh dear, no; they have plenty to think about — with Mrs. 
-Costello and Miss Durant. 
+MRS. WALKER: Oh dear, no; they have plenty to think about — with Mrs. Costello and Miss Durant. 
 
-DAISY. Ah, those ladies are there? Then I certainly shan’t go 
-back. 
+DAISY: Ah, those ladies are there? Then I certainly shan’t go back. 
 
-MRS. WALKER, alarmed. Hush! They’re relations of Mr. Winterbourne. 
+MRS. WALKER, <i>alarmed:</i> Hush! They’re relations of Mr. Winterbourne. 
 
-DAISY. All the more reason for my hating them! 
+DAISY: All the more reason for my hating them! 
 
-MRS. WALKER, to Winterbourne. You must excuse her; she is very wicked to-day! (To 
-Daisy.) If you won’t go home, then I’ll stay with you here. 
+MRS. WALKER, <i>to Winterbourne:</i> You must excuse her; she is very wicked to-day! <i>(To 
+Daisy.)</i> If you won’t go home, then I’ll stay with you here. 
 Mr. Giovanelli, you promised me you would go to my house. 
 
-GIOVANELLI. I am at the orders of Mademoiselle. 
+GIOVANELLI: I am at the orders of Mademoiselle. 
 
-DAISY. You may do what you please till dinner-time. 
+DAISY: You may do what you please till dinner-time. 
 
-WINTERBOURNE, aside. Gracious heavens! is she going to dine with him? (Aloud, 
-to Daisy.) We were interrupted, but I have a great deal more 
-to say. 
+WINTERBOURNE, <i>aside:</i> Gracious heavens! is she going to dine with him? <i>(Aloud, 
+to Daisy.)</i> We were interrupted, but I have a great deal more to say. 
 
-DAISY. More of the same sort? It will be a pleasure to hear 
-that! 
+DAISY: More of the same sort? It will be a pleasure to hear that! 
 
-WINTERBOURNE. What’s coming is a great deal better. - Do you dine at 
+WINTERBOURNE: What’s coming is a great deal better. - Do you dine at 
 your table d’hote? 
 
-DAISY. Oh, yes. Randolph likes the table d’hote. 
+DAISY: Oh, yes. Randolph likes the table d’hote. 
 
-WINTERBOURNE. I will ask for a place there this evening, and, with your 
+WINTERBOURNE: I will ask for a place there this evening, and, with your 
 permission, it shall be next to yours. 
 
-DAISY. I am very sorry, but I am not sure of this evening. 
+DAISY: I am very sorry, but I am not sure of this evening. 
 
-WINTERBOURNE, gravely. That’s a great disappointment to me. (A short silence.) 
+WINTERBOURNE, <i>gravely:</i> That’s a great disappointment to me. <i>(A short silence.)</i> 
   
-MRS. WALKER, to Giovanelli. You promised me you would go to my house! 
+  MRS. WALKER, <i>to Giovanelli:</i> You promised me you would go to my house! 
  
-GIOVANELLI. As a man of honor, then, I must go. But I assure you, 
-Mademoiselle (to Daisy,) that I soon return. 
+GIOVANELLI: As a man of honor, then, I must go. But I assure you, 
+Mademoiselle <i>(to Daisy,)</i> that I soon return. 
 
-DAISY. As soon as you like! (Giovanelli walks away. To Winterbourne.) 
+DAISY: As soon as you like! <i>(Giovanelli walks away. To Winterbourne.)</i> 
 Can’t you come some other night? 
 
-WINTERBOURNE. Oh, yes, by waiting a little. But with the uncertainty of 
+WINTERBOURNE: Oh, yes, by waiting a little. But with the uncertainty of 
 your stay in Rome, this would be always something gained. 
 
-DAISY. 
-What will you do after dinner? 
+DAISY: What will you do after dinner? 
 
-WINTERBOURNE. With your kind permission, I will adjourn with you to 
+WINTERBOURNE: With your kind permission, I will adjourn with you to 
 your mother’s sitting-room. 
 
-DAISY. 
-You are very devoted, all of a sudden! 
+DAISY: You are very devoted, all of a sudden! 
 
-WINTERBOURNE. 
-Better late than never! 
-DAISY. 
-You are just as you were at that castle! 
+WINTERBOURNE: Better late than never!
 
-WINTERBOURNE. So are you — at this moment. We can dream we are in
-that happy place!  
+DAISY: You are just as you were at that castle! 
 
-DAISY, aside. He can do with me what he will. (Aloud, quickly.) I’ll tell 
+WINTERBOURNE: So are you — at this moment. We can dream we are in that happy place!  
+
+DAISY, <i>aside:</i> He can do with me what he will. <i>(Aloud, quickly.)</i> I’ll tell 
 them to keep you a seat! 
 
-WINTERBOURNE. 
-I shall be indebted to you forever! 
+WINTERBOURNE: I shall be indebted to you forever! 
  
-DAISY. Oh, if I don’t see about it, they’ll put you at the other 
-end. 
+DAISY: Oh, if I don’t see about it, they’ll put you at the other end. 
 
-WINTERBOURNE. 
-Next you — that’s the point. 
+WINTERBOURNE: Next you — that’s the point. 
 
-DAISY. Between me and Randolph! At half past six! 
+DAISY: Between me and Randolph! At half past six! 
 
-WINTERBOURNE. 
-At half past six. 
-MRS. WALKER, to Winterbourne. 
-You can go about your business. I have something to 
+WINTERBOURNE: At half past six.
+
+MRS. WALKER, <i>to Winterbourne:</i> You can go about your business. I have something to 
 say to her alone. 
 
-DAISY. 
-Don’t forget half past six! 
+DAISY: Don’t forget half past six! 
 
-WINTERBOURNE. Never in the world. At half past six! (Walks away.) 
+WINTERBOURNE: Never in the world. At half past six! <i>(Walks away.)</i> 
 
-MRS. WALKER, alone with Daisy. And now may I be permitted to inquire whether you had 
+MRS. WALKER, <i>alone with Daisy:</i> And now may I be permitted to inquire whether you had 
 arranged to dine with that Italian? 
 
-DAISY, smiling. In the heart of ancient Rome! But don’t tell Mr. Win- 
-terbourne what I gave up! 
+DAISY, <i>smiling:</i> In the heart of ancient Rome! But don’t tell Mr. Winterbourne what I gave up! 
 
-MRS. WALKER, aside. I’ll get you out of Rome to-morrow! (Aloud.) I must 
-show you to the crowd — with me. (Goes out leading Daisy.) 
+MRS. WALKER, <i>aside:</i> I’ll get you out of Rome to-morrow! <i>(Aloud.)</i> I must 
+show you to the crowd — with me. <i>(Goes out leading Daisy.)</i> 
 
 SCENE NINTH. 
 REVERDY, RANDOLPH. 
