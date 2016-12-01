@@ -2741,10 +2741,9 @@ the sake of one’s comfort!... He said he would come
 back — from the wife of the consul. <i>(Looking about her, she goes 
 out.)</i> 
 
-SCENE FIFTH. 
-DAISY, THEN GIOVANELLI. 
+<p align="center">SCENE FIFTH. Daisy, then Giovanelli.</p> 
 
-DAISY, coming in with a certain haste, and glancing behind her. 
+DAISY, <i>coming in with a certain haste, and glancing behind her:</i>
 It’s a pity you can’t walk in Rome without every one 
 staring so! And now he’s not here - he’s not where he 
 said he would be. I don’t care. He’s very nice, but I 
@@ -2759,8 +2758,7 @@ other girls. He’s always talking to other girls, and not
 even to girls — to old women, and gentlemen, and foreigners. 
 I’ve done something he doesn’t like, I’m very sure of that. 
 He doesn’t like anything — anything that I do. It’s hard 
-to know what he does like! He’s got such peculiar tastes 
-— from his foreign education; you can’t ever tell where 
+to know what he does like! He’s got such peculiar tastes — from his foreign education; you can’t ever tell where 
 you’ll find him. Well, I haven’t had a foreign education, 
 and I don’t see that I’m any the worse for that. If I’d had 
 a foreign education, I might as well give up! I shouldn’t be 
@@ -2770,8 +2768,7 @@ and I don’t see why I should learn the others when there
 are people who do like — who do like — what I do. They 
 say they do, at any rate, and they say it so prettily! The 
 English say it very nicely, but the Italians say it best. As 
-for the Americans, they don’t say it at all, and Mr. Winter- 
-bourne less than any of them! Well, I don’t care so much 
+for the Americans, they don’t say it at all, and Mr. Winterbourne less than any of them! Well, I don’t care so much 
 about the Americans: I can make it all right with the 
 Americans when I get home. Mr. Winterbourne isn’t an 
 American; I never saw any one like him over there. If I 
@@ -2779,133 +2776,112 @@ had, perhaps I shouldn’t have come away; for over there
 it would all be different. Well, it isn’t different here, and 
 I suppose it never will be. Everything is strange over here; 
 and what is strangest of all is one’s liking people that are 
-so peculiar. (Stands thoughtful a moment, then rouses herself.) There’s
+so peculiar. <i>(Stands thoughtful a moment, then rouses herself.)</i> There’s
 Mr. Giovanelli — a mile off. Does he suppose I wish to 
-communicate with him by signs? (Giovanelli comes in, hat in hand, 
-with much eagerness.) 
+communicate with him by signs? <i>(Giovanelli comes in, hat in hand, 
+with much eagerness.)</i> 
 
-GIOVANELLI. 
-I have looked for you everywhere! 
+GIOVANELLI: I have looked for you everywhere! 
 
-DAISY. 
-Well, I wasn’t everywhere; I was here. 
+DAISY: Well, I wasn’t everywhere; I was here. 
 
-GIOVANELLI. 
-Standing all alone, without a protector! 
+GIOVANELLI: Standing all alone, without a protector! 
 
-DAISY. I wasn’t more alone than I was at Mrs. Walker’s. 
+DAISY: I wasn’t more alone than I was at Mrs. Walker’s. 
 
-GIOVANELLI, smiling, slightly fatuous. 
-Because I was not there? 
+GIOVANELLI, <i>smiling, slightly fatuous:</i> Because I was not there? 
 
-DAISY. Oh, it wasn’t the people who were not there  (Aside.) If 
-they had known I was coming, I suppose there wouldn’t 
-have been any one! 
+DAISY: Oh, it wasn’t the people who were not there. <i>(Aside.)</i> If 
+they had known I was coming, I suppose there wouldn’t have been any one! 
 
-GIOVANELLI, in an attitude of the most respectful admiration. How can I sufficiently thank you for granting me this 
+GIOVANELLI, <i>in an attitude of the most respectful admiration:</i> How can I sufficiently thank you for granting me this 
 supreme satisfaction?
 
-DAISY. That’s a very fine name to give to a walk on the Pincian. 
-You had better put on your hat.
+DAISY: That’s a very fine name to give to a walk on the Pincian. You had better put on your hat.
 
-GIOVANELLI. You wish to escape notice? Perhaps you are right. 
+GIOVANELLI: You wish to escape notice? Perhaps you are right. 
 That was why I didn’t come to Mrs. Walker’s, whose parties 
-are so charming! I thought that if we slipped away to- 
-gether it might attract attention. 
+are so charming! I thought that if we slipped away together it might attract attention. 
 
-DAISY. Do you mean they would have thought it improper? They 
+DAISY: Do you mean they would have thought it improper? They 
 would have thought it still more improper to see me leaving 
 alone; so I didn’t say a word to any one — only mother. 
 
-GIOVANELLI. Ah, you told your admirable parent? She is with us,
-then, in spirit!
+GIOVANELLI: Ah, you told your admirable parent? She is with us, then, in spirit!
 
-DAISY. She wanted to get away herself, if that’s what you mean;  
+DAISY: She wanted to get away herself, if that’s what you mean;  
 but she didn’t feel as if she could leave till Eugenio came 
 for her. And Eugenio seems to have so much to do to-day. 
 
-GIOVANELLI. It is doubtless in your interest. He is a very faithful 
-servant. 
+GIOVANELLI: It is doubtless in your interest. He is a very faithful servant. 
 
-DAISY. Well, he told mother she must stay there an hour: he had 
-some business of importance. 
+DAISY: Well, he told mother she must stay there an hour: he had some business of importance. 
 
-GIOVANELLI. Let us hope that his business is done, and that the patient 
-Mrs. Miller is released.
+GIOVANELLI: Let us hope that his business is done, and that the patient Mrs. Miller is released.
 
-DAISY. She was patient enough when I told her I shouldn’t come 
-to dinner. 
-GIOVANELLI, starting, with an air of renewed devotion. 
-Am I to understand that you have consented to my little 
+DAISY: She was patient enough when I told her I shouldn’t come 
+to dinner.
+
+GIOVANELLI, <i>starting, with an air of renewed devotion:</i> Am I to understand that you have consented to my little 
 fantasy? 
 
-DAISY. Of dining at that old tavern, where the artists go? 
+DAISY: Of dining at that old tavern, where the artists go? 
 
-GIOVANELLI. The renowned and delightful Falcone, in the heart of 
-ancient Rome! You are a person of delicious surprises! 
-The other day, you wouldn’t listen to it. 
+GIOVANELLI: The renowned and delightful Falcone, in the heart of 
+ancient Rome! You are a person of delicious surprises! The other day, you wouldn’t listen to it. 
 
-DAISY. I don’t remember the other day: all I know is, I’ll go 
-now. (Aside.) The other day Mr. Winterbourne spoke to me! 
+DAISY: I don’t remember the other day: all I know is, I’ll go 
+now. <i>(Aside.)</i> The other day Mr. Winterbourne spoke to me! 
 
-GIOVANELLI. My dear young lady, you make me very happy! 
+GIOVANELLI: My dear young lady, you make me very happy! 
 
-DAISY. By going to eat macaroni with you?
+DAISY: By going to eat macaroni with you?
 
-GIOVANELLI. It isn’t the macaroni; it’s the sentiment! 
+GIOVANELLI: It isn’t the macaroni; it’s the sentiment! 
 
-DAISY. The sentiment is yours, not mine. I haven’t any: it’s 
-all gone! 
+DAISY: The sentiment is yours, not mine. I haven’t any: it’s all gone! 
 
-GIOVANELLI. . Well, I shan’t complain if I find myself at table with you 
+GIOVANELLI: Well, I shan’t complain if I find myself at table with you 
 in a dusky corner of that picturesque little cook-shop, where 
 the ceiling is black, and the walls are brown, and the floor 
-is red! 
-DAISY, watching him as he describes it.
-Oh dear! it must be very lovely.  
+is red!
 
-GIOVANELLI. And the old wine-flasks, covered with plaited straw, are 
+DAISY, <i>watching him as he describes it:</i> Oh dear! it must be very lovely.  
+
+GIOVANELLI: And the old wine-flasks, covered with plaited straw, are 
 as big round - are much bigger round — than your waist! 
 
-DAISY. That’s just what I want to see. Let’s go there at once! 
+DAISY: That’s just what I want to see. Let’s go there at once! 
 
-GIOVANELLI, consulting his watch. 
-Half-past four. Isn’t that rather soon to dine? 
+GIOVANELLI, <i>consulting his watch:</i> Half-past four. Isn’t that rather soon to dine? 
 
-DAISY. We can go on foot through the old streets. I’m dying to 
-see them on foot. 
+DAISY: We can go on foot through the old streets. I’m dying to see them on foot. 
 
-GIOVANELLI, aside. 
-That will be cheaper than a cab! (Aloud.) We should 
-get there at five — a little early still. Mightn’t we first 
-take a few turns round this place? 
+GIOVANELLI, <i>aside:</i> That will be cheaper than a cab! <i>(Aloud.)</i> We should 
+get there at five — a little early still. Mightn’t we first take a few turns round this place? 
 
-DAISY, after a pause. 
-Oh, yes, if you like. 
+DAISY, <i>after a pause:</i> Oh, yes, if you like. 
 
-GIOVANELLI, aside. I should like my creditors to see! (Aloud.) Perhaps it 
+GIOVANELLI, <i>aside:</i> I should like my creditors to see! <i>(Aloud.)</i> Perhaps it 
 doesn’t suit you: you are a little afraid. 
 
-DAISY. 
-What should I be afraid of? 
+DAISY: What should I be afraid of? 
 
-GIOVANELLI, smiling. 
-Not of meeting your mother, I know! 
+GIOVANELLI, <i>smiling:</i> Not of meeting your mother, I know! 
 
-DAISY. If I had been afraid, I shouldn’t have come. 
+DAISY: If I had been afraid, I shouldn’t have come. 
 
-GIOVANELLI. That is perfect. But let me say one thing: you have a 
+GIOVANELLI: That is perfect. But let me say one thing: you have a 
 way of taking the meaning from the favors you bestow. 
 
-DAISY. The meaning? They haven’t got any meaning! 
+DAISY: The meaning? They haven’t got any meaning! 
 
-GIOVANELLI, vaguely. Ah! (Mrs. Costello, Miss Durant, and Charles Reverdy appear.) 
+GIOVANELLI, <i>vaguely:</i> Ah! <i>(Mrs. Costello, Miss Durant, and Charles Reverdy appear.)</i> 
 
-DAISY, looking at Mrs. Costello and Miss Durant. Unless it be to make those dreadful women glower! 
+DAISY, <i>looking at Mrs. Costello and Miss Durant:</i> Unless it be to make those dreadful women glower! 
 How d’ye do, Mr. Reverdy? 
 
-GIOVANELLI, smiling. 
-I see you are not afraid! (He goes out with her.) 
+GIOVANELLI, <i>smiling:</i> I see you are not afraid! <i>(He goes out with her.)</i> 
 
 SCENE SIXTH. 
 MRS. COSTELLO, MISS DURANT, CHARLES REVERDY. 
