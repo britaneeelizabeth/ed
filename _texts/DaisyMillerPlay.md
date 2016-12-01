@@ -2606,169 +2606,140 @@ GIOVANELLI, <i>pocketing the paper:</i> Well, give me a chance to console — gi
 console! <i>(Goes off at the back, while, at the same moment, Madame de 
 Katkoff reappears.)</i> 
 
-SCENE FOURTH. 
-EUGENIO, MADAME DE KATKOFF. 
+<p align="center">SCENE FOURTH. Eugenio, Madame de Katkoff.</p> 
 
-EUGENIO, perceiving her, aside. The Katkoff — up to time! If my second little paper 
-works as well as my first, I have nothing to fear. (Aloud.) 
-I am quite at the service of Madame. 
+EUGENIO, <i>perceiving her, aside:</i> The Katkoff — up to time! If my second little paper 
+works as well as my first, I have nothing to fear. <i>(Aloud.)</i> I am quite at the service of Madame. 
 
-MADAME DE KATKOFF. My carriage has not come back; it was to pick up a friend 
-at St. Peter’s. 
+MADAME DE KATKOFF: My carriage has not come back; it was to pick up a friend at St. Peter’s. 
 
-EUGENIO. I am greatly indebted to Madame’s friends. I have my 
-little proposition ready. 
-MADAME DE KATKOFF. 
-Be so good as to let me hear it. 
+EUGENIO: I am greatly indebted to Madame’s friends. I have my little proposition ready.
 
-EUGENIO. In three words it is this: Do me the favor to captivate 
-Mr. Winterbourne! Madame starts a little. She will pre- 
-tend, perhaps, that Mr. Winterbourne is already captivated. 
+MADAME DE KATKOFF: Be so good as to let me hear it. 
 
-MADAME DE KATKOFF. You have an odd idea of my pretensions! I would 
+EUGENIO: In three words it is this: Do me the favor to captivate 
+Mr. Winterbourne! Madame starts a little. She will pretend, perhaps, that Mr. Winterbourne is already captivated. 
+
+MADAME DE KATKOFF: You have an odd idea of my pretensions! I would 
 rather pay you a sum of money than listen to this sort of 
 thing. 
 
-EUGENIO. I was afraid you would he a little shocked — at first. 
+EUGENIO: I was afraid you would he a little shocked — at first. 
 But the proposal I make has the greatest recommendations. 
 
-MADAME DE KATKOFF. 
-For Mr. Winterbourne, certainly! 
+MADAME DE KATKOFF: For Mr. Winterbourne, certainly! 
 
-EUGENIO. For Mr. Winterbourne, very plainly; but also for 
+EUGENIO: For Mr. Winterbourne, very plainly; but also for 
 Madame, if she would only reflect upon the facility - 
 
-MADAME DE KATKOFF. What do you know about facility? Your proposal is 
-odious! 
+MADAME DE KATKOFF: What do you know about facility? Your proposal is odious! 
 
-EUGENIO. The worst is already done. Mr. Winterbourne is deeply 
-interested in Madame.  
+EUGENIO: The worst is already done. Mr. Winterbourne is deeply interested in Madame.  
 
-MADAME DE KATKOFF. His name has no place in our discussion. Be so good as 
-not to mention it again. 
-EUGENIO. 
-It will be easy not to mention it: Madame will understand 
+MADAME DE KATKOFF: His name has no place in our discussion. Be so good as 
+not to mention it again.
+
+EUGENIO: It will be easy not to mention it: Madame will understand 
 without that. She will remember, perhaps, that when I had 
 the honor of meeting her last summer, I was in the service 
 of a distinguished family. 
 
-MADAME DE KATKOFF. The amiable Mrs. Miller? That name has stuck in my 
-mind! 
+MADAME DE KATKOFF: The amiable Mrs. Miller? That name has stuck in my mind! 
 
-EUGENIO. 
-Permit me to regard it as a happy omen! The amiable 
+EUGENIO: Permit me to regard it as a happy omen! The amiable 
 Mrs. Miller, as I then informed Madame, has a daughter as 
 amiable as herself. It is of the greatest importance that this 
 young lady should be detached from the gentleman whose 
 name I am not allowed to mention. 
 
-MADAME DE KATKOFF. 
-Should be detached? 
-EUGENIO. 
-If he is interested in Madame, he is also a little interested 
+MADAME DE KATKOFF: Should be detached?
+
+EUGENIO: If he is interested in Madame, he is also a little interested 
 in the Signorina. You know what men are, Madame! 
 
-MADAME DE KATKOFF. If the Signorina is as amiable as you say, I can imagine 
-no happier circumstance. 
-EUGENIO. 
-From the point of view of Madame, who is a little tired 
+MADAME DE KATKOFF: If the Signorina is as amiable as you say, I can imagine 
+no happier circumstance.
+
+EUGENIO: From the point of view of Madame, who is a little tired 
 of the gentleman; but not from my own, who wish the 
 young lady to make another marriage. 
 
-MADAME DE KATKOFF. Excuse me from entering into your points of view and 
-your marriages! 
+MADAME DE KATKOFF: Excuse me from entering into your points of view and your marriages! 
 
-EUGENIO, abruptly. 
-Ah, if you choose to terminate the discussion, it wasn’t 
-worth while to wait. (A pause.) 
+EUGENIO, <i>abruptly:</i> Ah, if you choose to terminate the discussion, it wasn’t 
+worth while to wait. <i>(A pause.)</i> 
 
-MADAME DE KATKOFF, aside. It was worth while to wait — to learn what a coward I 
-am! (Aloud, after a moment.) Is Miss Miller in love with Mr. 
-Winterbourne?
+MADAME DE KATKOFF, <i>aside:</i> It was worth while to wait — to learn what a coward I 
+am! <i>(Aloud, after a moment.)</i> Is Miss Miller in love with Mr. Winterbourne?
 
-EUGENIO, smiling. I thought Madame would come to the name! (Aside.) It 
-was the idea that fetched her! (Aloud.) Miss Miller is not, 
+EUGENIO, <i>smiling:</i> I thought Madame would come to the name! <i>(Aside.)</i> It 
+was the idea that fetched her! <i>(Aloud.)</i> Miss Miller is not, 
 perhaps, exactly in love with Mr. Winterbourne, but she has 
 a great appreciation of his society. What I ask of you is to 
 undertake that for the next two months she shall have as 
 little of it as possible. 
 
-MADAME DE KATKOFF. By taking as much of it myself? You ask me to play a 
-very pretty part. 
+MADAME DE KATKOFF: By taking as much of it myself? You ask me to play a very pretty part. 
 
-EUGENIO. 
-Madame would play it to perfection!
+EUGENIO: Madame would play it to perfection!
 
-MADAME DE KATKOFF. To break a young girl’s heart — to act an abominable 
-comedy? 
+MADAME DE KATKOFF: To break a young girl’s heart — to act an abominable comedy? 
 
-EUGENIO. You won’t break any one’s heart, unless it be Mr. Winter- 
-bourne’s — which will serve him right for being so tiresome. 
-As for the comedy, remember that the best actresses receive 
-the highest salary. 
+EUGENIO: You won’t break any one’s heart, unless it be Mr. Winterbourne’s — which will serve him right for being so tiresome. 
+As for the comedy, remember that the best actresses receive the highest salary. 
 
-MADAME DE KATKOFF. If I had been a good actress, you never would have got 
-me into your power. What do you propose to do with your 
-little American? 
+MADAME DE KATKOFF: If I had been a good actress, you never would have got me into your power. What do you propose to do with your little American? 
 
-EUGENIO. 
-To marry her to a Roman gentleman. All I ask of you 
+EUGENIO: To marry her to a Roman gentleman. All I ask of you 
 is to use a power you already have. I know that of late it 
 has suited your pleasure not to use it: you have tried to 
 keep Mr. Winterbourne at a distance. But call him a little 
 nearer, and you will see that he will come! 
 
-MADAME DE KATKOFF. So that the girl may see it too? Your ingenuity does you 
+MADAME DE KATKOFF: So that the girl may see it too? Your ingenuity does you 
 great honor. I don’t believe in your Roman gentleman. 
 
-EUGENIO. It is not necessary that you should believe. Believe only 
+EUGENIO: It is not necessary that you should believe. Believe only 
 that on the day the Signorina becomes engaged to the 
 irreproachable person I have selected, I will place in your 
 hands the document which I hold at your disposition. 
  
-MADAME DE KATKOFF. 
-How am I to be sure of that? 
+MADAME DE KATKOFF: How am I to be sure of that? 
 
-EUGENIO, aside. They all want to be sure! (Aloud.) Nothing venture, 
-nothing have! 
+EUGENIO, <i>aside:</i> They all want to be sure! <i>(Aloud.)</i> Nothing venture, nothing have! 
 
-MADAME DE KATKOFF. 
-And if she never becomes engaged? 
+MADAME DE KATKOFF: And if she never becomes engaged? 
 
-EUGENIO. Ah, then, I confess, I must still hold the document. 
-(Aside.) That will make her work for it! (Aloud.) Why 
+EUGENIO: Ah, then, I confess, I must still hold the document. 
+<i>(Aside.)</i> That will make her work for it! <i>(Aloud.)</i> Why 
 should you trouble yourself with irrelevant questions? Your 
 task is perfectly definite. Occupy Mr. Winterbourne, and 
-leave the rest to me. 
-MADAME DE KATKOFF. 
-I must tell you — disagreeable as it may be to me to do 
+leave the rest to me.
+
+MADAME DE KATKOFF: I must tell you — disagreeable as it may be to me to do 
 so — that I shall have to make a very sudden turn. 
 
-EUGENIO. It will be all the more effective. (Complacently.) Sudden 
+EUGENIO: It will be all the more effective. <i>(Complacently.)</i> Sudden 
 turns are the essence of fascination! 
 
-MADAME DE KATKOFF, aside. It’s insufferable to discuss with him! But if there’s a 
-hope — if there’s a hope… (Aloud.) I told Mr. Winter- 
-bourne, not an hour ago, that I wished never to see him 
+MADAME DE KATKOFF, <i>aside:</i> It’s insufferable to discuss with him! But if there’s a 
+hope — if there’s a hope... <i>(Aloud.)</i> I told Mr. Winterbourne, not an hour ago, that I wished never to see him 
 again. 
 
-EUGENIO. I can imagine no more agreeable surprise to him, then, 
-than to be told, half an hour hence, that you can’t live with- 
-out him! You know the things the ladies say! Don’t 
+EUGENIO: I can imagine no more agreeable surprise to him, then, 
+than to be told, half an hour hence, that you can’t live without him! You know the things the ladies say! Don’t 
 be afraid of being sudden: he’ll think it the more romantic. 
-For you those things are easy, Madame (bowing low); for you 
-those things are easy. I leave the matter to your considera- 
-tion. (Aside, as he goes off.) She’ll do it! (Exit.) 
+For you those things are easy, Madame <i>(bowing low)</i>; for you 
+those things are easy. I leave the matter to your consideration. <i>(Aside, as he goes off.)</i> She’ll do it! <i>(Exit.)</i> 
  
-MADAME DE KATKOFF, alone a moment. 
+MADAME DE KATKOFF, <i>alone a moment:</i> 
 Those things are easy — those things are easy? They 
 are easier, perhaps, than paying out half one’s fortune. 
-(Stands a moment thoughtful, then gives a little nervous gesture, as of decision.) 
-If I give him leave to come to the opera, I must go myself 
-- to Italian music! But an hour or two of Donizetti, for 
-the sake of one’s comfort!… He said he would come 
-back — from the wife of the consul. (Looking about her, she goes 
-out.) 
+<i>(Stands a moment thoughtful, then gives a little nervous gesture, as of decision.)</i> 
+If I give him leave to come to the opera, I must go myself - to Italian music! But an hour or two of Donizetti, for 
+the sake of one’s comfort!... He said he would come 
+back — from the wife of the consul. <i>(Looking about her, she goes 
+out.)</i> 
 
 SCENE FIFTH. 
 DAISY, THEN GIOVANELLI. 
