@@ -2203,144 +2203,119 @@ all of them. She once told me that she was very fond of
 gentlemen’s society; but unfortunately they are not all 
 gentlemen. 
 
-MADAME DE KATKOFF.
-So much the better chance for you. 
+MADAME DE KATKOFF: So much the better chance for you. 
 
-WINTERBOURNE. She doesn’t know, she can’t distinguish. She is incredi- 
-bly light. 
+WINTERBOURNE: She doesn’t know, she can’t distinguish. She is incredibly light. 
 
-MADAME DE KATKOFF. 
-It seems to me that you express yourself with a certain 
-bitterness. 
+MADAME DE KATKOFF: It seems to me that you express yourself with a certain bitterness. 
 
-WINTERBOURNE. I am not in the least in love with her, if that’s what you 
+WINTERBOURNE: I am not in the least in love with her, if that’s what you 
 mean. But simply as an outsider, as a spectator, as an 
 American, I can’t bear to see a nice girl — if she is a nice 
-girl — expose herself to the most odious misconception. 
-That is, if she is a nice girl! 
-MADAME DE KATKOFF. 
-By my little system, she ought to be very nice. If she  
+girl — expose herself to the most odious misconception. That is, if she is a nice girl!
+
+MADAME DE KATKOFF: By my little system, she ought to be very nice. If she  
 seems very wild, depend upon it she is very tame. 
 
-WINTERBOURNE. She has produced a fearful amount of scandal. 
+WINTERBOURNE: She has produced a fearful amount of scandal. 
 
-MADAME DE KATKOFF. That proves she has nothing to hide. The wicked ones 
-are not found out!
+MADAME DE KATKOFF: That proves she has nothing to hide. The wicked ones are not found out!
 
-WINTERBOURNE. She has nothing to hide but her mother, whom she con- 
-ceals so effectually that no mortal eye has beheld her. Miss 
-Daisy goes to parties alone! When I say alone, I mean that 
+WINTERBOURNE: She has nothing to hide but her mother, whom she conceals so effectually that no mortal eye has beheld her. Miss Daisy goes to parties alone! When I say alone, I mean that 
 she is usually accompanied by a foreigner with a waxed 
 moustache and a great deal of manner. She is too nice for 
 a foreigner! 
 
-MADAME DE KATKOFF, smiling. 
-As a Russian, I am greatly obliged to you! 
+MADAME DE KATKOFF, <i>smiling:</i> As a Russian, I am greatly obliged to you! 
 
-WINTERBOURNE. This isn’t a Russian. He’s a Roman — the Cavaliere 
-Giovanelli. 
+WINTERBOURNE: This isn’t a Russian. He’s a Roman — the Cavaliere Giovanelli. 
 
-MADAME DE KATKOFF. You spoke of a dozen, and now you have settled down to 
+MADAME DE KATKOFF: You spoke of a dozen, and now you have settled down to 
 one. 
 
-WINTERBOURNE. There were a dozen at first, but she picked them over and 
+WINTERBOURNE: There were a dozen at first, but she picked them over and 
 selected. She has made a mistake, because the man she has 
 chosen is an adventurer. 
 
-MADAME DE KATKOFF. 
-An adventurer? 
+MADAME DE KATKOFF: An adventurer? 
 
-WINTERBOURNE. 
-Oh, a very plausible one. He is very good looking, very 
-polite; he sings little songs at parties. He comes of a re- 
-spectable family, but he has squandered his small patrimony, 
+WINTERBOURNE: Oh, a very plausible one. He is very good looking, very 
+polite; he sings little songs at parties. He comes of a respectable family, but he has squandered his small patrimony, 
 and he has no means of subsistence but his personal charms, 
 which he has been hoping for the last ten years will endear 
 him to some susceptible American heiress — whom he flatters 
 himself he has found at last! 
 
-MADAME DE KATKOFF. You ought to advise her — to put her on her guard. 
+MADAME DE KATKOFF: You ought to advise her — to put her on her guard. 
 
-WINTERBOURNE. Oh, she’s not serious; she is only amusing herself. 
+WINTERBOURNE: Oh, she’s not serious; she is only amusing herself. 
 
-MADAME DE KATKOFF. Try and make her serious. That’s a mission for an honest 
-man! 
-WINTERBOURNE, after a moment.
-It’s so odd to hear you defending her! It only puzzles 
+MADAME DE KATKOFF: Try and make her serious. That’s a mission for an honest man!
+
+WINTERBOURNE, <i>after a moment:</i> It’s so odd to hear you defending her! It only puzzles 
 me the more. 
 
-MADAME DE KATKOFF. You ought to understand your countrywomen better. 
+MADAME DE KATKOFF: You ought to understand your countrywomen better. 
 
-WINTERBOURNE. 
-My countrywomen? 
+WINTERBOURNE: My countrywomen? 
 
-MADAME DE KATKOFF. I don’t mean me: I mean Miss Daisy Miller. 
+MADAME DE KATKOFF: I don’t mean me: I mean Miss Daisy Miller. 
 
-WINTERBOURNE. It seems very stupid, I confess; but I have lived so long in 
+WINTERBOURNE: It seems very stupid, I confess; but I have lived so long in 
 foreign parts, among people of different manners. I mean, 
 however, to settle the question to-day and to make up my 
 mind. I shall meet Miss Daisy at four o’clock. I have 
 promised to go to Mrs. Walker’s. 
 
-MADAME DE KATKOFF. 
-And pray who is Mrs. Walker? 
+MADAME DE KATKOFF: And pray who is Mrs. Walker? 
 
-WINTERBOURNE. The wife of the American consul — a very good-natured 
+WINTERBOURNE: The wife of the American consul — a very good-natured 
 woman, who has a passion for afternoon-tea. She took up 
 Miss Daisy when they came; she used to call her the little 
 Flower of the West. But now she’s holding the little 
 flower in her finger-tips, at arm’s length, trying to decide to 
 let it drop. 
  
-MADAME DE KATKOFF. Poor little flower! It must be four o’clock now. 
+MADAME DE KATKOFF: Poor little flower! It must be four o’clock now. 
 
-WINTERBOURNE, looking at his watch. You’re in a great hurry to get rid of me! Mrs. Walker’s 
+WINTERBOURNE, <i>looking at his watch:</i> You’re in a great hurry to get rid of me! Mrs. Walker’s 
 is close at hand, just beyond the Spanish Steps. I shall 
 have time to stroll round the Pincian with you. 
 
-MADAME DE KATKOFF. I have had strolling enough. I shall wait for my carriage. 
+MADAME DE KATKOFF: I have had strolling enough. I shall wait for my carriage. 
 
-WINTERBOURNE. Let me at least come and see you this evening. 
+WINTERBOURNE: Let me at least come and see you this evening. 
 
-MADAME DE KATKOFF. I should be delighted, but I am going to the opera. 
+MADAME DE KATKOFF: I should be delighted, but I am going to the opera. 
 
-WINTERBOURNE. 
-Already? The first night you are here? 
+WINTERBOURNE: Already? The first night you are here? 
 
-MADAME DE KATKOFF. It’s not the first; it’s the second. I am very fond of 
+MADAME DE KATKOFF: It’s not the first; it’s the second. I am very fond of 
 music. 
 
-WINTERBOURNE. 
-It’s always had in Italy. 
+WINTERBOURNE: It’s always had in Italy. 
 
-MADAME DE KATKOFF. I have made provision against that in the person of the 
-Russian ambassador, whom I have asked to come into my 
-box. 
+MADAME DE KATKOFF: I have made provision against that in the person of the 
+Russian ambassador, whom I have asked to come into my box. 
 
-WINTERBOURNE. Ah, with ambassadors I stand no chance. 
+WINTERBOURNE: Ah, with ambassadors I stand no chance. 
 
-MADAME DE KATKOFF, smiling. You are the greatest diplomatist of all! Good-by for the 
-present. (She turns away. Winterbourne looks after her a moment.) 
+MADAME DE KATKOFF, <i>smiling:</i> You are the greatest diplomatist of all! Good-by for the 
+present. <i>(She turns away. Winterbourne looks after her a moment.)</i> 
 
-WINTERBOURNE. You decide more easily than Mrs. Walker; you have 
+WINTERBOURNE: You decide more easily than Mrs. Walker; you have 
 dropped me! 
 
-MADAME DE KATKOFF. 
-Ah, but you’re not a flower! (Winterbourne looks at her an in- 
-stant longer; then, with a little passionate switch of his stick, he walks off. Just 
-as he disappears, Eugenio comes in at the back.) And how I shall have a 
-quiet evening with a book! 
+MADAME DE KATKOFF: Ah, but you’re not a flower! <i>(Winterbourne looks at her an instant longer; then, with a little passionate switch of his stick, he walks off. Just as he disappears, Eugenio comes in at the back.)</i> And how I shall have a quiet evening with a book! 
 
-SCENE SECOND. 
-MADAME DE KATKOFF, EUGENIO, who enters hat in hand, with 
-a bow. 
+<p align="center">SCENE SECOND. Madame de Katkoff, Eugenio, <i>who enters hat in hand, with 
+a bow.</i></p> 
 
-EUGENIO. It’s the second time to-day that I have had the pleasure 
-of meeting Madame. 
+EUGENIO: It’s the second time to-day that I have had the pleasure of meeting Madame. 
 
-MADAME DE KATKOFF. I should like very much to believe it would be the last! 
+MADAME DE KATKOFF: I should like very much to believe it would be the last! 
 
-EUGENIO, twirling his hat. That, perhaps, is more than I can promise. We will call 
+EUGENIO, <i>twirling his hat:</i> That, perhaps, is more than I can promise. We will call 
 it the last but one; for my purpose in approaching Madame 
 is to demand an interview — a serious interview! Seeing 
 Madame, at a distance, in conversation with a gentleman, I 
@@ -2348,120 +2323,101 @@ waited till the gentleman had retired; for I must do Madame
 the justice to admit that, with Madame, the gentlemen do 
 usually, at last, retire! 
 
-MADAME DE KATKOFF. It’s a misfortune to me, since they leave me exposed! 
+MADAME DE KATKOFF: It’s a misfortune to me, since they leave me exposed! 
 
-EUGENIO. Madame is not exposed; Madame is protected. So long 
+EUGENIO: Madame is not exposed; Madame is protected. So long 
 as I have an eye on Madame, I can answer for it that she 
 will suffer no injury. 
 
-MADAME DE KATKOFF. You protect me as the butcher protects the lamb! I sup- 
-pose you have come to name your price. 
+MADAME DE KATKOFF: You protect me as the butcher protects the lamb! I suppose you have come to name your price. 
 
-EUGENIO. 
-Madame goes straight to the point! I have come to name
-my price, but not to ask for money. 
+EUGENIO: Madame goes straight to the point! I have come to name my price, but not to ask for money. 
  
-MADAME DE KATKOFF. It’s very kind of you to recognize that I have not money 
-enough. 
+MADAME DE KATKOFF: It’s very kind of you to recognize that I have not money enough. 
 
-EUGENIO. Madame has money enough, but the talents of Madame 
+EUGENIO: Madame has money enough, but the talents of Madame 
 are still greater than her wealth. It is with the aid of these 
-talents that I shall invite Madame to render me a service — 
-a difficult, delicate service, but so valuable that it will release 
-Madame from further obligations. 
+talents that I shall invite Madame to render me a service — a difficult, delicate service, but so valuable that it will release Madame from further obligations. 
 
-MADAME DE KATKOFF, ironical. 
+MADAME DE KATKOFF, <i>ironical:</i>
 It’s delightful to think of being released! I suppose the
 service is to recommend you as a domestic.  That would be 
 difficult, certainly. 
 
-EUGENIO. Too difficult — for Madame! No; it is simply, as I say, 
+EUGENIO: Too difficult — for Madame! No; it is simply, as I say, 
 to grant me an interview, when I can explain. Be so good 
 as to name an hour when I can wait upon you. 
 
-MADAME DE KATKOFF. In my apartments? I would rather not see you there. 
+MADAME DE KATKOFF: In my apartments? I would rather not see you there. 
 Explain to me here. 
 
-EUGENIO. It’s a little delicate for a public place. Besides, I have 
+EUGENIO: It’s a little delicate for a public place. Besides, I have 
 another appointment here. 
 
-MADAME DE KATKOFF. 
-You do a great business! If you mean that I am to 
+MADAME DE KATKOFF: You do a great business! If you mean that I am to 
 wait upon you, we may as well drop negotiations. 
 
-EUGENIO. Let us compromise. My appointment will end in a quar-  ter of an hour. If at that time Madame is still on the 
-Pincian — 
-MADAME DE KATKOFF. 
-You would like me to sit upon a bench till you are ready 
+EUGENIO: Let us compromise. My appointment will end in a quarter of an hour. If at that time Madame is still on the 
+Pincian —
+
+MADAME DE KATKOFF: You would like me to sit upon a bench till you are ready 
 to attend to me? 
 
-EUGENIO. It would have the merit of settling the matter at once, 
-without more suspense for Madame. 
-MADAME DE KATKOFF, thoughtfully, aside. 
+EUGENIO: It would have the merit of settling the matter at once, 
+without more suspense for Madame.
+
+MADAME DE KATKOFF, <i>thoughtfully, aside:</i> 
 That would be a merit, certainly; and I am curious about 
-the exercise he wishes to offer my talents! (Aloud.) I shall 
+the exercise he wishes to offer my talents! <i>(Aloud.)</i> I shall 
 stroll about here till my carriage comes; if you wish to take 
 advantage of that — 
 
-EUGENIO. To take advantage is exactly what I wish ! And as this 
-particular spot is exceptionally quiet I shall look for Madame 
-here. 
+EUGENIO: To take advantage is exactly what I wish! And as this 
+particular spot is exceptionally quiet I shall look for Madame here. 
 
-MADAME DE KATKOFF, as she strolls away. 
-How unspeakably odious! 
+MADAME DE KATKOFF, <i>as she strolls away:</i> How unspeakably odious! 
 
-EUGENIO, alone a moment, looking after her. She shall bend till she breaks! The delay will have the 
-merit, too, of making me sure of Giovanelli —if he only 
+EUGENIO, <i>alone a moment, looking after her:</i> She shall bend till she breaks! The delay will have the 
+merit, too, of making me sure of Giovanelli — if he only 
 keeps the tryst! I mustn’t throw away a card on her before 
 I’ve won the game of him. But he’s such a deuced fine 
-gentleman that there’s no playing fair! (Seeing Giovanelli, who 
-comes in at the left.) He is up to time, though. (Bowing.) Signor 
-Cavaliere! 
+gentleman that there’s no playing fair! <i>(Seeing Giovanelli, who 
+comes in at the left.)</i> He is up to time, though. <i>(Bowing.)</i> Signor Cavaliere! 
 
-SCENE THIRD. 
-EUGENIO, GIOVANELLI. 
+<p align="center">SCENE THIRD. Eugenio, Giovanelli.</p> 
 
-GIOVANELLI, very elegant, with flowers in his buttonhole; cautious, looking 
-round him. 
+GIOVANELLI, <i>very elegant, with flowers in his buttonhole; cautious, looking 
+round him:</i> You might have proposed meeting in some less conspicuous spot! 
 
-You might have proposed meeting in some less conspicu- 
-ous spot! 
-
-EUGENIO. In the Coliseum, at midnight? My dear sir, we should 
+EUGENIO: In the Coliseum, at midnight? My dear sir, we should 
 be much more compromised if we were discovered there! 
-GIOVANELLI. 
-Oh, if you count upon our being discovered!…  
 
-EUGENIO. There is nothing so unnatural in our having a little con- 
-versation. One should never be ashamed of an accomplice! 
+GIOVANELLI: Oh, if you count upon our being discovered!...  
 
-GIOVANELLI, with a grimace, disgusted. Don’t speak of accomplices: as if we were concocting a 
-crime! 
+EUGENIO: There is nothing so unnatural in our having a little conversation. One should never be ashamed of an accomplice! 
 
-EUGENIO.  
-What makes it a work of merit is my conviction that you 
+GIOVANELLI, <i>with a grimace, disgusted:</i> Don’t speak of accomplices: as if we were concocting a crime! 
+
+EUGENIO: What makes it a work of merit is my conviction that you 
 are a perfect gentleman. If it hadn’t been for that, I never 
 should have presented you to my family. 
 
-GIOVANELLI. Your family? You speak as if, in marrying the girl, I 
+GIOVANELLI: Your family? You speak as if, in marrying the girl, I 
 should become your brother-in-law. 
 
-EUGENIO. 
-We shall certainly be united by a very peculiar tie! 
+EUGENIO: We shall certainly be united by a very peculiar tie! 
 
-GIOVANELLI. United — united? I don’t know about that! After my 
-marriage, I shall travel without a courier. (Smiling.) It will 
+GIOVANELLI: United — united? I don’t know about that! After my 
+marriage, I shall travel without a courier. <i>(Smiling.)</i> It will 
 be less expensive! 
 
-EUGENIO. In the event you speak of, I myself hardly expect to re- 
-main in the ranks. I have seen too many campaigns: I 
-shall retire on my pension. You look as if you did not 
-understand me. 
+EUGENIO: In the event you speak of, I myself hardly expect to remain in the ranks. I have seen too many campaigns: I 
+shall retire on my pension. You look as if you did not understand me. 
 
-GIOVANELLI. Perfectly. You expect the good Mrs. Miller to make you 
+GIOVANELLI: Perfectly. You expect the good Mrs. Miller to make you 
 comfortable for the rest of your days. 
 
-EUGENIO. What I expect of the good Mrs. Miller is one thing; 
+EUGENIO: What I expect of the good Mrs. Miller is one thing; 
 what I expect of you is another: and on that point we had 
 better be perfectly clear. It was to insure perfect clearness 
 that I proposed this little conference, which you refused to 
@@ -2474,42 +2430,35 @@ can always find you here, amid the music and the flowers.
 But I can’t exactly make out why you wouldn’t meet me at 
 a cafe. I would gladly have paid for a glass of beer. 
 
-GIOVANELLI. It was just your beer I was afraid of! I never touch the 
+GIOVANELLI: It was just your beer I was afraid of! I never touch the 
 beastly stuff. 
 
-EUGENIO. Ah, if you drink nothing but champagne, no wonder you
+EUGENIO: Ah, if you drink nothing but champagne, no wonder you
 are looking for an heiress! But before I help you to one, 
 let me give you a word of advice. Make the best of me, if 
 you wish me to make the best of you. I was determined 
 to do that when I presented you to the two most amiable  
 women in the world. 
 
-GIOVANELLI. 
-I must protest against your theory that you presented me. 
+GIOVANELLI: I must protest against your theory that you presented me. 
 I met Mrs. Miller at a party, as any gentleman might have 
 done. 
 
-EUGENIO. You met her at a party, precisely; but unless I wish it, 
+EUGENIO: You met her at a party, precisely; but unless I wish it, 
 Mrs. Miller doesn’t go to a party! I let you know she 
 was to be there, and I advised you how to proceed. For the 
-last three weeks I have done nothing but arrange little acci- 
-dents, little surprises, little occasions, of which I will do 
-you the justice to say that you have taken excellent advan- 
-tage. But the time has come when I must remind you that 
-I have not done all this from mere admiration of your dis- 
-tinguished appearance. I wish your success to be my 
+last three weeks I have done nothing but arrange little accidents, little surprises, little occasions, of which I will do 
+you the justice to say that you have taken excellent advantage. But the time has come when I must remind you that 
+I have not done all this from mere admiration of your distinguished appearance. I wish your success to be my 
 success! 
 
-GIOVANELLI, pleased, with a certain simplicity. 
-I am glad to hear you talk about my success! 
+GIOVANELLI, <i>pleased, with a certain simplicity:</i> I am glad to hear you talk about my success! 
 
-EUGENIO. 
-Oh, there’s a good deal to be said about it! Have you 
-ever been to the circus? 
+EUGENIO: Oh, there’s a good deal to be said about it! Have you ever been to the circus? 
 
-GIOVANELLI. I don’t see what that has to do with it! 
+GIOVANELLI: I don’t see what that has to do with it! 
 
-EUGENIO. You’ve seen the bareback rider turn a somersault through 
+EUGENIO: You’ve seen the bareback rider turn a somersault through 
 the paper hoops? It’s a very pretty feat, and it brings him 
 great applause; but half the effect depends upon the poor 
 devil — whom no one notices — who is perched upon the 
@@ -2519,165 +2468,143 @@ on his nose. You turn your little somersaults, Signor
 Cavaliere, and my young lady claps her hands; but all the 
 while I’m holding the hoop! 
 
-GIOVANELLI. 
-If I’m not mistaken, that office, at the circus, is usually 
+GIOVANELLI: If I’m not mistaken, that office, at the circus, is usually 
 performed by the clown. 
 
-EUGENIO. Take very good care, or you’ll have a fall! 
+EUGENIO: Take very good care, or you’ll have a fall! 
 
-GIOVANELLI. I suppose you want to be paid for your trouble. 
+GIOVANELLI: I suppose you want to be paid for your trouble. 
 
-EUGENIO. The point isn’t that I want to be paid: that goes without 
+EUGENIO: The point isn’t that I want to be paid: that goes without 
 saying! But I want to be paid handsomely. 
 
-GIOVANELLI. 
-What do you call handsomely? 
+GIOVANELLI: What do you call handsomely? 
 
-EUGENIO. A commission proportionate to the fortune of the young 
+EUGENIO: A commission proportionate to the fortune of the young 
 lady. I know something about that. I have in my pocket 
-(slapping his side) the letter of credit of the Signora. She lets 
+<i>(slapping his side)</i> the letter of credit of the Signora. She lets 
 me carry it — for safety’s sake! 
 
-GIOVANELLI. Poor Signora! It’s a strange game we are playing! 
+GIOVANELLI: Poor Signora! It’s a strange game we are playing! 
 
-EUGENIO, looking at him a moment. Oh, if you doubt of the purity of your motives, you have 
+EUGENIO, <i>looking at him a moment:</i> Oh, if you doubt of the purity of your motives, you have 
 only to say so. You swore to me that you adored my young 
 lady. 
 
-GIOVANELLI. She’s an angel, and I worship the ground she treads on. 
+GIOVANELLI: She’s an angel, and I worship the ground she treads on. 
 That makes me wonder whether I couldn’t get on without 
 you. 
 
-EUGENIO, dryly. Try it and see. I have only to say the word, and Mrs. 
+EUGENIO, <i>dryly:</i> Try it and see. I have only to say the word, and Mrs. 
 Miller will start to-morrow for the north. 
 
-GIOVANELLI. And if you don’t say the word, that’s another thing you 
+GIOVANELLI: And if you don’t say the word, that’s another thing you 
 want to be paid for! It mounts up very fast. 
 
-EUGENIO. It mounts up to fifty thousand francs, to be handed 
-me six months after you are married. 
+EUGENIO: It mounts up to fifty thousand francs, to be handed me six months after you are married. 
 
-GIOVANELLI. 
-Fifty thousand francs? 
+GIOVANELLI: Fifty thousand francs? 
 
 
-EUGENIO. The family exchequer will never miss them. Besides, I 
+EUGENIO: The family exchequer will never miss them. Besides, I 
 give you six months. You sign a little note, “for value 
-received.” 
-GIOVANELLI.
-And if the marriage — if the marriage — 
+received.”
 
-EUGENIO.  If the marriage comes to grief, I burn up the note. 
+GIOVANELLI: And if the marriage — if the marriage — 
 
-GIOVANELLI. 
-How can I be sure of that? 
+EUGENIO: If the marriage comes to grief, I burn up the note. 
 
-EUGENIO. By having already perceived that I’m not an idiot. If 
+GIOVANELLI: How can I be sure of that? 
+
+EUGENIO: By having already perceived that I’m not an idiot. If 
 you don’t marry, you can’t pay: I need no one to tell me 
 that. But I intend you shall marry. 
 
-GIOVANELLI, satirical. It’s uncommonly good of you! After all, I haven’t a 
-squint! 
+GIOVANELLI, <i>satirical:</i> It’s uncommonly good of you! After all, I haven’t a squint! 
 
-EUGENIO. I picked you out for your good looks; and you’re so 
+EUGENIO: I picked you out for your good looks; and you’re so 
 tremendously fascinating that even when I lose patience with 
 your want of everything else I can’t afford to sacrifice you. 
 Your prospects are now very good. The estimable mother — 
 
-GIOVANELLI. The estimable mother believes me to be already engaged 
+GIOVANELLI: The estimable mother believes me to be already engaged 
 to her daughter. It shows how much she knows about it! 
 
-EUGENIO. No, you are not engaged, but you will be, next week. 
+EUGENIO: No, you are not engaged, but you will be, next week. 
 You have rather too many flowers there, by the way: you 
-overdo it a little. (Pointing to Giovanelli’s button-hole.) 
+overdo it a little. <i>(Pointing to Giovanelli’s button-hole.)</i> 
 
-GIOVANELLI. So long as you pay for them, the more the better! How 
+GIOVANELLI: So long as you pay for them, the more the better! How 
 far will it carry me to be engaged? Mr. Miller can hardly 
 be such a fool as his wife. 
 
-EUGENIO, stroking his moustache. 
-Mr. Miller? 
+EUGENIO, <i>stroking his moustache:</i> Mr. Miller? 
 
-GIOVANELLI. The mysterious father, in that unpronounceable town! 
+GIOVANELLI: The mysterious father, in that unpronounceable town! 
 He must be a man of energy, to have made such a fortune, 
 and the idea of his energy haunts me! 
 
-EUGENIO. That’s because you’ve got none yourself. 
+EUGENIO: That’s because you’ve got none yourself. 
 
-GIOVANELLI.
-I don’t pretend to that; I only pretend to - a - 
+GIOVANELLI: I don’t pretend to that; I only pretend to - a - 
 
-EUGENIO.
-To be fascinating, I know! But you’re afraid the papa 
-won’t see it. 
-GIOVANELLI.
-I don’t exactly see why he should set his heart on a Ro- 
-man son-in-law. 
+EUGENIO: To be fascinating, I know! But you’re afraid the papa 
+won’t see it.
 
-EUGENIO. It’s your business to produce that miracle! 
+GIOVANELLI: I don’t exactly see why he should set his heart on a Roman son-in-law. 
 
-GIOVANELLI. By making the girl talked about? My respect for her is 
-in proportion to the confidence she shows me. That con-
-cadence is unlimited.
+EUGENIO: It’s your business to produce that miracle! 
 
-EUGENIO. Oh, unlimited! I have never seen anything like that 
+GIOVANELLI: By making the girl talked about? My respect for her is 
+in proportion to the confidence she shows me. That concadence is unlimited.
+
+EUGENIO: Oh, unlimited! I have never seen anything like that 
 confidence; and if out of such a piece of cloth as that you 
 can’t cut a coat — 
 
-GIOVANELLI. I never pretended to be a tailor! And you must not for- 
-get that I have a rival. 
+GIOVANELLI: I never pretended to be a tailor! And you must not forget that I have a rival. 
  
-EUGENIO. 
-Forget it? I regard it as a particularly gratifying fact. 
+EUGENIO: Forget it? I regard it as a particularly gratifying fact. 
 If you didn’t have a rival I should have very small hopes 
 of you. 
 
-GIOVANELLI. 
-I confess I don’t follow you. The young lady’s confidence 
-in Mr. Winterbourne is at least equal to her confidence in 
-me. 
+GIOVANELLI: I confess I don’t follow you. The young lady’s confidence 
+in Mr. Winterbourne is at least equal to her confidence in me. 
 
-EUGENIO. 
-Ah, but his confidence in the young lady? That’s another 
+EUGENIO: Ah, but his confidence in the young lady? That’s another 
 affair! He thinks she goes too far. He’s an American, 
 like herself; but there are Americans and Americans, and 
 when they take it into their heads to open their eyes they 
 open them very wide. 
 
-GIOVANELLI. If you mean that this American’s a donkey, I see no 
-reason to differ with you. 
-EUGENIO. 
-Leave him to me. I’ve got a stick to beat him with! 
+GIOVANELLI: If you mean that this American’s a donkey, I see no 
+reason to differ with you.
 
-GIOVANELLI. 
-You make me shiver a little! Do you mean to put him 
-out of the way? 
+EUGENIO: Leave him to me. I’ve got a stick to beat him with! 
 
-EUGENIO. I mean to put him out of the way. Ah, you can trust me! 
+GIOVANELLI: You make me shiver a little! Do you mean to put him out of the way? 
+
+EUGENIO: I mean to put him out of the way. Ah, you can trust me! 
 I don’t carry a stiletto, and if you’ll excuse me I won’t 
 describe my little plan. You’ll tell me what you think of 
 it when you have seen the results. The great feature is 
 simply that Miss Daisy, seeing herself abandoned — 
 
-GIOVANELLI. 
-Will look about her for a consoler? Ah, consolation is a 
+GIOVANELLI: Will look about her for a consoler? Ah, consolation is a 
 specialty of mine, and if you give me a chance to console I 
 think I shall be safe. 
 
-EUGENIO. 
-I shall go to work on the spot! (Takes out his pocket-book, from 
-which he extracts a small folded paper, holding it up a moment before Giovanelli.) 
+EUGENIO: I shall go to work on the spot! <i>(Takes out his pocket-book, from 
+which he extracts a small folded paper, holding it up a moment before Giovanelli.)</i> 
 Put your name to that, and send it back to me by post. 
 
-GIOVANELLI, reading the paper with a little grimace. 
-Fifty thousand! Fifty thousand is steep. 
+GIOVANELLI, <i>reading the paper with a little grimace:</i> Fifty thousand! Fifty thousand is steep. 
 
-EUGENIO. Signor Cavaliere, the letter of credit is for half a million! 
+EUGENIO: Signor Cavaliere, the letter of credit is for half a million! 
 
-GIOVANELLI, pocketing the paper. 
-Well, give me a chance to console — give me a chance to 
-console! (Goes off at the back, while, at the same moment, Madame de 
-Katkoff reappears.) 
+GIOVANELLI, <i>pocketing the paper:</i> Well, give me a chance to console — give me a chance to 
+console! <i>(Goes off at the back, while, at the same moment, Madame de 
+Katkoff reappears.)</i> 
 
 SCENE FOURTH. 
 EUGENIO, MADAME DE KATKOFF. 
