@@ -3146,7 +3146,7 @@ for you! <i>(He goes out with Mrs. Costello and Miss Durant.)</i>
 
 <p align="center">SCENE EIGHTH. Mrs. Walker, Winterbourne, Daisy, Giovanelli.</p>
 
-WINTERBOURNE, <i>as the two others slowly come in together, not at first seeing him:</i>We shall have a siege: she won’t give him up for the asking.
+WINTERBOURNE, <i>as the two others slowly come in together, not at first seeing him:</i> We shall have a siege: she won’t give him up for the asking.
 
 MRS. WALKER: We must divide our forces, then. You will deal with Daisy. 
 
