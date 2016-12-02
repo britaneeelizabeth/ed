@@ -4022,631 +4022,484 @@ DAISY: Why didn’t you tell me that, when you saw me there?
 WINTERBOURNE: Because you had an adviser in whom you have much more faith.
 
 DAISY<sub>1</sub>: Mr. Giovanelli? Oh, it’s not his fault. He begged me to come away. 
+
+<i>1 Discrepancy in original text; changed line from belonging to Miss Durant to belonging to Daisy.</i>
+
+WINTERBOURNE: If you didn’t mind him, you wouldn’t have minded me. 
+
+DAISY: I didn’t care what happened. But I noticed, all the same, that you didn’t speak to me. 
+
+WINTERBOURNE: I had nothing to say.
+
+DAISY: You only bowed, very low. 
+
+WINTERBOURNE: That was to express my great respect. 
+
+DAISY: I had never had such a bow before. 
+
+WINTERBOURNE: You had never been so worthy of it! 
+
+DAISY, <i>aside:</i> He despises me! Well, I don’t care! <i>(Aloud.)</i> It was lovely there in the moonlight. 
+
+WINTERBOURNE: I was sure you found it so. That was another reason I didn’t wish to interrupt you.
+
+DAISY, <i>playing indifference:</i> What were you doing there, all alone? 
+
+WINTERBOURNE: I had been dining at a villa in that part of Rome, and I 
+simply stopped, as I walked home, to take a look at the splendid ruin.
+
+DAISY, <i>after a pause, in the same manner:</i> I shouldn’t think you’d go round alone. 
+
+WINTERBOURNE: I have to go as I can; I haven’t your resources. 
+
+DAISY: Don’t you know any ladies? 
+
+WINTERBOURNE: Yes; but they don’t expose themselves...
+
+DAISY, <i>with quick emotion:</i> Expose themselves to be treated as you treated me! 
+
+WINTERBOURNE: You are rather difficult to please. <i>(Reenter the waiter.)</i> 
+
+THE WAITER: Madame de Katkoff will come in about ten minutes, sir. 
+
+WINTERBOURNE: Very good. 
+
+THE WAITER: She’s just pouring out tea for the company. 
+
+WINTERBOURNE: That will do. 
+
+THE WAITER, <i>smiling:</i> You know the Russians must have their tea, sir. 
+
+WINTERBOURNE: You talk too much.
+
+THE WAITER, <i>going out:</i> He’s very sharp to-night! <i>(Exit Waiter.)</i>
+
+DAISY, <i>who has turned away a moment, coming down:</i> If you are expecting some one, I’ll go away. 
+
+WINTERBOURNE: There’s another public room. I’ll see my friend there. 
+
+DAISY: I have nothing to do here. <i>(Goes toward the door, but stops halfway, looking at him.)</i> You see a great deal of Madame de Katkoff. Doesn’t she expose herself? 
+
+WINTERBOURNE, <i>smiling:</i> To dangerous consequences? Never! 
  
-WINTERBOURNE. If you didn’t mind him, you wouldn’t have minded me. 
+ DAISY: She comes down again, as if unable to decide to leave him. <i>Aside.</i> I’m determined to know what he thinks. <i>(Aloud, in a different tone.)</i> I was going out on the balcony, to see what’s going on. 
 
-DAISY.
-I didn’t care what happened. But I noticed, all the  same, that you didn’t speak to me. 
- WINTERBOURNE. 
-I had nothing to say. 
-DAISY. 
-You only bowed, very low. 
+WINTERBOURNE: Are you not afraid of the night air? 
 
-WINTERBOURNE. 
-That was to express my great respect. 
+DAISY: I’m not afraid of anything ! 
 
-DAISY. I had never had such a bow before. 
+WINTERBOURNE: Are you going to begin again? 
 
-WINTERBOURNE. 
-You had never been so worthy of it! 
-
-DAISY, aside. He despises me! Well, I don’t care! (Aloud.) It was 
-lovely there in the moonlight. 
-
-WINTERBOURNE. I was sure you found it so. That was another reason I 
-didn’t wish to interrupt you. 
-DAISY, playing indifference. 
-What were you doing there, all alone? 
-
-WINTERBOURNE. I had been dining at a villa in that part of Rome, and I 
-simply stopped, as I walked home, to take a look at the 
-splendid ruin. 
-DAISY, after a pause, in the same manner. 
-I shouldn’t think you’d go round alone. 
-
-WINTERBOURNE. I have to go as I can; I haven’t your resources. 
-
-DAISY. 
-Don’t you know any ladies? 
-
-WINTERBOURNE. Yes; but they don’t expose themselves… 
-
-DAISY, with quick emotion. Expose themselves to be treated as you treated me! 
-
-WINTERBOURNE. You are rather difficult to please. (Reenter the waiter.) 
-
-THE WAITER. Madame de Katkoff will come in about ten minutes, sir. 
-
-WINTERBOURNE.
-Very good. 
-
-THE WAITER. She’s just pouring out tea for the company. 
-
-WINTERBOURNE. 
-That will do. 
-
-THE WAITER, smiling. You know the Russians must have their tea, sir. 
-
-WINTERBOURNE. 
-You talk too much. 
-THE WAITER, going out. 
-He’s very sharp to-night! (Exit Waiter.) 
-DAISY, who has turned away a moment, coming down. 
-If you are expecting some one, I’ll go away. 
-
-WINTERBOURNE. There’s another public room. I’ll see my friend there. 
-
-DAISY. I have nothing to do here. (Goes toward the door, but stops half- 
-way, looking at him.) You see a great deal of Madame de Kat- 
-koff. Doesn’t she expose herself? 
-
-WINTERBOURNE, smiling. 
-To dangerous consequences? Never! 
- 
-DAISY. She comes down again, as if unable to decide to leave him. Aside. I’m determined to know what he thinks. (Aloud, in a different 
-tone.) I was going out on the balcony, to see what’s going 
-on. 
-
-WINTERBOURNE. 
-Are you not afraid of the night air? 
-
-DAISY. 
-I’m not afraid of anything ! 
-
-WINTERBOURNE. 
-Are you going to begin again? 
-
-DAISY. 
-Ah, I’m too late! It’s nearly over. (At the moment she 
+DAISY: Ah, I’m too late! It’s nearly over. <i>(At the moment she 
 speaks, Mrs. Costello appears in the window, from the balcony. Reenter Mrs. 
-Costello.) 
+Costello.)</i> 
 
-MRS. COSTELLO, to Winterbourne. Merciful powers! I thought you were Mr. Reverdy!
-(Looking at Daisy.) And that this young lady was my Alice! 
+MRS. COSTELLO, <i>to Winterbourne:</i> Merciful powers! I thought you were Mr. Reverdy!
+<i>(Looking at Daisy.)</i> And that this young lady was my Alice! 
 
-DAISY. 
-Something very different, you see! Now I can have the
-balcony. (She passes out of the window.)  
-MRS. COSTELLO. 
-What are you doing with that girl? I thought you had
-dropped her.
+DAISY: Something very different, you see! Now I can have the
+balcony. <i>(She passes out of the window.)</i>
 
-WINTERBOURNE.  I was asking about her health. She has been down with 
-the fever. 
+MRS. COSTELLO: What are you doing with that girl? I thought you had dropped her.
 
-MRS. COSTELLO. It will do her good — make her reflect on her sins. But 
+WINTERBOURNE: I was asking about her health. She has been down with the fever. 
+
+MRS. COSTELLO: It will do her good — make her reflect on her sins. But 
 what have you done with my young companions? 
 
-WINTERBOURNE. Nothing in the world. The last I saw of them they were 
-frolicking in the Corso. 
+WINTERBOURNE: Nothing in the world. The last I saw of them they were frolicking in the Corso. 
  
-MRS. COSTELLO. Frolicking in the Corso? Alice and Mr. Reverdy? 
+MRS. COSTELLO: Frolicking in the Corso? Alice and Mr. Reverdy? 
 
-WINTERBOURNE. I met them as I was coming from my lodgings to the 
-hotel. He was blowing a tin trumpet, and she was hiding 
-behind a mask. 
+WINTERBOURNE: I met them as I was coming from my lodgings to the 
+hotel. He was blowing a tin trumpet, and she was hiding behind a mask. 
 
-MRS. COSTELLO. A tin trumpet and a mask! Have they gone to perdition? 
+MRS. COSTELLO: A tin trumpet and a mask! Have they gone to perdition? 
 
-WINTERBOURNE. They are only taking advantage of the Carnival. 
+WINTERBOURNE: They are only taking advantage of the Carnival. 
 
-MRS. COSTELLO. Taking advantage of my back; I had turned it for three 
-minutes! They were on the balcony with me, looking at 
-this vulgar riot, and they slipped away to come in here. 
+MRS. COSTELLO: Taking advantage of my back; I had turned it for three 
+minutes! They were on the balcony with me, looking at this vulgar riot, and they slipped away to come in here. 
 
-WINTERBOURNE. You never give them a chance: they hunger and thirst! 
+WINTERBOURNE: You never give them a chance: they hunger and thirst! 
 
-MRS. COSTELLO. A chance to masquerade? Think of her education! 
+MRS. COSTELLO: A chance to masquerade? Think of her education! 
 
-WINTERBOURNE. I am thinking of it now. You see the results. 
+WINTERBOURNE: I am thinking of it now. You see the results. 
 
-MRS. COSTELLO. I said to myself that I was perhaps too vigilant, and I left 
+MRS. COSTELLO: I said to myself that I was perhaps too vigilant, and I left 
 them here a moment to talk things over. I saw through the 
-window a young lady and a gentleman, and I took it for 
-granted it was they. 
+window a young lady and a gentleman, and I took it for granted it was they. 
 
-WINTERBOURNE. Ingenuous aunt! They were already a mile away! 
+WINTERBOURNE: Ingenuous aunt! They were already a mile away! 
 
-MRS. COSTELLO. It’s too horrible to believe. You must immediately bring 
-them back. 
-WINTERBOURNE. 
-Impossible just now. I have an engagement here. 
+MRS. COSTELLO: It’s too horrible to believe. You must immediately bring them back.
 
-MRS. COSTELLO. 
-I’ll go and look for them myself! 
+WINTERBOURNE: Impossible just now. I have an engagement here. 
 
-WINTERBOURNE, laying his hand on her arm. 
-Don’t, don’t! Let them have a little fun! 
+MRS. COSTELLO: I’ll go and look for them myself! 
 
-MRS. COSTELLO. I never heard of anything so cynical! 
+WINTERBOURNE, <i>laying his hand on her arm:</i> Don’t, don’t! Let them have a little fun! 
 
-WINTERBOURNE. 
-Don’t you want them to marry? 
+MRS. COSTELLO: I never heard of anything so cynical! 
 
-MRS. COSTELLO. 
-To marry, yes; but not to elope! 
+WINTERBOURNE: Don’t you want them to marry? 
 
-WINTERBOURNE. 
-Let them do it in their own way. 
+MRS. COSTELLO: To marry, yes; but not to elope! 
 
-MRS. COSTELLO. 
-With a mask and a tin trumpet? A girl I’ve watched 
-like that ! 
+WINTERBOURNE: Let them do it in their own way. 
 
-WINTERBOURNE.
-You have watched too much. They’ll come home  
-engaged. 
+MRS. COSTELLO: With a mask and a tin trumpet? A girl I’ve watched like that! 
 
-MRS. COSTELLO. 
-Ah, bring them, then, quickly! 
+WINTERBOURNE: You have watched too much. They’ll come home engaged. 
 
-WINTERBOURNE. 
-I will go down into the street and look; and if I see 
+MRS. COSTELLO: Ah, bring them, then, quickly! 
+
+WINTERBOURNE: I will go down into the street and look; and if I see 
 them, I will tell them what’s expected of them. 
 
-MRS. COSTELLO. I will go to my room; I feel a headache coming on. 
-(Before she goes out, to herself, as if a thought has struck her.) Had they 
-bribed that monster to kiss his hand? (Exeunt.) 
+MRS. COSTELLO: I will go to my room; I feel a headache coming on. 
+<i>(Before she goes out, to herself, as if a thought has struck her.)</i> Had they 
+bribed that monster to kiss his hand? <i>(Exeunt.)</i> 
 
-SCENE FOURTH. 
-GIOVANELLI, DAISY. 
-He enters the room, and she comes in from the balcony at the same 
+<p align="center">SCENE FOURTH. Giovanelli, Daisy.<br> 
+<i>He enters the room, and she comes in from the balcony at the same 
 moment. He advances with a radiant smile, takes both of her hands, 
-holds them for a moment devotedly, then kisses each of them. 
+holds them for a moment devotedly, then kisses each of them.</i> 
 
-GIOVANELLI. 
-Carissima signorina! When I see you restored to health, 
-I begin to live myself! 
+GIOVANELLI: Carissima signorina! When I see you restored to health, I begin to live myself! 
 
-DAISY.
-Poor old Giovanelli! I believe you do care for me! 
+DAISY: Poor old Giovanelli! I believe you do care for me! 
 
-GIOVANELLI. Care for you? When I heard you were ill, I neither ate 
+GIOVANELLI: Care for you? When I heard you were ill, I neither ate 
 nor slept. I thought I, too, should have to have the doctor. 
 
-DAISY, laughing. 
-I should have sent you mine if I had known it. You 
+DAISY, <i>laughing:</i> I should have sent you mine if I had known it. You 
 must eat a good supper to-night, for I am all right now. 
 
-GIOVANELLI. 
-You look still a little pale. 
+GIOVANELLI: You look still a little pale. 
 
-DAISY. I look like a fright, of course, in this dreadful dress; but 
-I’m only a convalescent. If I had known you were coming, 
-I would have worn something better. 
+DAISY: I look like a fright, of course, in this dreadful dress; but 
+I’m only a convalescent. If I had known you were coming, I would have worn something better. 
 
-GIOVANELLI. 
-You look like an angel, always. You might have been 
+GIOVANELLI: You look like an angel, always. You might have been 
 sure I would come, after so many days. I was always at 
-your door, asking for news. But now, I think, we shall 
-never again be separated. 
-DAISY. 
-Never again? Oh, don’t talk about the future! What 
-were you doing there in the street? 
+your door, asking for news. But now, I think, we shall never again be separated.
 
-GIOVANELLI. When I looked up and saw you on the balcony, bending 
+DAISY: Never again? Oh, don’t talk about the future! What were you doing there in the street? 
+
+GIOVANELLI: When I looked up and saw you on the balcony, bending 
 over like a little saint in her shrine? It was that vision that 
 made me come up again. 
 
-DAISY. You had gone out to enjoy the Carnival? 
+DAISY: You had gone out to enjoy the Carnival? 
 
-GIOVANELLI. 
-I had come here to see you; but I learned from your 
+GIOVANELLI: I had come here to see you; but I learned from your 
 excellent Eugenio that your mother and your brother were 
 going out in a carriage. They appeared at that moment, and 
 I went down with them to the door, to wish them a happy 
 drive. Little Randolph was greatly excited. 
 
-DAISY. He insisted on mother’s going; she’ll do anything for 
+DAISY: He insisted on mother’s going; she’ll do anything for 
 Randolph. But she didn’t want to leave me. 
 
-GIOVANELLI, smiling. 
-She has left you to me!
+GIOVANELLI, <i>smiling:</i> She has left you to me!
 
-DAISY. 
-Did Eugenio go with them? 
+DAISY: Did Eugenio go with them? 
 
-GIOVANELLI. Oh, yes; he got into the carriage. (Aside.) The cheek of 
+GIOVANELLI: Oh, yes; he got into the carriage. <i>(Aside.)</i> The cheek of 
 that man!
 
-DAISY. 
-They have left me alone, then. 
+DAISY: They have left me alone, then. 
 
-GIOVANELLI. I am almost of the family, dear Miss! 
+GIOVANELLI: I am almost of the family, dear Miss! 
 
-DAISY, apparently not hearing him, listening to the sounds from without. 
-They oughtn’t to have left me alone — when I’m sick, 
-when I’m weak.  
-GIOVANELLI, anxiously.
-You are not so well, then, as you say? 
+DAISY, <i>apparently not hearing him, listening to the sounds from without:</i> They oughtn’t to have left me alone — when I’m sick, when I’m weak.
 
-DAISY, looking at him a moment, with a little laugh. You look so scared at the idea of losing me! Poor old 
+GIOVANELLI, <i>anxiously:</i> You are not so well, then, as you say? 
+
+DAISY, <i>looking at him a moment, with a little laugh:</i> You look so scared at the idea of losing me! Poor old 
 Giovanelli! What should you do if you were to lose me? 
 
-GIOVANELLI. 
-Don’t speak of it — it’s horrible! If you are not well, 
-you should go to your room. 
+GIOVANELLI: Don’t speak of it — it’s horrible! If you are not well, you should go to your room. 
 
-DAISY. Oh, I’m all right. I only wanted to frighten you. 
+DAISY: Oh, I’m all right. I only wanted to frighten you. 
 
-GIOVANELLI. It isn’t kind — when you know how I love you! 
+GIOVANELLI: It isn’t kind — when you know how I love you! 
 
-DAISY. I don’t know it, and I don’t want to know it, as I have 
-told you often. I forbid you to speak of that. 
+DAISY: I don’t know it, and I don’t want to know it, as I have told you often. I forbid you to speak of that. 
 
-GIOVANELLI. You will never let me mention the future. 
+GIOVANELLI: You will never let me mention the future. 
 
-DAISY. I hate the future; I care only for the present! 
+DAISY: I hate the future; I care only for the present! 
 
-GIOVANELLI. The future is the present, when one sees it as we see it. 
+GIOVANELLI: The future is the present, when one sees it as we see it. 
 
-DAISY. I don’t see it at all, and I don’t want to see it. I saw it 
+DAISY: I don’t see it at all, and I don’t want to see it. I saw it 
 for a moment, when I was sick, and that was enough. 
 
-GIOVANELLI. You have suffered much; but it was not my fault. 
+GIOVANELLI: You have suffered much; but it was not my fault. 
 
-DAISY. I don’t blame you, Giovanelli. You are very kind. 
-Where are they going, mother and Randolph ? 
+DAISY: I don’t blame you, Giovanelli. You are very kind. 
+Where are they going, mother and Randolph? 
 
-GIOVANELLI. Up and down the Corso; wherever there is something to 
+GIOVANELLI: Up and down the Corso; wherever there is something to 
 see. They have an open carriage, with lots of flowers. 
 
-DAISY. It must be charming. Have you been going round? 
+DAISY: It must be charming. Have you been going round? 
 
-GIOVANELLI. 
-I have strolled about a little.
+GIOVANELLI: I have strolled about a little.
 
-DAISY. 
-Is it very, very amusing? 
+DAISY: Is it very, very amusing? 
 
-GIOVANELLI. Ah, you know, I’m an old Roman; I have seen it many 
-times. The illumination is better than usual, and the music 
-is lively enough.
+GIOVANELLI: Ah, you know, I’m an old Roman; I have seen it many 
+times. The illumination is better than usual, and the music is lively enough.
 
-DAISY.
-Listen to the music - listen to it!
+DAISY: Listen to the music - listen to it!
 
-GIOVANELLI, smiling. You mustn’t let it go to your head. (Daisy goes to the window, 
-and stands there a moment.) She has never been so lovely as to- 
-night! 
+GIOVANELLI, <i>smiling:</i> You mustn’t let it go to your head. <i>(Daisy goes to the window, 
+and stands there a moment.)</i> She has never been so lovely as to-night! 
  
-DAISY, coming back, with decision. 
-Giovanelli, you must get me a carriage. 
+DAISY, <i>coming back, with decision:</i> Giovanelli, you must get me a carriage. 
 
-GIOVANELLI, startled. 
-A carriage, signorina? 
+GIOVANELLI, <i>startled:</i> A carriage, signorina? 
 
-DAISY. 
-I must go out — I must! 
+DAISY: I must go out — I must! 
 
-GIOVANELLI. There is not a carriage to be had at this hour. Every
-thing is taken for the fete. 
-DAISY. 
-Then I’ll go on foot. You must take me. 
+GIOVANELLI: There is not a carriage to be had at this hour. Every
+thing is taken for the fete.
 
-GIOVANELLI. Into the air of the night, and the crowded streets? It’s
-enough to kill you ! 
+DAISY: Then I’ll go on foot. You must take me. 
 
-DAISY.
-It’s a lovely night, as mild as June; and it’s only for
-five minutes.
+GIOVANELLI: Into the air of the night, and the crowded streets? It’s enough to kill you! 
 
-GIOVANELLI. The softer the night, the greater the danger of the bad 
-air. Five minutes, in your condition, would bring back the 
-fever. 
+DAISY: It’s a lovely night, as mild as June; and it’s only for five minutes.
 
-DAISY. I shall have the fever if I stay here listening, longing, 
+GIOVANELLI: The softer the night, the greater the danger of the bad 
+air. Five minutes, in your condition, would bring back the fever. 
+
+DAISY: I shall have the fever if I stay here listening, longing, 
 fidgeting! You said I was pale; but it’s only the delicacy 
 of my complexion. 
 
-GIOVANELLI.
-You are not pale now; you have a little spot in either
+GIOVANELLI: You are not pale now; you have a little spot in either
 cheek. Your mother will not be happy.
 
-DAISY. She shouldn’t have left me alone, then. 
+DAISY: She shouldn’t have left me alone, then. 
 
-GIOVANELLI. You are not alone when you are with me. 
+GIOVANELLI: You are not alone when you are with me. 
 
-DAISY. Of what use are you, except to take me out? 
+DAISY: Of what use are you, except to take me out? 
 
-GIOVANELLI. It’s impossible to contradict you. For five minutes, then,
-remember! 
+GIOVANELLI: It’s impossible to contradict you. For five minutes, then, remember! 
 
-DAISY.
-For five minutes, then; or for ten! I’ll go and get 
+DAISY: For five minutes, then; or for ten! I’ll go and get 
 ready. Don’t mind about the carriage: we’ll do it better
 on foot.
 
-GIOVANELLI, at the door. It’s at your own risk, you know. I’ll try for a cab.
+GIOVANELLI, <i>at the door:</i> It’s at your own risk, you know. I’ll try for a cab.
 
-DAISY. 
-My own risk! I’m not afraid. 
+DAISY: My own risk! I’m not afraid. 
 
-GIOVANELLI, kissing his hand to her. 
-You are awfully beautiful! (Exit Giovanelli.) 
+GIOVANELLI, <i>kissing his hand to her:</i> You are awfully beautiful! <i>(Exit Giovanelli.)</i> 
 
-DAISY, alone. I’m not afraid — I don’t care! I don’t like him to- 
-night; he’s too serious. I would rather be out-of-doors 
-with him than shut up here. Poor Giovanelli; if he thinks 
-I love him, after all I’ve said to the contrary…I can 
-dress in three minutes. (She is going to the door opposite to the one 
-through which Giovanelli has made his exit when Madame de Katkoff comes in, 
-meeting her.) 
+DAISY, <i>alone:</i> I’m not afraid — I don’t care! I don’t like him to-night; he’s too serious. I would rather be out-of-doors with him than shut up here. Poor Giovanelli; if he thinks 
+I love him, after all I’ve said to the contrary...I can dress in three minutes. <i>(She is going to the door opposite to the one through which Giovanelli has made his exit when Madame de Katkoff comes in, meeting her.)</i> 
 
-SCENE FIFTH. DAISY, MADAME DE KATKOFF. 
-They stand a moment, looking at each other. 
+<p align="center">SCENE FIFTH. Daisy, Madame de Katkoff. <i>They stand a moment, looking at each other.</i></p> 
 
-MADAME DE KATKOFF, very kindly. I have not the pleasure of knowing you, though we have 
+MADAME DE KATKOFF, <i>very kindly:</i> I have not the pleasure of knowing you, though we have 
 spent half the winter in the same hotel; but I have heard of 
-your illness, and you must let me tell you how glad I am to 
-see you better. 
+your illness, and you must let me tell you how glad I am to see you better. 
 
-DAISY, aside. Why does she speak to me? I don’t like her, nor want 
-to know her. (Aloud.) Thank you, I’m better. I’m going 
-out. 
-MADAME DE KATKOFF. 
-You must be better, indeed; but (with interest) you look a 
-little flushed. 
+DAISY, <i>aside:</i> Why does she speak to me? I don’t like her, nor want 
+to know her. <i>(Aloud.)</i> Thank you, I’m better. I’m going out.
 
-DAISY. It’s talking with a stranger. I think I must go. 
+MADAME DE KATKOFF: You must be better, indeed; but <i>(with interest)</i> you look a little flushed. 
 
-MADAME DE KATKOFF. Perhaps you can tell me something first. A gentleman 
+DAISY: It’s talking with a stranger. I think I must go. 
+
+MADAME DE KATKOFF: Perhaps you can tell me something first. A gentleman 
 sent me his name, and I was told I should find him here. 
 May I ask you whether you have seen such a person? 
 
-DAISY. If you mean Mr. Winterbourne, he was here just now; 
-but he went away with his aunt. 
+DAISY: If you mean Mr. Winterbourne, he was here just now; but he went away with his aunt. 
 
-MADAME DE KATKOFF.
-I suppose he’ll come back, then. But he oughtn’t to 
-keep me waiting. 
+MADAME DE KATKOFF: I suppose he’ll come back, then. But he oughtn’t to keep me waiting. 
 
-DAISY, very coldly. I haven’t the least idea what he ought to do. I know 
-nothing whatever of his movements. 
+DAISY, <i>very coldly:</i> I haven’t the least idea what he ought to do. I know nothing whatever of his movements. 
 
-MADAME DE KATKOFF, aside. Poor little thing, she hates me! But she doesn’t hate 
-him. (Aloud.) I’m a stranger as you say; but I should be 
-very glad to become a little less of one. 
+MADAME DE KATKOFF, <i>aside:</i> Poor little thing, she hates me! But she doesn’t hate 
+him. <i>(Aloud.)</i> I’m a stranger as you say; but I should be very glad to become a little less of one. 
 
-DAISY. Why should you want to know me? I’m not of your 
-age. 
+DAISY: Why should you want to know me? I’m not of your age. 
 
-MADAME DE KATKOFF, aside, smiling. She hates me indeed! (Aloud.) I should be tempted to 
+MADAME DE KATKOFF, <i>aside, smiling:</i> She hates me indeed! <i>(Aloud.)</i> I should be tempted to 
 say that we might know each other a little as mother and 
 daughter — if I hadn’t heard that you are already the 
 devoted daughter of a devoted mother. 
 
-DAISY. She’s good enough for me — and I’m good enough for 
-her. 
-MADAME DE KATKOFF, more and more gracious. 
-I envy you both, and I am happy to have the opportunity 
-of saying so. One doesn’t know how pretty you are till 
-one talks to you. 
-DAISY. 
-If you are laughing at my dress, I am just going to 
-change it. 
-MADAME DE KATKOFF.
-Laughing at your dress? It has always been my 
-admiration. 
+DAISY: She’s good enough for me — and I’m good enough for her.
 
-DAISY, aside. What does she mean by that? It’s not as good as hers. 
-(Aloud.) I can’t stay with you. I’m going to the Carnival. 
+MADAME DE KATKOFF, <i>more and more gracious:</i> I envy you both, and I am happy to have the opportunity 
+of saying so. One doesn’t know how pretty you are till one talks to you.
+
+DAISY: If you are laughing at my dress, I am just going to change it.
+
+MADAME DE KATKOFF: Laughing at your dress? It has always been my admiration. 
+
+DAISY, <i>aside:</i> What does she mean by that? It’s not as good as hers. 
+<i>(Aloud.)</i> I can’t stay with you. I’m going to the Carnival. 
  
-MADAME DE KATKOFF. It will last all night; you have plenty of time. I have
+MADAME DE KATKOFF: It will last all night; you have plenty of time. I have
 heard Mr. Winterbourne speak of you. 
 
-DAISY. I didn’t suppose he ever did that. 
+DAISY: I didn’t suppose he ever did that. 
 
-MADAME DE KATKOFF. Oh! very often. That’s why I want to know you. 
+MADAME DE KATKOFF: Oh! very often. That’s why I want to know you. 
 
-DAISY. 
-It’s a strange reason. He must have told you pretty 
-things of me. 
+DAISY: It’s a strange reason. He must have told you pretty things of me. 
 
-MADAME DE KATKOFF. He has told me you’re a charming young girl. 
+MADAME DE KATKOFF: He has told me you’re a charming young girl. 
 
-DAISY, aside.
-Oh, what an awful story! (Aloud.) I don’t understand 
-what you want of me. 
+DAISY, <i>aside:</i> Oh, what an awful story! <i>(Aloud.)</i> I don’t understand what you want of me. 
 
-MADAME DE KATKOFF, aside.
-I can hardly tell her that I want to make up to her for
+MADAME DE KATKOFF, <i>aside:</i> I can hardly tell her that I want to make up to her for
 the harm I have done her, for I can’t do that unless I give
-up everything. (Aloud, as if struck by an idea.) I want to be kind
-to you. I want to keep you from going out.
+up everything. <i>(Aloud, as if struck by an idea.)</i> I want to be kind to you. I want to keep you from going out.
 
-DAISY, smiling.
-I don’t think you can do that.
+DAISY, <i>smiling:</i> I don’t think you can do that.
 
-MADAME DE KATKOFF.
-You are barely convalescent: you mustn’t expose your-
-self.
+MADAME DE KATKOFF: You are barely convalescent: you mustn’t expose yourself.
 
-DAISY.
-It won’t hurt any one but me.
+DAISY: It won’t hurt any one but me.
 
-MADAME DE KATKOFF.
-We all take a great interest in you. We should be in de-
-spare if you were to have a relapse.
+MADAME DE KATKOFF: We all take a great interest in you. We should be in despare if you were to have a relapse.
 
-DAISY.
-You all despise me and think me dreadful; that’s what
-you all do.
+DAISY: You all despise me and think me dreadful; that’s what you all do.
 
-MADAME DE KATKOFF. 
-Where did you learn that remarkable fact? 
+MADAME DE KATKOFF: Where did you learn that remarkable fact? 
 
-DAISY. 
-Mr. Winterbourne told me - since you speak of Mr.
-Winterbourne.
+DAISY: Mr. Winterbourne told me - since you speak of Mr. Winterbourne.
 
-MADAME DE KATKOFF. 
-I don’t think you understood him. Mr. Winterbourne is
-a perfect gentleman. 
+MADAME DE KATKOFF: I don’t think you understood him. Mr. Winterbourne is a perfect gentleman. 
 
-DAISY. 
-Have you come here to praise him to me? That’s 
-strange - for you!
+DAISY: Have you come here to praise him to me? That’s strange - for you!
 
-MADAME DE KATKOFF. 
-You know at least that I consider him an excellent friend.
+MADAME DE KATKOFF: You know at least that I consider him an excellent friend.
 
-DAISY. 
-I know nothing whatever about it. (Aside.) She wants to
-torture me - to triumph! 
-MADAME DE KATKOFF, aside. 
-She’s as proud as she is pretty! (Aloud.) Are you going
-out alone? 
+DAISY: I know nothing whatever about it. <i>(Aside.)</i> She wants to torture me - to triumph!
 
-DAISY. 
-No, indeed, I have a friend.
+MADAME DE KATKOFF, <i>aside:</i> She’s as proud as she is pretty! <i>(Aloud.)</i> Are you going out alone? 
 
-MADAME DE KATKOFF, aside.
-A friend as well as I. (Aloud.) My dear child, I am very
+DAISY: No, indeed, I have a friend.
+
+MADAME DE KATKOFF, <i>aside:</i> A friend as well as I. <i>(Aloud.)</i> My dear child, I am very
 sorry for you. You have too many wrong ideas.
 
-DAISY. 
-That’s exactly what they say! 
+DAISY: That’s exactly what they say! 
 
-MADAME DE KATKOFF.
-I don’t mean it as other people may have meant it. You
-make a great many mistakes. 
+MADAME DE KATKOFF: I don’t mean it as other people may have meant it. You make a great many mistakes. 
 
-DAISY. 
-As many as I possibly can! In America I was always  
-right. 
+DAISY: As many as I possibly can! In America I was always right. 
 
-MADAME DE KATKOFF. Try and believe you are in America now. I’m not an 
-American, but I want to be your friend. 
+MADAME DE KATKOFF: Try and believe you are in America now. I’m not an American, but I want to be your friend. 
 
-DAISY. I’m much obliged to you, but I don’t trust you. 
+DAISY: I’m much obliged to you, but I don’t trust you. 
 
-MADAME DE KATKOFF. You trust the wrong people. With whom are you going 
-out? 
+MADAME DE KATKOFF: You trust the wrong people. With whom are you going out? 
 
-DAISY. I don’t think I’m obliged to tell you. 
+DAISY: I don’t think I’m obliged to tell you. 
 
-MADAME DE KATKOFF, gently. 
-I ask for a very good motive. 
+MADAME DE KATKOFF, <i>gently:</i> I ask for a very good motive. 
 
-DAISY, aside. She may be better than I think. (Aloud.) With Mr. Gio- 
-vanelli. 
+DAISY, <i>aside:</i> She may be better than I think. <i>(Aloud.)</i> With Mr. Giovanelli. 
 
-MADAME DE KATKOFF, smiling. A mysterious Italian — introduced by your courier! 
+MADAME DE KATKOFF, <i>smiling:</i> A mysterious Italian — introduced by your courier! 
 
-DAISY, with simplicity. 
-Oh, no; Eugenio got some one else! 
+DAISY, <i>with simplicity:</i> Oh, no; Eugenio got some one else! 
 
-MADAME DE KATKOFF, aside. Adorable innocence! (Aloud.) That’s all I wanted to 
-know. 
+MADAME DE KATKOFF, <i>aside:</i> Adorable innocence! <i>(Aloud.)</i> That’s all I wanted to know. 
 
-DAISY. I hope you have nothing to say against him. 
+DAISY: I hope you have nothing to say against him. 
 
-MADAME DE KATKOFF. 
-Nothing but this: he’s not a gentleman. 
+MADAME DE KATKOFF: Nothing but this: he’s not a gentleman. 
 
-DAISY. Not a gentleman? Poor old Giovanelli! 
+DAISY: Not a gentleman? Poor old Giovanelli! 
 
-MADAME DE KATKOFF, aside. 
-“Poor old Giovanelli? ” Good! (Aloud.) If he were a 
-gentleman, he wouldn’t ask you to do what you tell me you 
-are on the point of doing.  
-DAISY. He never asked me. He does what I wish! 
+MADAME DE KATKOFF, <i>aside:</i> “Poor old Giovanelli? ” Good! <i>(Aloud.)</i> If he were a 
+gentleman, he wouldn’t ask you to do what you tell me you are on the point of doing. 
 
-MADAME DE KATKOFF, aside. She doesn’t care a fig for him — and I should like to 
-exasperate the courier. (Aloud.) It’s none of my business;  but why do you wish, in your condition, to go out? 
+DAISY: He never asked me. He does what I wish! 
 
-DAISY. Because it’s the last night of the Carnival, and I have no 
-one else to take me. 
+MADAME DE KATKOFF, <i>aside:</i> She doesn’t care a fig for him — and I should like to 
+exasperate the courier. <i>(Aloud.)</i> It’s none of my business; but why do you wish, in your condition, to go out? 
 
-MADAME DE KATKOFF. 
-Excuse me; but where is your mother? 
+DAISY: Because it’s the last night of the Carnival, and I have no one else to take me. 
 
-DAISY. 
-Gone out with my brother. 
+MADAME DE KATKOFF: Excuse me; but where is your mother? 
 
-MADAME DE KATKOFF, aside. Extraordinary family! (Aloud.) Let me make you an 
+DAISY: Gone out with my brother. 
+
+MADAME DE KATKOFF, <i>aside:</i> Extraordinary family! <i>(Aloud.)</i> Let me make you an 
 offer: I will order out my carriage, and take you myself. 
 
-DAISY, staring. Take me yourself? (Then abruptly, ironically.) Pray, what 
+DAISY, <i>staring:</i> Take me yourself? <i>(Then abruptly, ironically.)</i> Pray, what 
 would become of Mr. Winterbourne? 
 
-MADAME DE KATKOFF, aside. She adores him! (Aloud.) Ah, you don’t care for Gio- 
-vanelli! 
+MADAME DE KATKOFF, <i>aside:</i> She adores him! <i>(Aloud.)</i> Ah, you don’t care for Giovanelli! 
 
-DAISY. Whether I care for him or not, I mustn’t keep him wait- 
-ing. (Exit Daisy, hastily.) 
+DAISY: Whether I care for him or not, I mustn’t keep him waiting. <i>(Exit Daisy, hastily.)</i> 
 
-MADAME DE KATKOFF, alone. She’s trembling with agitation, and her poor little heart 
+MADAME DE KATKOFF, <i>alone:</i> She’s trembling with agitation, and her poor little heart 
 is full. She thought I wished to torment her. My position 
 is odiously false! And to think I hold her happiness in my 
-hands! (Winterbourne comes in.) His, too, poor fellow! Ah, I 
+hands! <i>(Winterbourne comes in.)</i> His, too, poor fellow! Ah, I 
 can’t hold it any longer! 
 
-SCENE SIXTH. 
-MADAME DE KATKOFF, WINTERBOURNE. 
+<p align="center">SCENE SIXTH. Madame de Katkoff, Winterbourne. 
 
-WINTERBOURNE. I am afraid I have kept you waiting. I was carried away 
-by my aunt. 
+WINTERBOURNE: I am afraid I have kept you waiting. I was carried away by my aunt. 
 
-MADAME DE KATKOFF. 
-Is she keeping the Carnival, your aunt? 
+MADAME DE KATKOFF: Is she keeping the Carnival, your aunt? 
 
-WINTERBOURNE. No, but her companions are. They are masquerading in 
+WINTERBOURNE: No, but her companions are. They are masquerading in 
 the Corso, and she’s in despair. She sent me to hunt them
 up, but they are lost in the crowd. 
  
-MADAME DE KATKOFF. Do you mean the young lady whom you described as so 
+MADAME DE KATKOFF: Do you mean the young lady whom you described as so 
 prim? If that’s a specimen of her primness, I was right in 
 my little theory. 
 
-WINTERBOURNE. 
-Your little theory? 
+WINTERBOURNE: Your little theory? 
 
-MADAME DE KATKOFF. 
-That the grave ones are the gay ones. 
+MADAME DE KATKOFF: That the grave ones are the gay ones. 
 
-WINTERBOURNE. Poor Miss Durant isn’t gay: she’s simply desperate. 
+WINTERBOURNE: Poor Miss Durant isn’t gay: she’s simply desperate. 
 My aunt keeps such watch at the door that she has been 
 obliged to jump out of the window. — Have you waited 
 very long? 
 
-MADAME DE KATKOFF. I hardly know. I have had company — Miss Daisy 
-Miller! 
-WINTERBOURNE. 
-That must have made the time fly! 
+MADAME DE KATKOFF: I hardly know. I have had company — Miss Daisy Miller!
+
+WINTERBOURNE: That must have made the time fly! 
  
 MADAME DE KATKOFF. 
 She is very touching. 
 
-WINTERBOURNE. 
-Very, indeed. She has gone to pieces. 
+WINTERBOURNE: Very, indeed. She has gone to pieces. 
 
-MADAME DE KATKOFF. 
-Gone to pieces? 
+MADAME DE KATKOFF: Gone to pieces? 
 
-WINTERBOURNE. She’s quite impossible. You oughtn’t to talk to her. 
+WINTERBOURNE: She’s quite impossible. You oughtn’t to talk to her. 
 
-MADAME DE KATKOFF, aside. Ah, what a fool I have made of him! (Aloud.) You think 
-she will corrupt my innocence? 
+MADAME DE KATKOFF, <i>aside:</i> Ah, what a fool I have made of him! <i>(Aloud.)</i> You think she will corrupt my innocence? 
 
-WINTERBOURNE, after a moment. 
-I don’t like you to speak of her. Please don’t. 
+WINTERBOURNE, <i>after a moment:</i> I don’t like you to speak of her. Please don’t. 
 
-MADAME DE KATKOFF. She completes my little theory — that the gay ones are
-the grave ones. 
+MADAME DE KATKOFF: She completes my little theory — that the gay ones are the grave ones. 
 
-WINTERBOURNE. If she’s grave, she well may be: her situation is intensely 
+WINTERBOURNE: If she’s grave, she well may be: her situation is intensely 
 grave. As for her native solemnity, you used to insist upon 
 that when, for reasons best known to yourself, you conceived 
 the remarkable design of inducing me to make love to her. 
@@ -4654,210 +4507,167 @@ You dropped the idea as suddenly as you took it up; but I
 am very sorry to see any symptoms of your taking it up 
 again. It seems to me it’s hardly the moment. 
 
-MADAME DE KATKOFF, aside. 
-It’s more the moment than you think. 
+MADAME DE KATKOFF, <i>aside:</i> It’s more the moment than you think. 
 
-WINTERBOURNE, rather harshly. I was very sorry to learn, on coming here, that you have  
-your rooms full of people. 
+WINTERBOURNE, <i>rather harshly:</i> I was very sorry to learn, on coming here, that you have your rooms full of people. 
 
-MADAME DE KATKOFF. They have come to look out of my windows. It is not 
-my fault that I have such a view of the Corso. 
+MADAME DE KATKOFF: They have come to look out of my windows. It is not my fault that I have such a view of the Corso. 
 
-WINTERBOURNE. You had given me to understand that we should be alone. 
+WINTERBOURNE: You had given me to understand that we should be alone. 
 
-MADAME DE KATKOFF. I didn’t ask them; they came themselves. 
+MADAME DE KATKOFF: I didn’t ask them; they came themselves. 
 
-WINTERBOURNE, impatiently. I wish to heaven they had stayed at home! 
+WINTERBOURNE, <i>impatiently</i> I wish to heaven they had stayed at home! 
 
-MADAME DE KATKOFF. 
-Should you like me to turn them out? 
+MADAME DE KATKOFF: Should you like me to turn them out? 
 
-WINTERBOURNE. 
-I should like it particularly. 
+WINTERBOURNE: I should like it particularly. 
 
-MADAME DE KATKOFF. 
-The ambassador and all? 
+MADAME DE KATKOFF: The ambassador and all? 
 
-WINTERBOURNE. You told me a month ago that where I was concerned you 
+WINTERBOURNE: You told me a month ago that where I was concerned you 
 didn’t care a straw for the ambassador. 
 
-MADAME DE KATKOFF, after a moment. 
-A month ago - yes! 
+MADAME DE KATKOFF, <i>after a moment:</i> A month ago - yes! 
 
-WINTERBOURNE. If you intended to change so soon, you ought to have 
-notified me at the moment. 
-MADAME DE KATKOFF. 
-The ambassador is very considerate. When I have a few visitors, he helps me to entertain them. 
+WINTERBOURNE: If you intended to change so soon, you ought to have 
+notified me at the moment.
 
-WINTERBOURNE. That proves how little you have need of me. 
+MADAME DE KATKOFF: The ambassador is very considerate. When I have a few visitors, he helps me to entertain them. 
 
-MADAME DE KATKOFF. I have left my guests in his charge, with perfect confi- 
-dence. 
+WINTERBOURNE: That proves how little you have need of me. 
 
-WINTERBOURNE. 
-Oh, if you mean you are at liberty, that’s just what I 
-want. 
+MADAME DE KATKOFF: I have left my guests in his charge, with perfect confidence. 
+
+WINTERBOURNE: Oh, if you mean you are at liberty, that’s just what I want. 
  
-MADAME DE KATKOFF. 
-What does it occur to you to propose? 
+MADAME DE KATKOFF: What does it occur to you to propose? 
 
-WINTERBOURNE. That you should drive out with me, to see the illu- 
-mination. 
-MADAME DE KATKOFF.
-I have seen fifty illuminations! I am sick of the
-Carnival. 
-WINTERBOURNE.
-It isn’t the Carnival; it’s the drive. I have a carriage  
-at the door. 
+WINTERBOURNE: That you should drive out with me, to see the illumination.
+
+MADAME DE KATKOFF: I have seen fifty illuminations! I am sick of the Carnival.
+
+WINTERBOURNE: It isn’t the Carnival; it’s the drive. I have a carriage at the door. 
  
-MADAME DE KATKOFF. I have no doubt it would be charming; but I am not at 
+MADAME DE KATKOFF: I have no doubt it would be charming; but I am not at 
 liberty in that sense. I can’t leave a roomful of people 
-planted there! I really don’t see why they should make
-you so savage. 
+planted there! I really don’t see why they should make you so savage. 
 
-WINTERBOURNE. I am not savage, but I am disappointed. I counted on
+WINTERBOURNE: I am not savage, but I am disappointed. I counted on
 this evening: it’s a week since we have been alone. 
 
-MADAME DE KATKOFF. Do I appear to so little advantage in company? Are you 
-ashamed of me when others are present? I do the best 
-I can. 
+MADAME DE KATKOFF: Do I appear to so little advantage in company? Are you ashamed of me when others are present? I do the best I can. 
 
-WINTERBOURNE. You were always strange — and you always will be! 
+WINTERBOURNE: You were always strange — and you always will be! 
 Sometimes I think you have taken a vow to torment me. 
 
-MADAME DE KATKOFF. I have taken a vow — that’s very true; and I admit I 
-am strange. We Russians are, you know: you had warning 
-of that! 
+MADAME DE KATKOFF: I have taken a vow — that’s very true; and I admit I 
+am strange. We Russians are, you know: you had warning of that! 
 
-WINTERBOURNE. Yes; but you abuse the national privilege. I am never 
-safe with you — never sure of you. You turn from one 
-thing to the other. 
+WINTERBOURNE: Yes; but you abuse the national privilege. I am never 
+safe with you — never sure of you. You turn from one thing to the other. 
  
-MADAME DE KATKOFF, aside. 
-Poor fellow, he’s bewildered! (Aloud.) Will you do me
+MADAME DE KATKOFF, <i>aside:</i> Poor fellow, he’s bewildered! <i>(Aloud.)</i> Will you do me
 a favor? 
 
-WINTERBOURNE. 
-I am sure it’s something horrible  
+WINTERBOURNE: I am sure it’s something horrible  
 
-MADAME DE KATKOFF. 
-You say you have a carriage at the door. Take it, and go
+MADAME DE KATKOFF: You say you have a carriage at the door. Take it, and go
 after that poor girl. 
 
-WINTERBOURNE. Oh, are you coming back to her? You try my patience! 
+WINTERBOURNE: Oh, are you coming back to her? You try my patience! 
 
-MADAME DE KATKOFF. She has just risen from an attack of fever, and it strikes 
+MADAME DE KATKOFF: She has just risen from an attack of fever, and it strikes 
 her as a knowing thing to finish her evening in the streets! 
 
-WINTERBOURNE, starting a little. 
-She has gone out - looking that way? 
+WINTERBOURNE, <i>starting a little:</i> She has gone out - looking that way? 
 
-MADAME DE KATKOFF, aside. That will touch him! (Aloud.) She won’t come home 
-alive. 
+MADAME DE KATKOFF, <i>aside:</i> That will touch him! <i>(Aloud.)</i> She won’t come home alive. 
 
-WINTERBOURNE, attentive. 
-Do you believe that? 
+WINTERBOURNE, <i>attentive:</i> Do you believe that? 
 
-MADAME DE KATKOFF, aside. It has touched him! (Aloud.) I think it’s madness. 
-Her only safety was to have left Rome the moment she could 
-be moved. 
+MADAME DE KATKOFF, <i>aside:</i> It has touched him! <i>(Aloud.)</i> I think it’s madness. 
+Her only safety was to have left Rome the moment she could be moved. 
 
-WINTERBOURNE, after a pause. I am not sure the best thing that can happen to her is not 
-to die! She ought to perish in her flower, as she once said 
-to me! 
+WINTERBOURNE, <i>after a pause:</i> I am not sure the best thing that can happen to her is not 
+to die! She ought to perish in her flower, as she once said to me! 
 
-MADAME DE KATKOFF. That’s a convenient theory, to save you the trouble of a 
-drive! 
+MADAME DE KATKOFF: That’s a convenient theory, to save you the trouble of a drive! 
 
-WINTERBOURNE. You are remarkably pressing, but you had better spare 
+WINTERBOURNE: You are remarkably pressing, but you had better spare 
 your sarcasm. I have no further interest in the fate of Miss 
 Daisy Miller, and no commission whatever to interfere with 
 her movements. She has a mother — in disguise — and she 
-has other protectors. I don’t suppose she has gone out 
-alone. 
+has other protectors. I don’t suppose she has gone out alone. 
 
-MADAME DE KATKOFF. 
-She has gone with her Italian. 
+MADAME DE KATKOFF: She has gone with her Italian. 
 
-WINTERBOURNE. 
-Giovanelli? Ah, the scoundrel! 
+WINTERBOURNE: Giovanelli? Ah, the scoundrel! 
 
-MADAME DE KATKOFF, smiling, aside. My dear friend, you are all right. (Aloud.) Gently, 
+MADAME DE KATKOFF, <i>smiling, aside:</i> My dear friend, you are all right. <i>(Aloud.)</i> Gently, 
 gently! It’s not his fault. 
 
-WINTERBOURNE. 
-That she is infatuated? Perhaps not. 
+WINTERBOURNE: That she is infatuated? Perhaps not. 
 
-MADAME DE KATKOFF. 
-Infatuated? She doesn’t care a straw for him! 
+MADAME DE KATKOFF: Infatuated? She doesn’t care a straw for him! 
 
-WINTERBOURNE. And to prove her indifference, she lets him take her on 
+WINTERBOURNE: And to prove her indifference, she lets him take her on 
 this devil’s drive? I don’t quite see it. 
 
-MADAME DE KATKOFF. He’s her convenience - her little pretext — her poor old 
+MADAME DE KATKOFF: He’s her convenience - her little pretext — her poor old 
 Giovanelli. He fetches and carries, and she finds him very 
 useful; but that’s the end of it. She takes him to drive: 
 he doesn’t take her. 
 
-WINTERBOURNE. Did she kindly inform you of these interesting facts? 
+WINTERBOURNE: Did she kindly inform you of these interesting facts? 
 
-MADAME DE KATKOFF. I had a long talk with her. One woman understands 
-another! 
+MADAME DE KATKOFF: I had a long talk with her. One woman understands another! 
 
-WINTERBOURNE. I hope she understands you. It’s more than I do. 
+WINTERBOURNE: I hope she understands you. It’s more than I do. 
 
-MADAME DE KATKOFF. She has gone out because she’s unhappy. She doesn’t 
+MADAME DE KATKOFF: She has gone out because she’s unhappy. She doesn’t 
 care what becomes of her. 
 
-WINTERBOURNE. I never suspected her of such tragic propensities. Pray,
-What is she unhappy about? 
+WINTERBOURNE: I never suspected her of such tragic propensities. Pray, what is she unhappy about? 
 
-MADAME DE KATKOFF. 
-About the hard things people say of her. 
+MADAME DE KATKOFF: About the hard things people say of her. 
 
-WINTERBOURNE. She has only to behave like other girls, then.  
+WINTERBOURNE: She has only to behave like other girls, then.  
 
-MADAME DE KATKOFF. Like your friend, Miss Durant? A pretty model, this 
+MADAME DE KATKOFF: Like your friend, Miss Durant? A pretty model, this 
 evening! You say you hope poor Daisy understands me; 
 but she doesn’t — and that’s part of the misery. She can’t 
 make out what I have made of you! 
 
-WINTERBOURNE. A creature as miserable as herself! You might have 
+WINTERBOURNE: A creature as miserable as herself! You might have 
 explained: you had the opportunity. 
 
-MADAME DE KATKOFF. She left me abruptly — and I lost it forever! 
+MADAME DE KATKOFF: She left me abruptly — and I lost it forever! 
 
-WINTERBOURNE. All this is nothing to us. When will your friends leave 
-you? 
+WINTERBOURNE: All this is nothing to us. When will your friends leave you? 
 
-MADAME DE KATKOFF, after a pause. No, it’s nothing to us. - I haven’t asked my friends how 
-long they mean to stay. 
+MADAME DE KATKOFF, <i>after a pause:</i> No, it’s nothing to us. - I haven’t asked my friends how long they mean to stay. 
 
-WINTERBOURNE. 
-Till eleven o’clock — till twelve? 
+WINTERBOURNE: Till eleven o’clock — till twelve? 
 
-MADAME DE KATKOFF. Till one in the morning, perhaps - or till two. They 
-will see the Carnival out. (Smiling.) You had much better 
-join us! 
+MADAME DE KATKOFF: Till one in the morning, perhaps - or till two. They 
+will see the Carnival out. <i>(Smiling.)</i> You had much better join us! 
 
-WINTERBOURNE, passionately. Unfathomable woman! In pity’s name, what did you 
-mean by raising my hopes to such a point, a month ago, 
-only to dash them to the ground? 
+WINTERBOURNE, <i>passionately:</i> Unfathomable woman! In pity’s name, what did you 
+mean by raising my hopes to such a point, a month ago, only to dash them to the ground? 
 
-MADAME DE KATKOFF. I tried to make you happy — but I didn’t succeed. 
+MADAME DE KATKOFF: I tried to make you happy — but I didn’t succeed. 
 
-WINTERBOURNE. 
-You tried? Are you trying now? 
+WINTERBOURNE: You tried? Are you trying now? 
 
-MADAME DE KATKOFF. No, I have given it up: it’s a waste of time!
+MADAME DE KATKOFF: No, I have given it up: it’s a waste of time!
 
-WINTERBOURNE. Have you forgotten the day on the Pincian, after your 
+WINTERBOURNE: Have you forgotten the day on the Pincian, after your 
 arrival, and what you suddenly offered me — what you 
 promised me — there? You had kept me at arm’s length 
 for three years, and suddenly the barrier dropped. The 
 angel of justice has kept the record of my gratitude and 
-eagerness — as well as of my surprise; and if my tender- 
-ness and respect were not greater than ever, it is because you 
+eagerness — as well as of my surprise; and if my tenderness and respect were not greater than ever, it is because you 
 had already had the best of them! Have you forgotten our 
 moonlight drive through the streets of Rome, with its rich 
 confusion of ancient memories and new-born hopes? You 
@@ -4868,7 +4678,7 @@ it’s as if you were trying to make me angry! Do you wish
 to throw me over, and leave me lying in the dust? Are 
 you only the most audacious of coquettes? 
 
-MADAME DE KATKOFF. It’s not I who have changed; it’s you! Of course I 
+MADAME DE KATKOFF: It’s not I who have changed; it’s you! Of course I 
 remember our moonlight drive, and how glad you were to 
 take it. You were happy for an hour — you were happy for 
 three days. There were novelty and excitement in finding 
@@ -4877,53 +4687,46 @@ moment the discovery amused you. But only for a moment!
 So long as I refused to listen to you, you cared for me. 
 From the day I yielded, I became a bore! 
 
-WINTERBOURNE. If you want to get rid of me, don’t put it off on me! 
+WINTERBOURNE: If you want to get rid of me, don’t put it off on me! 
 
-MADAME DE KATKOFF. You don’t really care for me; your heart is somewhere 
+MADAME DE KATKOFF: You don’t really care for me; your heart is somewhere 
 else. You are too proud to confess it, but your love for me 
 is an elaborate deception. 
 
-WINTERBOURNE. The deception is yours, then — not mine! 
+WINTERBOURNE: The deception is yours, then — not mine! 
 
-MADAME DE KATKOFF. You are restless, discontented, unhappy. You are sore 
-and sick at heart, and you have tried to forget it in persuad- 
-ing yourself that I can cure your pain. I can cure it; but 
+MADAME DE KATKOFF: You are restless, discontented, unhappy. You are sore 
+and sick at heart, and you have tried to forget it in persuading yourself that I can cure your pain. I can cure it; but 
 not by encouraging your illusion! 
 
-WINTERBOURNE. If you thought it an illusion, why did you turn there and 
-smile on me? 
+WINTERBOURNE: If you thought it an illusion, why did you turn there and smile on me? 
 
-MADAME DE KATKOFF.’ Because I was vile and wicked - because I have played a 
-part and worn a mask, like those idiots in the Carnival — 
-because I am a most unhappy woman! 
+MADAME DE KATKOFF: Because I was vile and wicked - because I have played a 
+part and worn a mask, like those idiots in the Carnival — because I am a most unhappy woman! 
 
-WINTERBOURNE, looking at her, surprised. 
-I assure you, I understand you less and less! 
+WINTERBOURNE, <i>looking at her, surprised:</i> I assure you, I understand you less and less! 
  
-MADAME DE KATKOFF. I had an end to gain, and I thought it precious; but I 
+MADAME DE KATKOFF: I had an end to gain, and I thought it precious; but I 
 have suddenly begun to loathe it! When I met that poor 
 girl just now, and looked into her face, I was filled with 
 compassion and shame. She is dying, I say, and between 
 us we are killing her! Dying because she loves you, and 
 because she thinks you despise her! Dying because you 
 have turned away from her, and she has tried to stifle the 
-pang! Dying because I have held you here - under com- 
-pulsion of a scoundrel — and she thinks she has lost you 
+pang! Dying because I have held you here - under compulsion of a scoundrel — and she thinks she has lost you 
 forever! I read it all in her eyes — the purest I ever saw. 
-I am sick of the ghastly comedy, and I must tell the miser- 
-able truth. If you will believe me, it’s not too late! 
+I am sick of the ghastly comedy, and I must tell the miserable truth. If you will believe me, it’s not too late! 
 
-WINTERBOURNE, amazed and bewildered. 
-Under compulsion — of a scoundrel? 
+WINTERBOURNE, <i>amazed and bewildered:</i> Under compulsion — of a scoundrel? 
 
-MADAME DE KATKOFF. I have the misfortune to be in the clutches of one, and so 
+MADAME DE KATKOFF: I have the misfortune to be in the clutches of one, and so 
 has our little friend. You know that her mother’s horrible 
 courier was once in my husband’s service. Thanks to that 
 accident, he has some papers of mine which I wish to buy 
 back. To make me pay for them, he has forced me to play 
 his game. 
 
-WINTERBOURNE. His game? What has he to do with a game? 
+WINTERBOURNE: His game? What has he to do with a game? 
 
 MADAME DE KATKOFF. I don’t defend him: I explain. He has selected a hus- 
 band for his young lady, and your superior attractions had 
