@@ -3706,94 +3706,77 @@ and falling at intervals during the whole act.</p>
 <i>He comes in first at the left, holding the door open for the others to 
 follow.</i></p> 
 
-REVERDY. You can see very well from this balcony, if you won’t go 
-down into the street. 
+REVERDY: You can see very well from this balcony, if you won’t go down into the street. 
 
-MRS. COSTELLO. Down into the street — to be trampled to death? I have 
+MRS. COSTELLO: Down into the street — to be trampled to death? I have 
 no desire to be butchered to make a Roman holiday. 
 
-REVERDY, aside. They would find you a tough old morsel! (Aloud.) It’s 
+REVERDY, <i>aside:</i> They would find you a tough old morsel! <i>(Aloud.)</i> It’s 
 the last night of the Carnival, and a peculiar license prevails. 
 
-MRS. COSTELLO. I’m happy to hear it’s the last night. Their tooting and 
+MRS. COSTELLO: I’m happy to hear it’s the last night. Their tooting and 
 piping and fiddling hasn’t stopped for a week, and my poor 
 old head has been racked with pain. 
 
-MISS DURANT. Is it very bad now? You had better go to our own quiet 
+MISS DURANT: Is it very bad now? You had better go to our own quiet 
 sitting-room, which looks out on the back. 
 
-MRS. COSTELLO. 
-And leave you here with this youth? 
+MRS. COSTELLO: And leave you here with this youth? 
 
-MISS DURANT. 
-After all — in the Carnival! 
+MISS DURANT: After all — in the Carnival! 
 
-MRS. COSTELLO. A season of peculiar license — as he himself confesses. I 
-wonder you don’t propose at once to mingle with the popu- 
-lace — in a fancy dress! 
+MRS. COSTELLO: A season of peculiar license — as he himself confesses. I 
+wonder you don’t propose at once to mingle with the populace — in a fancy dress! 
 
-MISS DURANT. I should like to very much! I’m tired of being cooped 
-up in a balcony. If this is the last night, it’s my only 
-chance. 
+MISS DURANT: I should like to very much! I’m tired of being cooped 
+up in a balcony. If this is the last night, it’s my only chance. 
 
-MRS. COSTELLO, severely. Alice Durant, I don’t recognize you! The Carnival has 
+MRS. COSTELLO, <i>severely:</i> Alice Durant, I don’t recognize you! The Carnival has 
 affected you — insidiously. You’re as bad as Daisy Miller. 
 
-REVERDY. 
-Poor little butterfly! Don’t speak harshly of her: she is 
-lying ill with Roman fever. 
+REVERDY: Poor little butterfly! Don’t speak harshly of her: she is lying ill with Roman fever. 
 
-MRS. COSTELLO. Since her visit to the Coliseum, in the cool of the evening, 
-with the inveterate Giovanelli? 
-MISS DURANT. 
-I suppose he’ll marry her when she recovers — if she 
-does recover! 
+MRS. COSTELLO: Since her visit to the Coliseum, in the cool of the evening, 
+with the inveterate Giovanelli?
 
-REVERDY. 
-It was certainly idiotic, from the point of view of salu- 
-brity, to go to enjoy the moonlight in that particularly 
+MISS DURANT: I suppose he’ll marry her when she recovers — if she does recover! 
+
+REVERDY: It was certainly idiotic, from the point of view of salubrity, to go to enjoy the moonlight in that particularly 
 mouldy ruin, and the inveterate Giovanelli, who is old 
 enough to know better, ought to have a thrashing. The 
 poor girl may never recover. The little Flower of the West, as
 Mrs. Walker says, is withering on the stem. Fancy dying 
 to the music of the Carnival! 
 
-MRS. COSTELLO. That’s the way I shall die, unless you come now and take 
+MRS. COSTELLO: That’s the way I shall die, unless you come now and take 
 your last look, so that we may go away and have done with 
-it. (Goes to the Window.) Good heavens, what a rabble! 
-(Passes out on the balcony.) 
+it. <i>(Goes to the Window.)</i> Good heavens, what a rabble! 
+<i>(Passes out on the balcony.)</i> 
 
-REVERDY, to Miss Durant, remaining behind. 
-I will you give her the slip, and come out with me? 
+REVERDY, <i>to Miss Durant, remaining behind:</i> I will you give her the slip, and come out with me? 
 
-MISS DURANT, looking at him, and listening to the music. 
-In a fancy dress? 
+MISS DURANT, <i>looking at him, and listening to the music:</i> In a fancy dress? 
 
-REVERDY. 
-Oh, no; simply in a mask. I’ve got one in my pocket. 
-(Takes out a grotesque mask and holds it to his face a moment, shaking his head at 
-her.) How d’ye do, lovely woman? 
+REVERDY: Oh, no; simply in a mask. I’ve got one in my pocket. 
+<i>(Takes out a grotesque mask and holds it to his face a moment, shaking his head at 
+her.)</i> How d’ye do, lovely woman? 
 
-MISS DURANT. 
-Dear me, how very hideous! 
+MISS DURANT: Dear me, how very hideous! 
 
-REVERDY. 
-If you put it on, I shall be as handsome as ever. 
+REVERDY: If you put it on, I shall be as handsome as ever. 
 
-MISS DURANT, aside. If he should propose out there, it would hide my blushes! 
+MISS DURANT, <i>aside:</i> If he should propose out there, it would hide my blushes! 
 
-MRS. COSTELLO, from the balcony. Young people, what are you doing? Come out here this 
-minute! 
+MRS. COSTELLO, <i>from the balcony:</i> Young people, what are you doing? Come out here this minute! 
 
-REVERDY. There she is again! (Aloud.) Are you afraid they will 
-pelt you with flowers ? 
-MRS. COSTELLO. 
-A gentleman has already kissed his hand to me! 
+REVERDY: There she is again! <i>(Aloud.)</i> Are you afraid they will pelt you with flowers?
 
-REVERDY. A season of peculiar license! (To Miss Durant.) We can’t 
-escape from her now, but it won’t be long! (They rejoin Mrs. 
+MRS. COSTELLO: A gentleman has already kissed his hand to me! 
+
+REVERDY: A season of peculiar license! <i>(To Miss Durant.)</i> We can’t 
+escape from her now, but it won’t be long! <i>(They rejoin Mrs. 
 Costello on the balcony, Reverdy holding the mask behind him. While they 
-remain there, apparently absorbed in the spectacle in the street, Eugenio and Gio- vanelli come in.) 
+remain there, apparently absorbed in the spectacle in the street, Eugenio and Giovanelli come in.)</i> 
 
 
 SCENE SECOND. 
