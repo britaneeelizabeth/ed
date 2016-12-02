@@ -3694,7 +3694,7 @@ WINTERBOURNE, <i>looking at his watch, to himself:</i> Well, I shall have that m
 
 ---
 <a id="act-third" />
-<p align="center">ACT THIRD. 
+<p align="center">ACT THIRD.<br> 
 Rome. Public parlors at the Hotel de Paris; evening. Wide windows 
 at the back, overlooking the Corso, open upon a balcony, which must 
 be apparent, behind light curtains, to the audience. The Carnival is 
