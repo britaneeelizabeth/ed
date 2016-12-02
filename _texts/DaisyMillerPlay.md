@@ -3563,185 +3563,144 @@ WINTERBOURNE, <i>alone, standing a moment in thought:</i> “Women are never con
 love!” I have waited three years, but it was worth waiting 
 for! <i>(Mrs. Walker comes in with Daisy, without his seeing them.)</i> 
 
-SCENE ELEVENTH. 
-WINTERBOURNE, MRS. WALKER, DAISY, THEN EUGENIO 
-AND GIOVANELLI. 
+<p align="center">SCENE ELEVENTH. Winterbourne, Mrs. Walker, Daisy, then Eugenio 
+and Giovanelli.</p> 
 
-DAISY. 
-Well, Mr. Winterbourne, is that the way you look for my 
-brother? You had better not come to dinner unless you 
-find him. 
+DAISY: Well, Mr. Winterbourne, is that the way you look for my 
+brother? You had better not come to dinner unless you find him. 
 
-WINTERBOURNE. I was just wondering which way I had better go. 
+WINTERBOURNE: I was just wondering which way I had better go. 
 
-MRS. WALKER. Mrs. Miller has pressed us into the service, and she wants 
+MRS. WALKER: Mrs. Miller has pressed us into the service, and she wants 
 every one to go in a different direction. But I prefer 
-(significantly) that Daisy and I should stick together. 
+<i>(significantly)</i> that Daisy and I should stick together. 
 
-DAISY, happily. 
-Oh, I don’t care now. You may take me anywhere!
+DAISY, <i>happily:</i> Oh, I don’t care now. You may take me anywhere!
 
-WINTERBOURNE, aside. 
-Poor little thing! And I have got to disappoint her! 
-(Aloud.) I suppose I had better separate from you, then. 
+WINTERBOURNE, <i>aside:</i> 
+Poor little thing! And I have got to disappoint her! <i>(Aloud.)</i> I suppose I had better separate from you, then. 
 
-EUGENIO, arriving hastily. 
-Mr. Randolph has been found — by Mr. Reverdy! (To 
-Daisy.) If I leave your mother a moment, a misfortune is 
-sure to arrive. 
+EUGENIO, <i>arriving hastily:</i> Mr. Randolph has been found — by Mr. Reverdy! <i>(To 
+Daisy.)</i> If I leave your mother a moment, a misfortune is sure to arrive. 
 
-MRS. WALKER, aside. The misfortune, indeed, is his being found! (To Daisy.) 
+MRS. WALKER, <i>aside:</i> The misfortune, indeed, is his being found! <i>(To Daisy.)</i> 
 If you will join your mother, I will go back to my guests 
-(seeing Giovanelli) — whom Mr. Giovanelli has already deserted. 
+<i>(seeing Giovanelli)</i> — whom Mr. Giovanelli has already deserted. 
 
-GIOVANELLI, coming in. 
-Your guests have deserted me, Madame. They have left 
+GIOVANELLI, <i>coming in:</i> Your guests have deserted me, Madame. They have left 
 your house in a caravan, unable to support your absence. 
 
-MRS. WALKER, to Daisy. I have offended all my friends for you, my dear. You 
+MRS. WALKER, <i>to Daisy:</i> I have offended all my friends for you, my dear. You 
 ought to be grateful. 
 
-DAISY. The reason they left was not because you came away, but 
-because you didn’t bring me back. They wanted to glare 
-at me. 
+DAISY: The reason they left was not because you came away, but 
+because you didn’t bring me back. They wanted to glare at me. 
 
-GIOVANELLI, with a little laugh. 
-They glared at me a good deal! 
+GIOVANELLI, <i>with a little laugh:</i> They glared at me a good deal! 
 
-MRS. WALKER. I will admit that they don’t like you. (To Daisy.) Let me 
+MRS. WALKER: I will admit that they don’t like you. <i>(To Daisy.)</i> Let me 
 place you in your mother’s hands. 
 
-EUGENIO, with importance. I will take charge of my young lady, Madame. 
+EUGENIO, <i>with importance:</i> I will take charge of my young lady, Madame. 
 
-WINTERBOURNE, to Daisy. 
-Before you go, just let me say a word. 
+WINTERBOURNE, <i>to Daisy:</i> Before you go, just let me say a word. 
 
-DAISY. As many as you please — only you frighten me! 
+DAISY: As many as you please — only you frighten me! 
 
-WINTERBOURNE. I am rather frightened myself. I am very much afraid I 
-shall not be able to dine to-night. 
+WINTERBOURNE: I am rather frightened myself. I am very much afraid I shall not be able to dine to-night. 
 
-DAISY.
-Not be able - after your promise?
+DAISY: Not be able - after your promise?
 
-WINTERBOURNE. It’s very true I promised, and I am greatly ashamed.
+WINTERBOURNE: It’s very true I promised, and I am greatly ashamed.
 But a most unexpected obstacle has sprung up. I am
 obliged to take back my word - I am exceedingly sorry.
 
-MRS. WALKER, in a low voice to Winterbourne.
-Ah, my dear sir, you’re making a mess!
+MRS. WALKER, <i>in a low voice to Winterbourne:</i> Ah, my dear sir, you’re making a mess!
 
-DAISY.
-Your obstacle must have come very quickly.
+DAISY: Your obstacle must have come very quickly.
 
-WINTERBOURNE.
-Only five minutes ago.
+WINTERBOURNE: Only five minutes ago.
 
-EUGENIO, aside.
-The Katkoff’s as good as her word!
+EUGENIO, <i>aside:</i> The Katkoff’s as good as her word!
 
-DAISY, much agitated.
-Well, Mr. Winterbourne, I can only say I too am very 
-sorry.
+DAISY, <i>much agitated:</i> Well, Mr. Winterbourne, I can only say I too am very sorry.
 
-WINTERBOURNE.
-I will come the very first evening I am free.
+WINTERBOURNE: I will come the very first evening I am free.
 
-DAISY.
-I didn’t want the first evening; I wanted this one.
+DAISY: I didn’t want the first evening; I wanted this one.
 
-WINTERBOURNE.
-I beg you to forgive me. My own loss is greater than
-yours.
+WINTERBOURNE: I beg you to forgive me. My own loss is greater than yours.
 
-GIOVANELLI, aside. 
-My friend the courier is a clever man! 
+GIOVANELLI, <i>aside:</i> My friend the courier is a clever man! 
 
-DAISY, thoughtful a moment. 
-Well it’s no matter. 
+DAISY, <i>thoughtful a moment:</i> Well it’s no matter. 
 
-MRS. WALKER, to Eugenio.
-Please take her to her mother.
+MRS. WALKER, <i>to Eugenio:</i> Please take her to her mother.
 
-EUGENIO.
-I must act at my convenience, Madame! 
+EUGENIO: I must act at my convenience, Madame! 
 
-DAISY. I’m not going to my mother. Mr. Giovanelli! 
+DAISY: I’m not going to my mother. Mr. Giovanelli! 
 
-GIOVANELLI, with alacrity. 
-Signorina? 
+GIOVANELLI, <i>with alacrity:</i> Signorina? 
 
-DAISY. Please to give me your arm. We’ll go on with our walk. 
+DAISY: Please to give me your arm. We’ll go on with our walk. 
 
-MRS. WALKER, coming between the two. 
-Now don’t do anything dreadful! 
+MRS. WALKER, <i>coming between the two:</i> Now don’t do anything dreadful! 
 
-DAISY, to Giovanelli. 
-Give me your arm. (Giovanelli passes behind Mrs. Walker, and gives 
-Daisy his arm on the other side. She continues, with a sudden outbreak of passion.) 
-I see nothing dreadful but your cruel accusations! If you
-all attack me, I have a friend to defend me. 
+DAISY, <i>to Giovanelli:</i> Give me your arm. <i>(Giovanelli passes behind Mrs. Walker, and gives 
+Daisy his arm on the other side. She continues, with a sudden outbreak of passion.)</i> 
+I see nothing dreadful but your cruel accusations! If you all attack me, I have a friend to defend me. 
 
-GIOVANELLI. I will defend you always, Signorina! 
+GIOVANELLI: I will defend you always, Signorina! 
 
-MRS. WALKER. Are you going to take her to that drinking-shop? 
+MRS. WALKER: Are you going to take her to that drinking-shop? 
 
-DAISY. That’s our own affair. Come away, come away! 
+DAISY: That’s our own affair. Come away, come away! 
 
-WINTERBOURNE. I have done you a greater injury than I supposed. 
+WINTERBOURNE: I have done you a greater injury than I supposed. 
 
-DAISY. The injury was done when you spoke to me that way! 
+DAISY: The injury was done when you spoke to me that way! 
 
-WINTERBOURNE. When I spoke to you? I don’t understand. 
+WINTERBOURNE: When I spoke to you? I don’t understand. 
 
-DAISY. Half an hour ago, when you said I was so bad! 
+DAISY: Half an hour ago, when you said I was so bad! 
 
-GIOVANELLI. If people insult you, they will answer to me. 
+GIOVANELLI: If people insult you, they will answer to me. 
 
-WINTERBOURNE, to Giovanelli. Don’t be rash, sir! You will need all your caution. 
+WINTERBOURNE, <i>to Giovanelli:</i> Don’t be rash, sir! You will need all your caution. 
 
-MRS. WALKER. High words between gentlemen, to crown the horrors! 
-(To Eugenio.) Go straight and ask Mrs. Miller if she consents. 
+MRS. WALKER: High words between gentlemen, to crown the horrors! 
+<i>(To Eugenio.)</i> Go straight and ask Mrs. Miller if she consents. 
 
-EUGENIO, smiling. 
-Mrs. Miller consents to everything that I approve. 
+EUGENIO, <i>smiling:</i> Mrs. Miller consents to everything that I approve. 
 
-DAISY. 
-Come away, Mr. Giovanelli! 
+DAISY: Come away, Mr. Giovanelli! 
 
-GIOVANELLI, aside. I shall have to take a cab! (They walk up the stage.) 
+GIOVANELLI, <i>aside:</i> I shall have to take a cab! <i>(They walk up the stage.)</i> 
 
-MRS. WALKER. 
-Mercy on us! She is lost! 
+MRS. WALKER: Mercy on us! She is lost! 
 
-WINTERBOURNE, sternly. 
-Leave her alone. She only wants a pretext! 
+WINTERBOURNE, <i>sternly:</i> Leave her alone. She only wants a pretext! 
 
-DAISY, who has heard him, turning as she reaches the top of the stage, and 
-looking back a moment. 
+DAISY, <i>who has heard him, turning as she reaches the top of the stage, and 
+looking back a moment: Thank you, Mr. Winterbourne! <i>(She goes out with Giovanelli.)</i> 
 
-Thank you, Mr. Winterbourne (She goes out with Giovanelli.) 
+MRS. WALKER, <i>to Winterbourne:</i> Yes, my dear sir, you have done a pretty piece of work. 
 
-MRS. WALKER, to Winterbourne. 
-Yes, my dear sir, you have done a pretty piece of work. 
+EUGENIO, <i>with his hands in his pockets, as at the end of the first act, 
+watching the scene complacently:</i> My little revenge on the journey to the castle! 
 
-EUGENIO, with his hands in his pockets, as at the end of the first act, 
-watching the scene complacently. 
-
-My little revenge on the journey to the castle! 
-
-WINTERBOURNE, looking at his watch, to himself. 
-Well, I shall have that moonlight drive! 
+WINTERBOURNE, <i>looking at his watch, to himself:</i> Well, I shall have that moonlight drive! 
 
 ---
-
-ACT THIRD. 
+<a id="act-third" />
+<p align="center">ACT THIRD. 
 Rome. Public parlors at the Hotel de Paris; evening. Wide windows 
 at the back, overlooking the Corso, open upon a balcony, which must 
 be apparent, behind light curtains, to the audience. The Carnival is 
 going on outside, and the flare of torches, the sound of voices and of 
 music, the uproar of a popular festival, come into the room, rising 
-and falling at intervals during the whole act. 
+and falling at intervals during the whole act.</p> 
 
 SCENE FIRST. 
 MRS. COSTELLO, MISS DURANT, CHARLES REVERDY. 
@@ -5686,6 +5645,8 @@ WINTERBOURNE, laying his hand on Reverdy’s shoulder. We shall be married the
 not, Daisy — in America? 
 DAISY, who has risen to her feet, leaning on his arm. 
 Oh, yes; you ought to go home!
+
+---
 
 Copyright, 1883, 
 By Houghton, Mifflin and Company, and James R. Osgood and Company. 
