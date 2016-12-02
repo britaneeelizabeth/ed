@@ -4306,7 +4306,7 @@ GIOVANELLI, <i>kissing his hand to her:</i> You are awfully beautiful! <i>(Exit 
 DAISY, <i>alone:</i> I’m not afraid — I don’t care! I don’t like him to-night; he’s too serious. I would rather be out-of-doors with him than shut up here. Poor Giovanelli; if he thinks 
 I love him, after all I’ve said to the contrary...I can dress in three minutes. <i>(She is going to the door opposite to the one through which Giovanelli has made his exit when Madame de Katkoff comes in, meeting her.)</i> 
 
-<p align="center">SCENE FIFTH. Daisy, Madame de Katkoff. <i>They stand a moment, looking at each other.</i></p> 
+<p align="center">SCENE FIFTH. Daisy, Madame de Katkoff. <br><i>They stand a moment, looking at each other.</i></p> 
 
 MADAME DE KATKOFF, <i>very kindly:</i> I have not the pleasure of knowing you, though we have 
 spent half the winter in the same hotel; but I have heard of 
