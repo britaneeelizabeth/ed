@@ -4728,251 +4728,199 @@ his game.
 
 WINTERBOURNE: His game? What has he to do with a game? 
 
-MADAME DE KATKOFF. I don’t defend him: I explain. He has selected a hus- 
-band for his young lady, and your superior attractions had 
-somehow to be muffled up. You were to be kept out of the 
-way. 
+MADAME DE KATKOFF: I don’t defend him: I explain. He has selected a husband for his young lady, and your superior attractions had somehow to be muffled up. You were to be kept out of the way. 
 
-WINTERBOURNE, frowning. Because I love her? (Correcting himself.) I mean, because 
+WINTERBOURNE, <i>frowning:</i> Because I love her? <i>(Correcting himself.)</i> I mean, because 
 he thinks so. 
 
-MADAME DE KATKOFF, smiling. You see I am right! Because she loves you: he has 
+MADAME DE KATKOFF, <i>smiling:</i> You see I am right! Because she loves you: he has 
 discovered that! So he had the happy thought of saying to 
 me, “Keep Mr. Winterbourne employed, and if the young 
 lady marries my candidate you shall have your letter.” 
 
-WINTERBOURNE. 
-Your letter? What letter? 
+WINTERBOURNE: Your letter? What letter? 
 
-MADAME DE KATKOFF. A very silly — but very innocent — one that I wrote some
+MADAME DE KATKOFF: A very silly — but very innocent — one that I wrote some
 ten years ago.
 
-WINTERBOURNE. 
-Why didn’t you ask me to get it? 
+WINTERBOURNE: Why didn’t you ask me to get it? 
   
-MADAME DE KATKOFF. Because I didn’t want it enough for that; and now I
-don’t want it all.  
+MADAME DE KATKOFF: Because I didn’t want it enough for that; and now I don’t want it all.  
 
-WINTERBOURNE. 
-You shall have it — I promise you that. 
+WINTERBOURNE: You shall have it — I promise you that. 
 
-MADAME DE KATKOFF. You are very generous, after the trick I have played you. 
+MADAME DE KATKOFF: You are very generous, after the trick I have played you. 
 
-WINTERBOURNE. 
-The trick? Was it all a trick? 
+WINTERBOURNE: The trick? Was it all a trick? 
 
-MADAME DE KATKOFF. An infamous, pitiless trick! I was frightened, I was 
+MADAME DE KATKOFF: An infamous, pitiless trick! I was frightened, I was 
 tempted, I was demoralized; he had me in his power. To 
 be cruel to you was bad enough: to be cruel to her was a 
 crime I shall try to expiate! 
 
-WINTERBOURNE, seated, his head in his hands. 
-You will excuse me if I feel rather stunned. 
+WINTERBOURNE, <i>seated, his head in his hands:</i> You will excuse me if I feel rather stunned. 
 
-MADAME DE KATKOFF, sinking on her knees. I ask your forgiveness! I have been living in a bad 
-dream. 
+MADAME DE KATKOFF, <i>sinking on her knees:</i> I ask your forgiveness! I have been living in a bad dream. 
 
-WINTERBOURNE.
-Ah, you have hurt me - more than I can say! 
+WINTERBOURNE: Ah, you have hurt me - more than I can say! 
 
-MADAME DE KATKOFF, rising to her feet. Don’t think of yourself - think of her! If I had only 
+MADAME DE KATKOFF, <i>rising to her feet:</i> Don’t think of yourself - think of her! If I had only 
 met her before, how much sooner I should have done that! 
 We will go and find her together; we will bring her back: 
 we will nurse her and comfort her, and make her understand! 
 
-WINTERBOURNE. It’s all so extraordinary — and I have only your word 
-for it. 
+WINTERBOURNE: It’s all so extraordinary — and I have only your word for it. 
 
-MADAME DE KATKOFF'. See if she contradicts me when you tell her you love her! 
-You don’t venture to deny that. 
+MADAME DE KATKOFF: See if she contradicts me when you tell her you love her! You don’t venture to deny that. 
 
-WINTERBOURNE. 
-I have denied it to myself: why shouldn’t I deny it to 
-you? 
+WINTERBOURNE: I have denied it to myself: why shouldn’t I deny it to you? 
 
-MADAME DE KATKOFF. You have denied it to yourself? Who, then, had charged 
-you with it? 
+MADAME DE KATKOFF: You have denied it to yourself? Who, then, had charged you with it? 
 
-WINTERBOURNE. You are not consistent, but you are perhaps more con- 
-sistent than I. And you are very deep!
+WINTERBOURNE: You are not consistent, but you are perhaps more consistent than I. And you are very deep!
 
-MADAME DE KATKOFF. I am deep enough to be very sure that from this moment 
+MADAME DE KATKOFF: I am deep enough to be very sure that from this moment 
 forward I shall be nothing to you. If I have cured you of 
 a baseless passion, that at least is a good work. Venture to 
 say that for these three weeks I have satisfied you. 
 
-WINTERBOURNE, turning away. 
-You are pitiless - you are terrible! 
+WINTERBOURNE, <i>turning away:</i> You are pitiless - you are terrible! 
 
-MADAME DE KATKOFF, looking at him a moment. My vanity bleeds: be that my penance! Don’t lose 
+MADAME DE KATKOFF, <i>looking at him a moment:</i> My vanity bleeds: be that my penance! Don’t lose 
 time. Go to her now. 
  
-WINTERBOURNE, in thought, gloomily. 
-Dying? — Dying? — Dying? 
+WINTERBOURNE, <i>in thought, gloomily:</i> Dying? — Dying? — Dying? 
 
-MADAME DE KATKOFF. 
-That was a little for the sake of argument. She will live 
-again — for you! 
-WINTERBOURNE, in the same tone. 
-Gone out with that man? Always with him! 
+MADAME DE KATKOFF: That was a little for the sake of argument. She will live again — for you!
 
-MADAME DE KATKOFF. My dear friend, she has her little pride, as well as you 
+WINTERBOURNE, <i>in the same tone:</i> Gone out with that man? Always with him! 
+
+MADAME DE KATKOFF: My dear friend, she has her little pride, as well as you 
 She pretends to flirt with Giovanelli because her poor, 
 swollen heart whispers to her to be brave! 
 
-WINTERBOURNE, uncertain. 
-Pretends - only pretends? 
+WINTERBOURNE, <i>uncertain:</i> Pretends - only pretends? 
 
-MADAME DE KATKOFF, impatient. Oh, you have been stupid; but be clever now! 
+MADAME DE KATKOFF, <i>impatient:</i> Oh, you have been stupid; but be clever now! 
 
-WINTERBOURNE, after a pause. How am I to know that this is not another trick? 
+WINTERBOURNE, <i>after a pause:</i> How am I to know that this is not another trick? 
 
-MADAME DE KATKOFF, clasping her hands, but smiling. 
-Have mercy on me! Those words are my punishment! 
+MADAME DE KATKOFF, <i>clasping her hands, but smiling:</i> Have mercy on me! Those words are my punishment! 
 
-WINTERBOURNE. I have been an idiot — I have been a brute — I have been 
-a butcher! 
+WINTERBOURNE: I have been an idiot — I have been a brute — I have been a butcher! 
 
-MADAME DE KATKOFF. Perhaps she has come back. For God’s sake, go and see! 
+MADAME DE KATKOFF: Perhaps she has come back. For God’s sake, go and see! 
 
-WINTERBOURNE. And if she is still out there? I can’t talk of these things 
-in the street. 
+WINTERBOURNE: And if she is still out there? I can’t talk of these things in the street. 
 
-MADAME DE KATKOFF. Bring her home, bring her home! Every moment’s a 
-danger. I offered to go with you; but you would rather go 
-alone. 
+MADAME DE KATKOFF: Bring her home, bring her home! Every moment’s a 
+danger. I offered to go with you; but you would rather go alone. 
 
-WINTERBOURNE, takes up his hat. Yes, I would rather go alone. You have hurt me very 
+WINTERBOURNE, <i>takes up his hat:</i> Yes, I would rather go alone. You have hurt me very 
 much; but you shall have your letter.
 
-MADAME DE KATKOFF. I don’t care for my letter now. There’s such a weight 
-off my heart that I don’t feel that one. (She leaves the room by 
+MADAME DE KATKOFF: I don’t care for my letter now. There’s such a weight 
+off my heart that I don’t feel that one. <i>(She leaves the room by 
 the right, and Winterbourne is on the point of quitting it on the other side, when 
-Mrs. Walker, Miss Durant, and Charles Reverdy come in, meeting him.)
+Mrs. Walker, Miss Durant, and Charles Reverdy come in, meeting him.)</i>
 
-SCENE SEVENTH. 
-WINTERBOURNE, MRS. WALKER, MISS DURANT, REVERDY. 
+<p align="center">SCENE SEVENTH. Winterbourne, Mrs. Walker, Miss Durant, Reverdy.</p> 
 
-MRS. WALKER. Pray, where is your aunt, Mr. Winterbourne? I have 
+MRS. WALKER: Pray, where is your aunt, Mr. Winterbourne? I have 
 brought her back her truants. 
 
-WINTERBOURNE. 
-She has retired to her room, to nurse a headache produced 
+WINTERBOURNE: She has retired to her room, to nurse a headache produced 
 by the sudden collapse of her illusions. 
 
-MISS DURANT. I thought she would be rather shocked; but Mr. Reverdy 
-assured me that in the Carnival all common laws are sus- 
-pended. 
+MISS DURANT: I thought she would be rather shocked; but Mr. Reverdy 
+assured me that in the Carnival all common laws are suspended. 
 
-REVERDY. So we thought the law that governs Mrs. Costello’s head- 
-aches might conform to the others. 
+REVERDY: So we thought the law that governs Mrs. Costello’s headaches might conform to the others. 
 
-WINTERBOURNE. 
-What did you think about the law that governs her 
-temper?  
-REVERDY. 
-Nothing at all, because, so far as I have ascertained, 
-there isn’t any! 
+WINTERBOURNE: What did you think about the law that governs her temper? 
 
-MRS. WALKER, to Winterbourne. They were jostling along, arm in arm, in the midst of the 
+REVERDY: Nothing at all, because, so far as I have ascertained, there isn’t any! 
+
+MRS. WALKER, <i>to Winterbourne:</i> They were jostling along, arm in arm, in the midst of the 
 excited populace. I saw them from my carriage, and, having 
 the Consul with me, I immediately overhauled them. The 
 young lady had a wonderful disguise, but I recognized her 
 from Mr. Reverdy’s manner. 
 
-MISS DURANT. 
-There, sir, I told you you had too much! 
+MISS DURANT: There, sir, I told you you had too much! 
 
-REVERDY, aside. One needs a good deal, when one’s about to make an offer 
-of one’s heart. (Aloud.) It takes a vast deal of manner to 
-carry off a tin trumpet! (Winterbourne has listened to this absently; 
-he appears restless and preoccupied; walks up, and goes out upon the balcony.) 
+REVERDY, <i>aside:</i> One needs a good deal, when one’s about to make an offer 
+of one’s heart. <i>(Aloud.)</i> It takes a vast deal of manner to 
+carry off a tin trumpet! <i>(Winterbourne has listened to this absently; 
+he appears restless and preoccupied; walks up, and goes out upon the balcony.)</i> 
 
-MRS. WALKER, noticing Winterbourne. 
-What’s the matter with him? — All I can say is that in 
+MRS. WALKER, <i>noticing Winterbourne:</i> What’s the matter with him? — All I can say is that in 
 my representative position I thought I must interfere. 
 
-REVERDY, aside. 
-The wife of the Consul again? Our consuls ought to be 
+REVERDY, <i>aside:</i> The wife of the Consul again? Our consuls ought to be 
 bachelors! 
 
-MRS. WALKER. You were dragging her along, with your arm placed as if 
+MRS. WALKER: You were dragging her along, with your arm placed as if 
 you were waltzing. 
 
-REVERDY. That’s very true; we were just trying a few rounds. 
+REVERDY: That’s very true; we were just trying a few rounds. 
 
-MRS. WALKER. In that dense mass of people, where you were packed like 
+MRS. WALKER: In that dense mass of people, where you were packed like 
 sardines?
 
-REVERDY. We were all turning together; it was all one waltz! 
+REVERDY: We were all turning together; it was all one waltz! 
 
-MRS. WALKER, to Miss Durant. Mrs. Costello, my dear, will make you dance in earnest! 
+MRS. WALKER, <i>to Miss Durant:</i> Mrs. Costello, my dear, will make you dance in earnest! 
  
-MISS DURANT. 
-I don’t care for Mrs. Costello now! 
+MISS DURANT: I don’t care for Mrs. Costello now! 
 
-REVERDY. Let me thank you for those noble words. (Aside.) You
+REVERDY: Let me thank you for those noble words. <i>(Aside.)</i> You
 understood, then? 
 
-MISS DURANT, ingenuous. 
-Understood what ? 
+MISS DURANT, <i>ingenuous:</i> Understood what? 
 
-REVERDY. What I was saying when she came down on us. 
+REVERDY: What I was saying when she came down on us. 
 
-MISS DURANT. 
-Oh yes, as far as you had gone! 
+MISS DURANT: Oh yes, as far as you had gone! 
 
-REVERDY. 
-I must go a little farther. 
+REVERDY: I must go a little farther. 
 
-MRS. WALKER, who has gone up to Winterbourne, and comes down with him. 
-You may be interested to hear that I saw our little friend 
-in the crowd. 
+MRS. WALKER, <i>who has gone up to Winterbourne, and comes down with him:</i> 
+You may be interested to hear that I saw our little friend in the crowd. 
 
-WINTERBOURNE.
-Our little friend?
+WINTERBOURNE: Our little friend?
 
-MRS. WALKER. 
-Whom we tried to save from drowning. I didn’t try 
+MRS. WALKER: Whom we tried to save from drowning. I didn’t try 
 this time. 
 
-WINTERBOURNE. 
-In the crowd, on foot? 
+WINTERBOURNE: In the crowd, on foot? 
 
-MRS. WALKER. In the thickest and roughest part of it, on Giovanelli’s 
+MRS. WALKER: In the thickest and roughest part of it, on Giovanelli’s 
 arm. The crush was so dense, it was enough to kill her. 
 
-MISS DURANT. 
-They are very good-natured, but you do suffocate! 
+MISS DURANT: They are very good-natured, but you do suffocate! 
 
-MRS. WALKER. 
-She’ll suffocate easily, in her weak state. 
+MRS. WALKER: She’ll suffocate easily, in her weak state. 
 
-WINTERBOURNE. 
-Oh, I can’t stand this! Excuse me. (Exit Winterbourne.) 
+WINTERBOURNE: Oh, I can’t stand this! Excuse me. <i>(Exit Winterbourne.)</i> 
  
-MRS. WALKER.
-What’s the matter with him, I should like to know?
+MRS. WALKER: What’s the matter with him, I should like to know?
 
-MISS DURANT.
-He has been like that these three weeks, rushing in and 
+MISS DURANT: He has been like that these three weeks, rushing in and 
 out - always in a fidget.
 
-REVERDY, to Mrs. Walker
-He’s in love with Miss Durant, and he can’t stand the
+REVERDY, <i>to Mrs. Walker:</i> He’s in love with Miss Durant, and he can’t stand the
 spectacle of our mutual attachment.
 
-MISS DURANT, gayly.
-You horrid vain creature! If that’s all that troubles
+MISS DURANT, <i>gayly:</i> You horrid vain creature! If that’s all that troubles
 him!
 
-REVERDY, aside.
-She’ll accept me! (Aloud.) Courage - the old lady!
-(Enter Mrs. Costello.)
+REVERDY, <i>aside:</i> She’ll accept me! <i>(Aloud.)</i> Courage - the old lady!
+<i>(Enter Mrs. Costello.)</i>
 
-SCENE EIGHTH.  MRS. WALKER, MISS DURANT, REVERDY, MRS. COSTELLO; 
-THEN DAISY,  WINTERBOURNE, GIOVANELLI, MADAME 
-DE KATKOFF. 
+<p align="center">SCENE EIGHTH. Mrs. Walker, Miss Durant, Reverdy, Mrs. Costello;<br> 
+then Daisy,  Winterbourne, Giovanelli, Madame de Katkoff.</p> 
+
 
 MRS. COSTELLO. (She stops a moment, looking sternly from Miss Durant to 
 Reverdy.)  Alice Durant, have you forgotten your education? 
