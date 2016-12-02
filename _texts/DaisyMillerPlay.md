@@ -4165,7 +4165,7 @@ bribed that monster to kiss his hand? <i>(Exeunt.)</i>
 <p align="center">SCENE FOURTH. Giovanelli, Daisy.<br> 
 <i>He enters the room, and she comes in from the balcony at the same 
 moment. He advances with a radiant smile, takes both of her hands, 
-holds them for a moment devotedly, then kisses each of them.</i></p> 
+holds them for a moment devotedly, then kisses each of them.</i></p><br>
 
 GIOVANELLI: Carissima signorina! When I see you restored to health, I begin to live myself! 
 
