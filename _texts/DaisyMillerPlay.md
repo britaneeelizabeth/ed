@@ -4457,7 +4457,7 @@ is odiously false! And to think I hold her happiness in my
 hands! <i>(Winterbourne comes in.)</i> His, too, poor fellow! Ah, I 
 can’t hold it any longer! 
 
-<p align="center">SCENE SIXTH. Madame de Katkoff, Winterbourne.</p> 
+<p align="center">SCENE SIXTH. Madame de Katkoff, Winterbourne.</p><br> 
 
 WINTERBOURNE: I am afraid I have kept you waiting. I was carried away by my aunt. 
 
