@@ -4922,238 +4922,173 @@ REVERDY, <i>aside:</i> She’ll accept me! <i>(Aloud.)</i> Courage - the old lad
 then Daisy,  Winterbourne, Giovanelli, Madame de Katkoff.</p> 
 
 
-MRS. COSTELLO. (She stops a moment, looking sternly from Miss Durant to 
-Reverdy.)  Alice Durant, have you forgotten your education? 
+MRS. COSTELLO: <i>(She stops a moment, looking sternly from Miss Durant to 
+Reverdy.)</i> Alice Durant, have you forgotten your education? 
 
-MISS DURANT. 
-Dear Cousin Louisa, my education made no provision for 
-the Carnival! 
+MISS DURANT: Dear Cousin Louisa, my education made no provision for the Carnival! 
 
-REVERDY. That’s not in the regular course; it’s one of the extras. 
+REVERDY: That’s not in the regular course; it’s one of the extras. 
 
-MISS DURANT.
-I was just coming to your room, to tell you we had come
-back. 
+MISS DURANT: I was just coming to your room, to tell you we had come back. 
  
-MRS. COSTELLO. I have passed an hour there, in horrible torture. I could 
-stand it no longer: I came to see if, for very shame, you 
-hadn’t reappeared. 
+MRS. COSTELLO: I have passed an hour there, in horrible torture. I could 
+stand it no longer: I came to see if, for very shame, you hadn’t reappeared. 
 
-MRS. WALKER. The Consul and I picked them up, and made them get 
-into our carriage. So you see it was not for shame! 
+MRS. WALKER: The Consul and I picked them up, and made them get into our carriage. So you see it was not for shame! 
 
-REVERDY. It wasn’t for ours, at least; it was for yours. 
+REVERDY: It wasn’t for ours, at least; it was for yours. 
 
-MRS. COSTELLO, with majesty, to Miss Durant. 
-We shall start for America to-morrow. 
+MRS. COSTELLO, <i>with majesty, to Miss Durant:</i> We shall start for America to-morrow. 
 
-MISS DURANT. I am delighted to hear it. There, at least, we can walk 
-about. 
+MISS DURANT: I am delighted to hear it. There, at least, we can walk about. 
 
-MRS. COSTELLO. 
-Ah, but you will find no Carnival! 
+MRS. COSTELLO: Ah, but you will find no Carnival! 
 
-REVERDY. My dear Madam, we shall make our own. 
+REVERDY: My dear Madam, we shall make our own. 
 
-MRS. COSTELLO, aside to Miss Durant. 
-This time, it’s to be hoped, he has done it? 
+MRS. COSTELLO, <i>aside to Miss Durant:</i> This time, it’s to be hoped, he has done it? 
 
-MISS DURANT, blushing and looking down. He was on the very point, when Mrs. Walker interrupted. 
+MISS DURANT, <i>blushing and looking down:</i> He was on the very point, when Mrs. Walker interrupted. 
 
-MRS. COSTELLO. I declare, it’s beyond a joke — to take you back just as I
-brought you. 
+MRS. COSTELLO: I declare, it’s beyond a joke — to take you back just as I brought you. 
  
-MISS DURANT. It’s very tiresome; but it’s not my fault. 
+MISS DURANT: It’s very tiresome; but it’s not my fault. 
 
-REVERDY, who has been talking to Mrs. Walker 
-Miss Alice, shall we try the balcony again ? 
+REVERDY, <i>who has been talking to Mrs. Walker:</i> Miss Alice, shall we try the balcony again? 
 
-MRS. COSTELLO. It’s past midnight, if you please; time for us all to retire. 
+MRS. COSTELLO: It’s past midnight, if you please; time for us all to retire. 
 
-REVERDY. That's just what I propose: to retire to the balcony!
+REVERDY: That's just what I propose: to retire to the balcony!
 
-MISS DURANT, to Mrs. Costello. 
-Just occupy Mrs. Walker! 
+MISS DURANT, <i>to Mrs. Costello:</i> Just occupy Mrs. Walker! 
 
-REVERDY, to Mrs. Walker. 
-Just keep hold of Mrs. Costello! (Offers his arm to Miss Durant, 
-and leads her to the balcony.) 
+REVERDY, <i>to Mrs. Walker:</i> Just keep hold of Mrs. Costello! <i>(Offers his arm to Miss Durant, 
+and leads her to the balcony.)</i> 
 
-MRS. WALKER, looking after them. I must wait till the Consul comes. My dear friend, I 
+MRS. WALKER, <i>looking after them:</i> I must wait till the Consul comes. My dear friend, I 
 hope those young people are engaged. 
 
-MRS. COSTELLO, with asperity. 
-They might be, if it hadn’t been for you! 
+MRS. COSTELLO, <i>with asperity:</i> They might be, if it hadn’t been for you! 
 
-MRS. WALKER, surprised. 
-Pray, how have I prevented?… 
+MRS. WALKER, <i>surprised:</i> Pray, how have I prevented?...
 
-MRS. COSTELLO. You interrupted Mr. Reverdy, just now, in the very 
-middle…
+MRS. COSTELLO: You interrupted Mr. Reverdy, just now, in the very middle...
 
-MRS. WALKER. The middle of a declaration? I thought it was a jig! 
-(As the door of the room is flung open.) Bless my soul! What’s this? 
-(Enter rapidly Winterbourne, carrying Daisy, in a swoon, in his arms, and followed 
+MRS. WALKER: The middle of a declaration? I thought it was a jig! 
+<i>(As the door of the room is flung open.)</i> Bless my soul! What’s this? 
+<i>(Enter rapidly Winterbourne, carrying Daisy, in a swoon, in his arms, and followed 
 by Giovannelli, who looks both extremely alarmed and extremely indignant. At the 
-some moment Madame de Katkoff enters from the opposite side.) 
+some moment Madame de Katkoff enters from the opposite side.)</i> 
 
-MADAME DE KATKOFF, with a cry. 
-Ah, it’s all over! She is gone! 
+MADAME DE KATKOFF, <i>with a cry:</i> Ah, it’s all over! She is gone! 
 
-WINTERBOURNE. 
-A chair! A chair! Heaven forgive us, she is dying! 
-(Giovanelli has quickly pushed forward a large arm-chair, in which Winterbourne 
+WINTERBOURNE: A chair! A chair! Heaven forgive us, she is dying! 
+<i>(Giovanelli has quickly pushed forward a large arm-chair, in which Winterbourne 
 places Daisy with great tenderness. She lies there motionless and unconscious. 
-The others gather round. Miss Durant and Reverdy come in from the balcony.) 
+The others gather round. Miss Durant and Reverdy come in from the balcony.)</i> 
 
-MRS. COSTELLO, seeing the two last. 
-Ah, they’re interrupted again! 
+MRS. COSTELLO, <i>seeing the two last:</i> Ah, they’re interrupted again! 
 
-MRS. WALKER. 
-This time, she’s really drowned! 
+MRS. WALKER: This time, she’s really drowned! 
 
-GIOVANELLI, much agitated, but smiling to Mrs. Costello and Mrs. Walker. 
-It will pass in a moment. It is only the effect of the 
-crowd — the pressure of the mob! 
+GIOVANELLI, <i>much agitated, but smiling to Mrs. Costello and Mrs. Walker:</i> It will pass in a moment. It is only the effect of the crowd — the pressure of the mob! 
 
-WINTERBOURNE, beside Daisy, with passionate tenderness. It will pass — because she’s passing! Dead - dead - 
+WINTERBOURNE, <i>beside Daisy, with passionate tenderness:</i> It will pass — because she’s passing! Dead - dead - 
 in my arms! 
 
-MRS. COSTELLO, harshly. 
-A pretty place for her to be! She’ll come to life again: 
+MRS. COSTELLO, <i>harshly:</i> A pretty place for her to be! She’ll come to life again: 
 they don’t die like that. 
 
-MRS. WALKER, indignant, to Giovanelli. 
-The pressure of the mob? A proper pressure — for a 
-little Flower! 
-GIOVANELLI, bewildered and apologetic. 
-She was so lovely that they all made way; but just near 
+MRS. WALKER, <i>indignant, to Giovanelli:</i> The pressure of the mob? A proper pressure — for a 
+little Flower!
+
+GIOVANELLI, <i>bewildered and apologetic:</i> She was so lovely that they all made way; but just near 
 the hotel we encountered one of those enormous cars, laden 
 with musicians and maskers. The crowd was driven back, 
 and we were hustled and smothered. She gave a little cry, 
 and before I knew it she had fainted. The next moment 
-this gentleman — by I know not what warrant - had taken 
-her in his arms. 
+this gentleman — by I know not what warrant - had taken her in his arms. 
 
-WINTERBOURNE. 
-By the warrant of being her countryman! Instead of 
+WINTERBOURNE: By the warrant of being her countryman! Instead of 
 entertaining those ladies, you had better go for a doctor. 
 
-GIOVANELLI. They have sent from the hotel. Half a dozen messengers 
-started. 
+GIOVANELLI: They have sent from the hotel. Half a dozen messengers started. 
 
-REVERDY. Half a dozen is no one at all! I will go and bring one 
-myself — in five minutes. 
+REVERDY: Half a dozen is no one at all! I will go and bring one myself — in five minutes. 
 
-MISS DURANT.
-Go, go, my dear! I give you leave. (Reverdy hurries out.)
+MISS DURANT: Go, go, my dear! I give you leave. <i>(Reverdy hurries out.)</i>
 
-MRS. COSTELLO, to Miss Durant.
-“My dear, my dear”? Has he done it, then?
+MRS. COSTELLO, <i>to Miss Durant:</i> “My dear, my dear”? Has he done it, then?
 
-MISS DURANT.
-Oh yes, we just managed it. (Looking at Daisy.) Poor little
-thing!
+MISS DURANT: Oh yes, we just managed it. <i>(Looking at Daisy.)</i> Poor little thing!
 
-MRS. COSTELLO.
-Ah, she hasn’t a husband!
+MRS. COSTELLO: Ah, she hasn’t a husband!
 
-WINTERBOURNE, angry, desperate, to the others.
-Can’t you do something? Can’t you speak to her? -
-can’t you help her?
+WINTERBOURNE, <i>angry, desperate, to the others:</i> Can’t you do something? Can’t you speak to her? - can’t you help her?
 
-MRS. WALKER
-I will do anything in the world! I will go for the
-Consul. (She hurries away on the right.)
+MRS. WALKER: I will do anything in the world! I will go for the Consul. <i>(She hurries away on the right.)</i>
 
-MRS. COSTELLO.
-I have something in my room - a precious elixir, that I 
-use for my headaches. (To Miss Durant.) But I’ll not leave you!
+MRS. COSTELLO: I have something in my room - a precious elixir, that I 
+use for my headaches. <i>(To Miss Durant.)</i> But I’ll not leave you!
 
-MISS DURANT.
-Not even now?
+MISS DURANT: Not even now?
 
-MRS. COSTELLO.
-Not till you are married! (They depart on the left.)
+MRS. COSTELLO: Not till you are married! <i>(They depart on the left.)</i>
 
-WINTERBOURNE, holding Daisy’s hands and looking into her face.
-Daisy! - Daisy! - Daisy!
+WINTERBOURNE, <i>holding Daisy’s hands and looking into her face:</i> Daisy! - Daisy! - Daisy!
 
-MADAME DE KATKOFF, who all this time has been kneeling on the other
-side of her, her face buried on the arm of the chair, in the attitude of a per-
-son weeping.
+MADAME DE KATKOFF, <i>who all this time has been kneeling on the other
+side of her, her face buried on the arm of the chair, in the attitude of a person weeping:</i> If she can hear that, my friend, she’s saved! <i>(To Daisy, appealing.)</i> My child, my child, we have wronged you, but we love you!
 
-If she can hear that, my friend, she’s saved! (To Daisy,
-appealing.) My child, my child, we have wronged you, but 
-we love you!
+WINTERBOURNE, <i>in the same manner:</i> Daisy, my dearest, my darling! Wake a moment, if only to forgive me!
 
-WINTERBOURNE, in the same manner.
-Daisy, my dearest, my darling! Wake a moment, if only
-to forgive me!
+MADAME DE KATKOFF: She moves a little! <i>(Aside, rising to her feet.)</i> He never spoke so to me!
 
-MADAME DE KATKOFF. She moves a little! (Aside, rising to her feet.) He never 
-spoke so to me! 
-GIOVANELLI, a little apart, looking round him. 
-Where is he, where is he — that ruffian Eugenio? 
+GIOVANELLI, <i>a little apart, looking round him:</i> Where is he, where is he — that ruffian Eugenio? 
 
-WINTERBOURNE. In the name of pity, has no one gone for her mother? 
-(To Giovanelli.) Don’t stand there, sir! Go for her mother! 
+WINTERBOURNE: In the name of pity, has no one gone for her mother? <i>(To Giovanelli.)</i> Don’t stand there, sir! Go for her mother! 
 
-GIOVANELLI, angrily. Give your commands to some one else! It is not for me 
-to do your errands. 
-MADAME DE KATKOFF, going to him pleadingly. 
-Haven’t you common compassion? Do you want to see 
-the child die? 
+GIOVANELLI, <i>angrily:</i> Give your commands to some one else! It is not for me to do your errands.
 
-GIOVANELLI, folding his arms. I would rather see her die than live to be his! 
+MADAME DE KATKOFF, <i>going to him pleadingly:</i> Haven’t you common compassion? Do you want to see the child die? 
 
-WINTERBOURNE. There is little hope of her being mine. I have insulted 
-- I have defamed — her innocence! 
+GIOVANELLI, <i>folding his arms:</i> I would rather see her die than live to be his! 
 
-GIOVANELLI. Ay, speak of her innocence! Her innocence was divine! 
+WINTERBOURNE: There is little hope of her being mine. I have insulted - I have defamed — her innocence! 
 
-DAISY, stirring and murmuring. 
-Mother! Mother! 
+GIOVANELLI: Ay, speak of her innocence! Her innocence was divine! 
 
-WINTERBOURNE. She lives, she lives, and she shall choose between us! 
+DAISY, <i>stirring and murmuring:</i> Mother! Mother! 
 
-GIOVANELLI. 
-Ah, when I hear her voice, I obey! (Exit.) 
+WINTERBOURNE: She lives, she lives, and she shall choose between us! 
 
-DAISY, slowly opening her eyes. 
-Where am I? Where have I been? 
+GIOVANELLI: Ah, when I hear her voice, I obey! <i>(Exit.)</i> 
 
-MADAME DE KATKOFF. 
-She’s saved! She’s saved!
+DAISY, <i>slowly opening her eyes:</i> Where am I? Where have I been? 
+
+MADAME DE KATKOFF: She’s saved! She’s saved!
  
-WINTERBOURNE. You are with me, little Daisy. With me forever! 
+WINTERBOURNE: You are with me, little Daisy. With me forever! 
 
-MADAME DE KATKOFF. Ah, decidedly I had better leave you! (Goes out to the balcony.) 
+MADAME DE KATKOFF: Ah, decidedly I had better leave you! <i>(Goes out to the balcony.)</i> 
 
-DAISY, looking at Winterbourne. With you? With you? What has happened? 
+DAISY, <i>looking at Winterbourne:</i> With you? With you? What has happened? 
 
-WINTERBOURNE, still on his knees beside her. 
-Something very blessed. I understand you — I love you! 
+WINTERBOURNE, <i>still on his knees beside her:</i> Something very blessed. I understand you — I love you! 
 
-DAISY, gazing at him a moment. 
-Oh, I'm very happy! (Sinks back again, closing her eyes.) 
+DAISY, <i>gazing at him a moment:</i> Oh, I'm very happy! <i>(Sinks back again, closing her eyes.)</i> 
 
-WINTERBOURNE. We shall be happy together when you have told me you 
-forgive me. Let me hear you say it — only three words! 
-(He waits. Sho remains silent.) Ah, she sinks away again!
-Daisy, won't you live - won't you live for me? 
+WINTERBOURNE: We shall be happy together when you have told me you forgive me. Let me hear you say it — only three words! 
+<i>(He waits. Sho remains silent.)</i> Ah, she sinks away again! Daisy, won't you live - won't you live for me? 
 
-DAISY, murmuring. It was all for you - it was all for you! 
+DAISY, <i>murmuring:</i> It was all for you - it was all for you! 
 
-WINTERBOURNE, burying his head in her lap. 
-Vile idiot! Impenetrable fool! 
-DAISY, with her eyes still closed. 
-I shall be better — but you mustn't leave me. 
+WINTERBOURNE, <i>burying his head in her lap:</i> Vile idiot! Impenetrable fool!
 
-WINTERBOURNE. 
-Never again, Daisy — never again! (At this moment Eugenio 
-strides into the room by the door opposite to the one through which Giovanelli 
-has gone out.) 
+DAISY, <i>with her eyes still closed:</i> I shall be better — but you mustn't leave me. 
+
+WINTERBOURNE: Never again, Daisy — never again! <i>(At this moment Eugenio 
+strides into the room by the door opposite to the one through which Giovanelli has gone out.)</i> 
 
 SCENE NINTH. 
 WINTERBOURNE, DAISY, EUGENIO, MADAME DE KAT- 
