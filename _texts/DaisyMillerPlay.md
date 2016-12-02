@@ -3779,229 +3779,178 @@ Costello on the balcony, Reverdy holding the mask behind him. While they
 remain there, apparently absorbed in the spectacle in the street, Eugenio and Giovanelli come in.)</i> 
 
 
-SCENE SECOND. 
-EUGENIO, GIOVANELLI; THEN REVERDY, MISS DURANT. 
+<p align="center">SCENE SECOND. Eugenio, Giovanelli; then Reverdy, Miss Durant.</p> 
 
-EUGENIO. You must come in here; we can’t talk in the hall. 
+EUGENIO: You must come in here; we can’t talk in the hall. 
 
-GIOVANELLI, with a bouquet of flowers. I have come for news of the dear young lady. I’m ter- 
-ribly nervous. 
+GIOVANELLI, <i>with a bouquet of flowers:</i> I have come for news of the dear young lady. I’m terribly nervous. 
 
-EUGENIO. You think you may lose her? It would serve you right! 
+EUGENIO: You think you may lose her? It would serve you right! 
 
-GIOVANELLI. If I lose her I shall never try again. I am passionately in 
-love with her. 
+GIOVANELLI: If I lose her I shall never try again. I am passionately in love with her. 
 
-EUGENIO. I hope so, indeed! That was part of our agreement. 
+EUGENIO: I hope so, indeed! That was part of our agreement. 
 
-GIOVANELLI. If you begin to joke, I see she’s better. 
+GIOVANELLI: If you begin to joke, I see she’s better. 
 
-EUGENIO. If I begin to joke? I’m as serious as you. If she ’s 
-better it’s no thanks to you — doing your best to kill her 
-on my hands. 
+EUGENIO: If I begin to joke? I’m as serious as you. If she ’s 
+better it’s no thanks to you — doing your best to kill her on my hands. 
 
-GIOVANELLI. It was no fault of mine. She had her own way. 
+GIOVANELLI: It was no fault of mine. She had her own way. 
 
-EUGENIO. The Coliseum by moonlight — that was a lovely inven- 
-tion! Why didn’t you jump into the Tiber at once? 
+EUGENIO: The Coliseum by moonlight — that was a lovely invention! Why didn’t you jump into the Tiber at once? 
 
-GIOVANELLI. We are not the first who have been there. It’s a very 
-common excursion. 
-EUGENIO.
-By daylight, of course; but not when the miasma rises.  
+GIOVANELLI: We are not the first who have been there. It’s a very common excursion.
 
-GIOV’ANELLI. Excuse me: it is recommended in the guide-books. 
+EUGENIO: By daylight, of course; but not when the miasma rises.  
+
+GIOVANELLI: Excuse me: it is recommended in the guide-books. 
  
-EUGENIO. Do you make love according to Murray? — or, perhaps, 
+EUGENIO: Do you make love according to Murray? — or, perhaps, 
 according to Baedeker? I myself have conducted families 
 there, to admire the general effect; but not to spend the 
 evening. 
 
-GIOVANELLI. I was afraid for myself, Heaven knows! 
+GIOVANELLI: I was afraid for myself, Heaven knows! 
 
-EUGENIO. “Afraid for yourself” is good — with an American 
-heiress beside you! 
+EUGENIO: “Afraid for yourself” is good — with an American heiress beside you! 
 
-GIOVANELLI. I couldn’t induce her to come away, the moon was so 
-bright and beautiful! And then you wanted her to be 
+GIOVANELLI: I couldn’t induce her to come away, the moon was so bright and beautiful! And then you wanted her to be 
 talked about. 
 
-EUGENIO. Yes: but I wanted you to take her alive. She’s talked 
-about enough to-day. It was only a week ago, but the 
-whole town knows it. 
+EUGENIO: Yes: but I wanted you to take her alive. She’s talked 
+about enough to-day. It was only a week ago, but the whole town knows it. 
 
-GIOVANELLI. Per Bacco! That solemn fool of a Winterbourne has 
-spread the story. 
+GIOVANELLI: Per Bacco! That solemn fool of a Winterbourne has spread the story. 
 
-EUGENIO. The further the better! But I thought I had given him 
-something else to do. 
+EUGENIO: The further the better! But I thought I had given him something else to do. 
 
-GIOVANELLI. I don’t know what you had given him to do; but, as luck 
-would have it, he turned up at the Coliseum. He came 
-upon us suddenly, and stood there staring. Then he took 
-off his hat to my companion, and made her the lowest of 
-bows. 
+GIOVANELLI: I don’t know what you had given him to do; but, as luck would have it, he turned up at the Coliseum. He came 
+upon us suddenly, and stood there staring. Then he took off his hat to my companion, and made her the lowest of bows. 
 
-EUGENIO.
-Without a word? 
+EUGENIO: Without a word? 
 
-GIOVANELLI. 
-Without a word. He turned his back and walked off.
+GIOVANELLI: Without a word. He turned his back and walked off.
  
-EUGENIO. Stupid ass! But it is all right: he has given her up. 
+EUGENIO: Stupid ass! But it is all right: he has given her up. 
 
-GIOVANELLI. He gave her up that day on the Pincian; he has not been 
-near her since. 
+GIOVANELLI: He gave her up that day on the Pincian; he has not been near her since. 
 
-EUGENIO, aside. The Katkoff is really perfect! — though he comes to ask 
-about her every day. (Aloud.) Yes, but he wanted a reason: 
-now he has got his reason. 
+EUGENIO, <i>aside:</i> The Katkoff is really perfect! — though he comes to ask 
+about her every day. <i>(Aloud.)</i> Yes, but he wanted a reason: now he has got his reason. 
 
-GIOVANELLI, pretentiously. 
-I shall give him a better one than that!
+GIOVANELLI, <i>pretentiously:</i> I shall give him a better one than that!
 
-EUGENIO. He’s perfectly content with this one; and it must be 
+EUGENIO: He’s perfectly content with this one; and it must be 
 admitted it would suit most people. We must hope it will 
 suit Mr. Miller. 
 
-GIOVANELLI, gloomily. Ah, Mr. Miller? I seemed to see him there, too, in the 
-moonlight!
+GIOVANELLI, <i>gloomily:</i> Ah, Mr. Miller? I seemed to see him there, too, in the moonlight!
 
-EUGENIO. You’re afraid of him, and your fear makes images. What 
-did Miss Daisy do? 
-GIOVANELLI.
-After the American had left us? She held her tongue 
-till we got home. 
+EUGENIO: You’re afraid of him, and your fear makes images. What did Miss Daisy do?
 
-EUGENIO. 
-She said nothing about him? 
+GIOVANELLI: After the American had left us? She held her tongue till we got home. 
 
-GIOVANELLI. 
-Never a word, thank goodness! 
+EUGENIO: She said nothing about him? 
 
-EUGENIO, thoughtful a moment. 
-Cavaliere, you are very limited. 
+GIOVANELLI: Never a word, thank goodness! 
 
-GIOVANELLI. I verily believe I am, to stand here and answer your 
-questions. All this time you have told me nothing about
-my adored!
+EUGENIO, <i>thoughtful a moment:</i> Cavaliere, you are very limited. 
 
-EUGENIO. She is doing very well; it has been alight attack. She  
+GIOVANELLI: I verily believe I am, to stand here and answer your 
+questions. All this time you have told me nothing about my adored!
+
+EUGENIO: She is doing very well; it has been alight attack. She  
 has sat up these three days, and the doctor says she needs 
-only to be careful. But being careful doesn’t suit her;
-she’s in despair at missing the Carnival. 
+only to be careful. But being careful doesn’t suit her; she’s in despair at missing the Carnival. 
 
-GIOVANELLI, tenderly. Enchanting young person! Be so good as to give her 
-these flowers. Be careful of them, you know! 
+GIOVANELLI, <i>tenderly:</i> Enchanting young person! Be so good as to give her these flowers. Be careful of them, you know! 
 
-EUGENIO. I should think so — when I pay for them myself. 
+EUGENIO: I should think so — when I pay for them myself. 
 
-GIOVANELLI. And ask if I may come up and see her. 
+GIOVANELLI: And ask if I may come up and see her. 
 
-EUGENIO, looking at the bouquet. You get ’em handsome, I must say. — I don’t know what 
-the doctor would say to that. 
+EUGENIO, <i>looking at the bouquet:</i> You get ’em handsome, I must say. — I don’t know what the doctor would say to that. 
 
-GIOVANELLI, smiling. 
-Let me be the doctor. You’ll see! 
+GIOVANELLI, <i>smiling:</i> Let me be the doctor. You’ll see! 
 
-EUGENIO. 
-You’re certainly dangerous enough for one. But you 
-must wait till we go out — the mother and the brother
+EUGENIO: You’re certainly dangerous enough for one. But you must wait till we go out — the mother and the brother
 and I.
 
-GIOVANELLI. 
-Where are you going, at this hour?  
+GIOVANELLI: Where are you going, at this hour?  
 
-EUGENIO. To show that peevish little brat the illumination. 
+EUGENIO: To show that peevish little brat the illumination. 
 
-GIOVANELLI. Mrs. Miller leaves her daughter — at such a time? 
+GIOVANELLI: Mrs. Miller leaves her daughter — at such a time? 
  
-EUGENIO. Master Randolph is the head of the family. 
+EUGENIO: Master Randolph is the head of the family. 
 
-GIOVANELLI. I must get his consent to the marriage, then? 
+GIOVANELLI: I must get his consent to the marriage, then? 
 
-EUGENIO. You can get it with a pound of sugar plums. 
+EUGENIO: You can get it with a pound of sugar plums. 
 
-GIOVANELLI. 
-I’ll buy him a dozen to-morrow. 
+GIOVANELLI: I’ll buy him a dozen to-morrow. 
 
-EUGENIO. 
-And charge them to me, of course. 
+EUGENIO: And charge them to me, of course. 
 
-GIOVANELLI, stiffly. Please to open the door. I’ll wait in the hall till you go 
-out. (Eugenio opens the door, looks at him, and then passes out first. Gio- 
-vanelli follows. When they have left the room, Reverdy and Miss Durant come in 
-from the balcony.) 
-REVERDY, his finger on his lips.
-Hush, hush! She’s looking for the gentleman who 
-kissed his hand. 
+GIOVANELLI, <i>stiffly:</i> Please to open the door. I’ll wait in the hall till you go 
+out. <i>(Eugenio opens the door, looks at him, and then passes out first. Giovanelli follows. When they have left the room, Reverdy and Miss Durant come in from the balcony.)</i>
 
-MISS DURANT. When she kissed hers back, she frightened him away! 
+REVERDY, <i>his finger on his lips:</i> Hush, hush! She’s looking for the gentleman who kissed his hand. 
 
-REVERDY. I can’t stand that balcony business! I want to dance and 
-sing, in the midst of it, with a charming creature on my 
-arm ! 
-MISS DURANT. 
-I forbid you to touch any of your creatures! 
+MISS DURANT: When she kissed hers back, she frightened him away! 
 
-REVERDY. In the Carnival one may touch any one. All common 
-laws are suspended. 
+REVERDY: I can’t stand that balcony business! I want to dance and sing, in the midst of it, with a charming creature on my 
+arm!
 
-MISS DURANT. 
-Cousin Louisa won’t listen to that. 
+MISS DURANT: I forbid you to touch any of your creatures! 
 
-REVERDY. She’s a great deal worse than we herself - having an 
+REVERDY: In the Carnival one may touch any one. All common laws are suspended. 
+
+MISS DURANT: Cousin Louisa won’t listen to that. 
+
+REVERDY: She’s a great deal worse than we herself - having an 
 intrigue with a perfect stranger! Now’s our chance to escape; 
 before she misses us, we shall be a mile away. 
 
-MISS DURANT. A mile away is very far! You make me feel dreadfully 
-like Daisy Miller. 
+MISS DURANT: A mile away is very far! You make me feel dreadfully like Daisy Miller. 
 
-REVERDY. 
-To be perfect, all you want is to be a little like her. 
+REVERDY: To be perfect, all you want is to be a little like her. 
 
-MISS DURANT. 
-Oh, you wretch — I never! 
+MISS DURANT: Oh, you wretch — I never! 
 
-REVERDY. 
-There, now, you are just like her! 
+REVERDY: There, now, you are just like her! 
 
-MISS DURANT. I certainly am not used to being a wall-flower. 
+MISS DURANT: I certainly am not used to being a wall-flower. 
 
-REVERDY. A plant in a balcony is even worse. Come, come! here’s 
-the mask. 
-MISS DURANT.
-It’s very dreadful. I can’t bear to look so ugly ! 
+REVERDY: A plant in a balcony is even worse. Come, come! here’s 
+the mask.
 
-REVERDY. 
-Don’t I know how pretty you are? 
+MISS DURANT: It’s very dreadful. I can’t bear to look so ugly! 
 
-MISS DURANT, taking his arm, aside. 
-He can do anything with me he wants! (Exeunt. Enter 
-Daisy on the opposite side.) 
+REVERDY: Don’t I know how pretty you are? 
 
-SCENE THIRD. 
-DAISY ALONE; THEN WINTERBOURNE, A WAITER; MRS. 
-COSTELLO. 
+MISS DURANT, <i>taking his arm, aside:</i> He can do anything with me he wants! <i>(Exeunt. Enter 
+Daisy on the opposite side.)</i> 
 
-DAISY. She wears a light dressing-gown, like an invalid, and it must be apparent 
+<p align="center">SCENE THIRD. Daisy alone; then Winterbourne, a Waiter; Mrs. Costello.</p> 
+
+DAISY: <i>She wears a light dressing-gown, like an invalid, and it must be apparent 
 that she has been ill, though this appearance must not be exaggerated. She 
-wanders slowly into the room, and pauses in the middle. 
+wanders slowly into the room, and pauses in the middle.</i> 
 
 Ah, from here the music is very distinct — and the voices 
 of the crowd, and all the sound of the fete. Upstairs, in our 
 rooms, you can hear it just dimly. That’s the way it seemed 
 to me — just faint and far — as I lay there with darkened 
-windows. It’s hard to be sick when there’s so much plea-
-sure going on, especially when you’re so fond of pleasure as 
+windows. It’s hard to be sick when there’s so much pleasure going on, especially when you’re so fond of pleasure as 
 poor silly me! Perhaps I’m too fond; that’s one of the 
-things I thought of as I lay there. I thought of so many — 
-and some of them so sad — as I listened to the far-away 
+things I thought of as I lay there. I thought of so many — and some of them so sad — as I listened to the far-away 
 Carnival. I think it was this that helped me to get better. 
 I was afraid I had been bad, and I wanted to live to be good 
 again. I was afraid I should die, and I didn’t want to die. 
 But I’m better now, and I can walk and do everything I 
-want. (Listening again.) Every now and then it grows louder, 
+want. <i>(Listening again.)</i> Every now and then it grows louder, 
 as if the people were so happy! It reminds me of that 
 poetry I used to learn at school, “There was a sound of 
 revelry by night.” That’s a sound I always wanted to hear. 
@@ -4010,95 +3959,69 @@ out, I couldn’t stay there alone. I waited a little; I was
 afraid of meeting some one on the stairs. But every one is 
 in the streets, and they have gone to see the illumination. 
 I thought of that balcony: just to look out a little is better 
-than nothing. (Listens again a moment.) Every now and then it
-increases.  (Goes to the window, but seeing Mrs. Costello outside comes back.) 
-Ah, there’s some one there; and with this old wrapper…  
-(Looking at her dressing-gown.) Perhaps the night air isn’t good 
+than nothing. <i>(Listens again a moment.)</i> Every now and then it
+increases.  <i>(Goes to the window, but seeing Mrs. Costello outside comes back.)</i> 
+Ah, there’s some one there; and with this old wrapper...
+<i>(Looking at her dressing-gown.)</i> Perhaps the night air isn’t good 
 for me; the doctor forbids the night air. Ah, what a pity 
-It’s the last evening (Goes to the window again, and while she stands 
-there a waiter throws open the door and ushers in Winterbourne, who at first does not see her.) 
+It’s the last evening! <i>(Goes to the window again, and while she stands 
+there a waiter throws open the door and ushers in Winterbourne, who at first does not see her.)</i> 
 
-WAITER. The ladies are here, sir. (Surprised not to find them.) Excuse 
-me. I saw them come in with Mr. Reverdy, but they have 
-gone out again. 
+WAITER: The ladies are here, sir. <i>(Surprised not to find them.)</i> Excuse 
+me. I saw them come in with Mr. Reverdy, but they have gone out again. 
 
-WINTERBOURNE. It’s not those ladies I want. Please to ask Madame de 
-Katkoff if she can see me. 
+WINTERBOURNE: It’s not those ladies I want. Please to ask Madame de Katkoff if she can see me. 
 
-THE WAITER. 
-Won’t you go up to her sitting-room? She has a great
-many guests. 
+THE WAITER: Won’t you go up to her sitting-room? She has a great many guests. 
 
-WINTERBOURNE, annoyed. 
-A great many guests? 
+WINTERBOURNE, <i>annoyed:</i> A great many guests? 
  
-THE WAITER. A party of friends, who have come to see the fete from one 
-of her windows. Her parlor is in the Square, and the view 
-is even finer than from here. 
+THE WAITER: A party of friends, who have come to see the fete from one 
+of her windows. Her parlor is in the Square, and the view is even finer than from here. 
 
-WINTERBOURNE. I know all about her parlor. (Aside.) It’s hateful to see 
-her with a lot of others! (Aloud.) Ask her if she will 
-kindly speak to me here. 
+WINTERBOURNE: I know all about her parlor. <i>(Aside.)</i> It’s hateful to see 
+her with a lot of others! <i>(Aloud.)</i> Ask her if she will kindly speak to me here. 
 
-THE WAITER. 
-Ah, you lose a great deal, sir! (Exit.) 
+THE WAITER: Ah, you lose a great deal, sir! <i>(Exit.)</i> 
 
-WINTERBOURNE. The servants in this place are impossible; the young 
+WINTERBOURNE: The servants in this place are impossible; the young 
 Randolph has demoralized them all! That’s the same 
 fellow who, last summer, wanted to give me a definition of 
-my aunt. (Seeing Daisy.) Ah, that poor creature! (Aloud.) 
-I am afraid I am intruding on you here. 
+my aunt. <i>(Seeing Daisy.)</i> Ah, that poor creature! <i>(Aloud.)</i> I am afraid I am intruding on you here. 
 
-DAISY, coming forward. 
-You have as good a right here as I. I don’t think I have 
-any. 
+DAISY, <i>coming forward:</i> You have as good a right here as I. I don’t think I have any. 
 
-WINTERBOURNE. You mean as an invalid? I am very happy to see you 
-better. 
+WINTERBOURNE: You mean as an invalid? I am very happy to see you better. 
 
-DAISY. 
-Thank you. I’m very well. 
+DAISY: Thank you. I’m very well. 
 
-WINTERBOURNE. I asked about you every day. 
+WINTERBOURNE: I asked about you every day. 
 
-DAISY. 
-They never told me. 
+DAISY: They never told me. 
 
-WINTERBOURNE. 
-That was your faithful courier!
+WINTERBOURNE: That was your faithful courier!
 
-DAISY. He was so frightened at my illness that he couldn’t 
-remember anything. 
+DAISY: He was so frightened at my illness that he couldn’t remember anything. 
 
-WINTERBOURNE. Oh, yes, he was terribly afraid he should lose you. For 
-a couple of days it was very serious.
+WINTERBOURNE: Oh, yes, he was terribly afraid he should lose you. For a couple of days it was very serious.
 
-DAISY. 
-How do you know that?
+DAISY: How do you know that?
 
-WINTERBOUBNE. 
-I asked the doctor. 
+WINTERBOUBNE: I asked the doctor. 
 
-DAISY, aside. He’s very strange. Why should he care? 
+DAISY, <i>aside:</i> He’s very strange. Why should he care? 
    
-WINTERBOURNE. He said you had done what might kill you. 
+WINTERBOURNE: He said you had done what might kill you. 
 
-DAISY. 
-At the Coliseum? 
+DAISY: At the Coliseum? 
 
-WINTERBOURNE. 
-At the Coliseum. 
+WINTERBOURNE: At the Coliseum. 
 
-DAISY. 
-Why didn’t you tell me that, when you saw me there? 
+DAISY: Why didn’t you tell me that, when you saw me there? 
 
-WINTERBOURNE. 
-Because you had an adviser in whom you have much more 
-faith.
+WINTERBOURNE: Because you had an adviser in whom you have much more faith.
 
-MISS DURANT. *(maybe DAISY here)*
-Mr. Giovanelli? Oh, it’s not his fault. He begged me
-to come away. 
+DAISY<sub>1</sub>: Mr. Giovanelli? Oh, it’s not his fault. He begged me to come away. 
  
 WINTERBOURNE. If you didn’t mind him, you wouldn’t have minded me. 
 
