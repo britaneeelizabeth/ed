@@ -4082,7 +4082,7 @@ DAISY: I have nothing to do here. <i>(Goes toward the door, but stops halfway, l
 
 WINTERBOURNE, <i>smiling:</i> To dangerous consequences? Never! 
  
- DAISY: She comes down again, as if unable to decide to leave him. <i>Aside.</i> I’m determined to know what he thinks. <i>(Aloud, in a different tone.)</i> I was going out on the balcony, to see what’s going on. 
+DAISY: She comes down again, as if unable to decide to leave him. <i>Aside.</i> I’m determined to know what he thinks. <i>(Aloud, in a different tone.)</i> I was going out on the balcony, to see what’s going on. 
 
 WINTERBOURNE: Are you not afraid of the night air? 
 
@@ -4165,7 +4165,7 @@ bribed that monster to kiss his hand? <i>(Exeunt.)</i>
 <p align="center">SCENE FOURTH. Giovanelli, Daisy.<br> 
 <i>He enters the room, and she comes in from the balcony at the same 
 moment. He advances with a radiant smile, takes both of her hands, 
-holds them for a moment devotedly, then kisses each of them.</i> 
+holds them for a moment devotedly, then kisses each of them.</i></p> 
 
 GIOVANELLI: Carissima signorina! When I see you restored to health, I begin to live myself! 
 
