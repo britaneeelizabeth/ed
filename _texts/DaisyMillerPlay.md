@@ -3702,10 +3702,9 @@ going on outside, and the flare of torches, the sound of voices and of
 music, the uproar of a popular festival, come into the room, rising 
 and falling at intervals during the whole act.</p> 
 
-SCENE FIRST. 
-MRS. COSTELLO, MISS DURANT, CHARLES REVERDY. 
-He comes in first at the left, holding the door open for the others to 
-follow. 
+<p align="center">SCENE FIRST. Mrs. Costello, Miss Durant, Charles Reverdy.<br> 
+<i>He comes in first at the left, holding the door open for the others to 
+follow.</i></p> 
 
 REVERDY. You can see very well from this balcony, if you won’t go 
 down into the street. 
