@@ -22,7 +22,7 @@ toc:
 <p>The process of making this edition available here included taking pictures of the pages, using OCR (Optical Character Recognition), correcting the OCR, and editing the file in GitHub, which is an online repository for different files. The bigger picture of this project is to make more texts that are accessible and reliable online.</p>
 <p>I kept to the format of the original text as much as possible, but a few changes had to be made to accommodate the Jekyll theme. Other changes include the alteration of “Miss Durant” to “Daisy” in the third scene of act three and the changing of hyphenated words due to line format changes.</p><br>
 Britanee Smith<br>
-
+<br>
 Sources:<br>
 1.	Gale, Robert L. _A Henry James Encyclopedia_. Greenwood Press, 1989.  
 2.  Wortman, William A. "A Production Of Daisy Miller: A Comedy." _Henry James Review_, vol 34, no. 2 (2013), _MLA          International Bibliography_. 197-199.
