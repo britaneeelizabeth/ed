@@ -34,7 +34,7 @@ Sources:<br>
 <p class="centered">A Comedy</p>
 <p class="centered">In Three Acts</p>
 <br>
-![My image](https://cloud.githubusercontent.com/assets/23461839/20862312/c4dd71ba-b96c-11e6-9382-bc65f07d96f3.jpg)
+<p align="center">![My image](https://cloud.githubusercontent.com/assets/23461839/20862312/c4dd71ba-b96c-11e6-9382-bc65f07d96f3.jpg)</p>
 <p class="centered large">BOSTON</p>
 <p class="centered">JAMES R. OSGOOD AND COMPANY</p>
 <p class="centered small">1883</p>
