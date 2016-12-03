@@ -5090,9 +5090,7 @@ DAISY, <i>with her eyes still closed:</i> I shall be better — but you mustn't 
 WINTERBOURNE: Never again, Daisy — never again! <i>(At this moment Eugenio 
 strides into the room by the door opposite to the one through which Giovanelli has gone out.)</i> 
 
-SCENE NINTH. 
-WINTERBOURNE, DAISY, EUGENIO, MADAME DE KAT- 
-KOFF; THEN RANDOLPH, AND ALL THE OTHERS. 
+<p align="center">SCENE NINTH. Winterbourne, Daisy, Eugenio, Madame de Katkoff; then Randolph, and all the others.</p> 
 
 EUGENIO, looking amazed at Daisy and Winterbourne. What, does this mean? What horrible thing has hap— 
 pened? 
