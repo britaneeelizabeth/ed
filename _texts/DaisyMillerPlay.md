@@ -5092,148 +5092,116 @@ strides into the room by the door opposite to the one through which Giovanelli h
 
 <p align="center">SCENE NINTH. Winterbourne, Daisy, Eugenio, Madame de Katkoff; then Randolph, and all the others.</p> 
 
-EUGENIO, looking amazed at Daisy and Winterbourne. What, does this mean? What horrible thing has hap— 
-pened? 
+EUGENIO, <i>looking amazed at Daisy and Winterbourne:</i> What, does this mean? What horrible thing has happened? 
 
-186 
-DAISY MILLER: A COMEDY. 
-
-WINTERBOURNE, on his feet. You will learn what has happened quite soon enough to 
+WINTERBOURNE, <i>on his feet:</i> You will learn what has happened quite soon enough to 
 please you! But in the meanwhile, it is decent that this 
-young lady should see her mother. (While he speaks, Madame de 
+young lady should see her mother. <i>(While he speaks, Madame de 
 Katkoff comes back and takes her place at Daisy’s side, where she stands with her 
-eyes fixed upon Eugenio.)
+eyes fixed upon Eugenio.)</i>
 
-EUGENIO. Her mother is not important: Miss Miller is in my care. 
+EUGENIO: Her mother is not important: Miss Miller is in my care. 
 Cara signorina, do you suffer? 
 
-DAISY, vaguely. Poor mother, poor mother! She has gone to the Car- 
-nival. 
+DAISY, <i>vaguely:</i> Poor mother, poor mother! She has gone to the Carnival. 
 
-EUGENIO. She came home half an hour ago. She has gone to bed. 
+EUGENIO: She came home half an hour ago. She has gone to bed. 
 
-MADAME DE KATKO'FF. Don’t you think there would be a certain propriety in your 
-requesting her to get up? (Randolph comes at this moment, hearing 
-Madame de Katkoff’s words.) 
-RANDOLPH. 
-She is getting up, you can bet your life! She’s going to 
-give it to Daisy. 
+MADAME DE KATKOFF: Don’t you think there would be a certain propriety in your 
+requesting her to get up? <i>(Randolph comes at this moment, hearing 
+Madame de Katkoff’s words.)</i>
 
-MADAME DE KATKOFF. 
-Come and speak to your sister. She has been very ill. 
-(She draws Randolph towards her, and keeps him near her.) 
+RANDOLPH: She is getting up, you can bet your life! She’s going to give it to Daisy. 
 
-DAISY, smiling languidly at her brother. 
-You are up very late — very late. 
+MADAME DE KATKOFF: Come and speak to your sister. She has been very ill. 
+<i>(She draws Randolph towards her, and keeps him near her.)</i> 
 
-RANDOLPH. I can’t sleep — over here! I’ve been talking to that 
-waiter. 
+DAISY, <i>smiling languidly at her brother:</i> You are up very late — very late. 
 
-EUGENIO, anxious. I don’t see the Cavaliere. Where is be gone? 
+RANDOLPH: I can’t sleep — over here! I’ve been talking to that waiter. 
 
-RANDOLPH. He came up to tell mother, and I came back ahead of 
-him. (To Giovanelli, who at this moment returns.) Hallo, Cavaliere! 
+EUGENIO, <i>anxious:</i> I don’t see the Cavaliere. Where is be gone? 
 
-GIOVANELLI, solemnly, coming in. Mrs. Miller is dressing. She will presently arrive. 
+RANDOLPH: He came up to tell mother, and I came back ahead of 
+him. <i>(To Giovanelli, who at this moment returns.)</i> Hallo, Cavaliere! 
 
-MADAME DE KATKOFF, to Randolph. Go and help your mother, and tell her your sister is 
+GIOVANELLI, <i>solemnly, coming in:</i> Mrs. Miller is dressing. She will presently arrive. 
+
+MADAME DE KATKOFF, <i>to Randolph:</i> Go and help your mother, and tell her your sister is 
 better. 
 
-RANDOLPH. 
-I’ll tell her through the door — or she’ll put me to bed!
-(Marches away.) 
+RANDOLPH: I’ll tell her through the door — or she’ll put me to bed!
+<i>(Marches away.)</i> 
 
-GIOVANELLI, approaching Eugenio, aside. 
-I shall never have the girl! 
+GIOVANELLI, <i>approaching Eugenio, aside:</i> I shall never have the girl! 
 
-EUGENIO. You had better have killed her! (Aside.) He shall pay 
-me for his flowers! (Reenter Reverdy.) 
+EUGENIO: You had better have killed her! <i>(Aside.)</i> He shall pay me for his flowers! <i>(Reenter Reverdy.)</i> 
 
-REVERDY. The doctor will be here in five minutes. 
+REVERDY: The doctor will be here in five minutes. 
 
-MADAME DE KATKOFF. 
-He will not be necessary now; nor even (seeing Mrs. Costello 
-come back with a little bottle, and accompanied by Miss Durant) this lady’s 
+MADAME DE KATKOFF: He will not be necessary now; nor even <i>(seeing Mrs. Costello 
+come back with a little bottle, and accompanied by Miss Durant)</i> this lady’s 
 precious elixir! 
 
-MRS. COSTELLO, approaching Daisy, rather stiffly. 
-Perhaps you would like to hold it to your nose. 
+MRS. COSTELLO, <i>approaching Daisy, rather stiffly:</i> Perhaps you would like to hold it to your nose. 
 
-DAISY, takes the phial, looking at Mrs. Costello with a little smile. 
-Well, I was bound you should speak to me! 
+DAISY, <i>takes the phial, looking at Mrs. Costello with a little smile:</i> Well, I was bound you should speak to me! 
 
-REVERDY. And without a presentation, after all! 
+REVERDY: And without a presentation, after all! 
 
-WINTERBOURNE. Oh yes, I must present. (To his aunt.) I present you my 
-wife! 
-GIOVANELLI, starting; then recovering himself and folding his arms. 
-I congratulate you, Mademoiselle, on your taste for the 
-unexpected. 
+WINTERBOURNE: Oh yes, I must present. <i>(To his aunt.)</i> I present you my wife!
 
-DAISY. Well, it is unexpected. But I never deceived you! 
+GIOVANELLI, <i>starting; then recovering himself and folding his arms:</i> I congratulate you, Mademoiselle, on your taste for the unexpected. 
 
-GIOVANELLI. Oh, no, you haven’t deceived me: you have only ruined 
-me! 
+DAISY: Well, it is unexpected. But I never deceived you! 
 
-DAISY. Poor old Giovanelli! Well, you’ve had a good time. 
+GIOVANELLI: Oh, no, you haven’t deceived me: you have only ruined me! 
 
-MRS. COSTELLO, impressively, to Winterbourne. 
-Your wife? 
+DAISY: Poor old Giovanelli! Well, you’ve had a good time. 
 
-WINTERBOURNE. 
-My dear aunt, she has stood the test! 
+MRS. COSTELLO, <i>impressively, to Winterbourne:</i> Your wife? 
 
-EUGENIO, who has walked round to Madame de Katkoff, in a low tone. 
-You haven’t kept the terms of our bargain. 
+WINTERBOURNE: My dear aunt, she has stood the test! 
 
-MADAME DE KATKOFF. I am sick of your bargain — and of you! 
+EUGENIO, <i>who has walked round to Madame de Katkoff, in a low tone:</i> You haven’t kept the terms of our bargain. 
 
-EUGENIO. (He eyes her a moment; then, vindictively.) 
-I shall give your letter to Mr. Winterbourne. 
+MADAME DE KATKOFF: I am sick of your bargain — and of you! 
 
-MADAME DE KATKOFF. Coward! (Aside, joyously.) And Mr. Winterbourne will 
-give it to me. 
+EUGENIO. <i>(He eyes her a moment; then, vindictively.):</i> I shall give your letter to Mr. Winterbourne. 
 
-GIOVANELLI, beside Eugenio. 
-You must find me another heiress. 
+MADAME DE KATKOFF: Coward! <i>(Aside, joyously.)</i> And Mr. Winterbourne will give it to me. 
 
-EUGENIO. I thought you said you had had enough.  
+GIOVANELLI, <i>beside Eugenio:</i> You must find me another heiress. 
 
-GIOVANELLI. I have been thinking over my debts. 
+EUGENIO: I thought you said you had had enough.  
 
-EUGENIO. We will see, then, with my next family. On the same 
-terms, eh? 
+GIOVANELLI: I have been thinking over my debts. 
 
-GIOVANELLI. Ah, no; I don’t want a rival! (Reenter Mrs. Walker.) 
+EUGENIO: We will see, then, with my next family. On the same terms, eh? 
 
-MRS. WALKER, to Daisy. I can’t find the Consul; but as you’re better it doesn’t 
-matter. 
+GIOVANELLI: Ah, no; I don’t want a rival! <i>(Reenter Mrs. Walker.)</i> 
 
-DAISY. I don’t want the Consul: I want my mother. 
+MRS. WALKER, <i>to Daisy:</i> I can’t find the Consul; but as you’re better it doesn’t matter. 
 
-MRS. WALKER. 
-I went to her room as well. Randolph had told her you 
-were better, and so - and so — (Pausing, a little embarrassed, and 
-looking round the circle.) 
+DAISY: I don’t want the Consul: I want my mother. 
 
-DAISY.
-She isn’t coming?  
+MRS. WALKER: I went to her room as well. Randolph had told her you 
+were better, and so - and so — <i>(Pausing, a little embarrassed, and looking round the circle.)</i> 
 
-MRS. WALKER. 
-She has gone back to bed! 
+DAISY: She isn’t coming?  
 
-MRS. COSTELLO. 
-They are queer people, all the same! 
+MRS. WALKER: She has gone back to bed! 
 
-MISS DURANT, to Mrs. Costello. 
-Shall we start for America now? 
+MRS. COSTELLO: They are queer people, all the same! 
 
-REVERDY. Of course we shall — to be married!  
+MISS DURANT, <i>to Mrs. Costello:</i> Shall we start for America now? 
 
-WINTERBOURNE, laying his hand on Reverdy’s shoulder. We shall be married the same day. (To Daisy.) Shall we 
-not, Daisy — in America? 
-DAISY, who has risen to her feet, leaning on his arm. 
-Oh, yes; you ought to go home!
+REVERDY: Of course we shall — to be married!  
+
+WINTERBOURNE, <i>laying his hand on Reverdy’s shoulder:</i> We shall be married the same day. <i>(To Daisy.)</i> Shall we 
+not, Daisy — in America?
+
+DAISY, <i>who has risen to her feet, leaning on his arm:</i> Oh, yes; you ought to go home!
 
 ---
 
