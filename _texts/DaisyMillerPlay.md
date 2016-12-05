@@ -5217,6 +5217,10 @@ not, Daisy — in America?
 DAISY, <i>who has risen to her feet, leaning on his arm:</i> Oh, yes; you ought to go home!
 
 ---
+<a id="how-to-cite-this" />
+CITATION INFORMATION: MLA 8th Edition<br>
+James, Henry. Daisy Miller: A Comedy in Three Acts (1883). Digital Editions of Henry James, edited by Britanee Smith, GitHub, 2016, github. britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay
+---
 
 Copyright, 1883, 
 By Houghton, Mifflin and Company, and James R. Osgood and Company. 
