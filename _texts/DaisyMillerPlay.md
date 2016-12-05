@@ -21,9 +21,9 @@ toc:
 <p>Henry James’s <i>Daisy Miller: A Comedy</i> was first published in <i>The Atlantic Magazine</i> in the spring of 1883. Shortly after, James R. Osgood published the play in the same year. Daisy Miller is better known as a short story and appeared as <i>Daisy Miller: A Study</i> in the June-July 1878 edition of the <i>Cornhill Magazine</i>. The novella was reprinted by Harper in New York in 1878, appeared in Macmillan’s edition of <i>Daisy Miller: A Study</i>, <i>An International Episode</i>, "Four Meetings", in 1879 and was revised and reprinted in 1909 in <i>The Novels and Tales of Henry James</i>, Volume XVIII. Henry James first dramatized the play in 1882, but the play was rejected and privately printed by himself in order to preserve the copyright. A later publication by Houghton Mifflin, an imprint of Osgood, kept the play in print into the 1920’s.</p> 
 <p>The process of making this edition available here included taking pictures of the pages, using OCR (Optical Character Recognition), correcting the OCR, and editing the file in GitHub, which is an online repository for different files. The bigger picture of this project is to make more texts that are accessible and reliable online.</p>
 <p>I kept to the format of the original text as much as possible, but a few changes had to be made to accommodate the Jekyll theme. Other changes include the alteration of “Miss Durant” to “Daisy” in the third scene of act three and the changing of hyphenated words due to line format changes.</p><br>
-<i>Britanee Smith  
+<i>Britanee Smith</i>  
 
-College Station, Tx, 2016</i><br>
+<i>College Station, Tx, 2016</i><br>
 <br>
 Sources:<br>
 1.	Gale, Robert L. _A Henry James Encyclopedia_. Greenwood Press, 1989.  
