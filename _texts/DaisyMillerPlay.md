@@ -5220,7 +5220,8 @@ Copyright, 1883,
 By Houghton, Mifflin and Company, and James R. Osgood and Company. 
 All rights reserved. 
 Cambridge: University Press, John Wilson & Son. 
----
+***
+
 <a id="how-to-cite-this"/>
 
 CITATION INFORMATION: MLA 8th Edition<br>
