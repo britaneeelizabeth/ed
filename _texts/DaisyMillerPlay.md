@@ -37,7 +37,7 @@ Sources:<br>
 <p class="centered">In Three Acts</p>
 <br>
 <p align="center">
-<img src="https://cloud.githubusercontent.com/assets/23461839/20862312/c4dd71ba-b96c-11e6-9382-bc65f07d96f3.jpg"/>
+<img src="https://cloud.githubusercontent.com/assets/23461839/20900802/4ecdb19e-baf5-11e6-88c6-7e6f5373bcba.jpg"/>
 </p>
 <p class="centered large">BOSTON</p>
 <p class="centered">JAMES R. OSGOOD AND COMPANY</p>
